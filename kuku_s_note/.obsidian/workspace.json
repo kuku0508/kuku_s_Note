@@ -76,8 +76,13 @@
             "id": "8b6a46c1fe91b8b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/矩陣.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -147,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "程式語言/Latex/語法表/矩陣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "程式語言/Latex/語法表/矩陣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "程式語言/Latex/語法表/矩陣.md"
+              }
             }
           },
           {
