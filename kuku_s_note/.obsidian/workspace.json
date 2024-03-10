@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "c6f51cbd71b762ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "c27f7c03fcbd21a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7bd4b1c5792d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/交集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4c784df3cc30dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/上標.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "126bd7b2cdc34763",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/sideset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da0d3627f83e46df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/begin...end.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c80c0d03a6f442c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/begin...end.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b6a46c1fe91b8b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79d081944a826f53",
+    "type": "split",
+    "children": [
+      {
+        "id": "32beda51556d64d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "418f87f864239790",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c1eb8eaa520f8c0b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#markdown",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f77d61cd010fee6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e2f35858b280e10",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a5f8aa796116c0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a53ff68b113ea94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7381e23a6fc9d6fa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9b0c75fcff2fc7c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c0a78a5e406f307",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "90d7a9af941e07fc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "698a28f3ddcf431f",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "fbda357cb10df8bd",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "086de97f543941c7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "8b6a46c1fe91b8b9",
+  "lastOpenFiles": [
+    "程式語言/Latex/語法表/刪除線.md",
+    "程式語言/Latex/語法表/特殊符號.md",
+    "程式語言/Latex/語法表/其他符號.md",
+    "程式語言/Latex/語法表/分數.md",
+    "程式語言/Latex/語法表/字體.md",
+    "程式語言/Latex/語法表/自定義算子.md",
+    "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/積分.md",
+    "程式語言/Latex/語法表/聯集.md",
+    "程式語言/Latex/語法表/邏輯運算.md",
+    "程式語言/Latex/語法表/關係符號.md",
+    "程式語言/Latex/語法表/begin...end.md",
+    "程式語言/Latex/語法表/().md",
+    "程式語言/Latex/語法表/條件表達式.md",
+    "程式語言/Latex/語法表/矩陣.md",
+    "程式語言/Latex/語法表/sideset.md",
+    "程式語言/Latex/語法表/三角函數.md",
+    "程式語言/Latex/語法表/大括號｛｝.md",
+    "程式語言/Latex/語法表/大括號與行標.md",
+    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+    "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
+    "程式語言/Latex/語法表/向量.md",
+    "程式語言/Latex/語法表/尖括號〈〉.md",
+    "程式語言/Latex/語法表/空格.md",
+    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
+    "程式語言/Latex/語法表/級數.md",
+    "附件/Pasted image 20240310092647.png",
+    "附件/Pasted image 20240310092637.png",
+    "附件/Pasted image 20240309102025.png",
+    "附件",
+    "程式語言/Latex/語法表"
+  ]
+}
