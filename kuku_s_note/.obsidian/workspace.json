@@ -84,9 +84,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fe482ac810b9ae2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/表格.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -152,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/條件表達式.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/條件表達式.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/條件表達式.md"
+                "file": "程式語言/Latex/語法表/表格.md"
               }
             }
           },
@@ -251,8 +264,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b6a46c1fe91b8b9",
+  "active": "fe482ac810b9ae2a",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/條件表達式.md",
+    "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/刪除線.md",
@@ -268,7 +283,6 @@
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/().md",
-    "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/sideset.md",
     "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
@@ -278,7 +292,6 @@
     "程式語言/Latex/語法表/向量.md",
     "程式語言/Latex/語法表/尖括號〈〉.md",
     "程式語言/Latex/語法表/空格.md",
-    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
