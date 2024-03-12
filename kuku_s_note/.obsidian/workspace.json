@@ -110,22 +110,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "420e6669934d0b1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/連分數.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -191,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/連分數.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/連分數.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/連分數.md"
+                "file": "程式語言/Latex/語法表/表格.md"
               }
             }
           },
@@ -290,13 +277,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "420e6669934d0b1c",
+  "active": "637571167dcbd371",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/連分數.md",
-    "程式語言/Latex/語法表/文字顏色.md",
-    "程式語言/HTML/語法表/文字顏色.md",
     "程式語言/Latex/語法表/備註.md",
+    "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/Latex語法表.md",
@@ -318,6 +303,8 @@
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/大括號與行標.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+    "程式語言/Latex/語法表/向下取整 ⌊ ⌋.md",
+    "程式語言/Latex/語法表/向量.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
