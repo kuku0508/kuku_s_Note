@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "統計/樣本.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/樣本.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/樣本.md",
+                "file": "程式語言/Latex/語法表/表格.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/樣本.md"
+                "file": "程式語言/Latex/語法表/表格.md"
               }
             }
           },
@@ -305,6 +305,7 @@
   },
   "active": "f3d4156b805ff8e0",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/方程組.md",
     "統計/母體.md",
     "統計/樣本.md",
     "程式語言/Latex/語法表/上標.md",
@@ -321,7 +322,6 @@
     "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/連分數.md",
-    "程式語言/Latex/語法表/方程組.md",
     "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/邏輯運算.md",
     "程式語言/Latex/語法表/微分.md",
