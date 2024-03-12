@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "程式語言/Latex/語法表/箭頭.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "447ace9c74d28e13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "統計/母體.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,7 +124,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "統計/母體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "統計/母體.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md"
+                "file": "統計/母體.md"
               }
             }
           },
@@ -276,10 +290,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7bd4b1c5792d7c8",
+  "active": "447ace9c74d28e13",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/上標.md",
+    "統計/母體.md",
     "程式語言/Latex/語法表/箭頭.md",
-    "程式語言/Latex/語法表/未命名.md",
+    "統計",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/關係符號.md",
     "程式語言/Latex/語法表/特殊符號.md",
@@ -287,7 +303,6 @@
     "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/交集.md",
-    "程式語言/Latex/語法表/上標.md",
     "程式語言/Latex/語法表/sideset.md",
     "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/條件表達式.md",
@@ -303,7 +318,6 @@
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/Latex語法表.md",
-    "程式語言/Latex/語法表/刪除線.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
