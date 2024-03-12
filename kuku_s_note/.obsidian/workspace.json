@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md",
+                "file": "程式語言/Latex/語法表/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/begin...end.md"
+                "file": "程式語言/Latex/語法表/未命名.md"
               }
             }
           },
@@ -318,13 +318,13 @@
   },
   "active": "bb649717017e52ca",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/begin...end.md",
+    "程式語言/Latex/語法表/未命名.md",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/矩陣.md",
-    "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/聯集.md",
     "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/未命名.md",
     "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/備註.md",
     "程式語言/Latex/語法表/開方√.md",
