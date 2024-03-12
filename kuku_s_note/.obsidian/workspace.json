@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "程式語言/Latex/語法表/希臘字母.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "程式語言/Latex/語法表/希臘字母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md",
+                "file": "程式語言/Latex/語法表/希臘字母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/未命名.md"
+                "file": "程式語言/Latex/語法表/希臘字母.md"
               }
             }
           },
@@ -319,14 +319,16 @@
   "active": "bb649717017e52ca",
   "lastOpenFiles": [
     "程式語言/Latex/語法表/關係符號.md",
+    "程式語言/Latex/語法表/邏輯運算.md",
+    "程式語言/Latex/語法表/箭頭圖表.md",
+    "程式語言/Latex/語法表/其他符號.md",
+    "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/未命名.md",
     "程式語言/Latex/語法表/begin...end.md",
     "程式語言/Latex/語法表/hat(頭上長東西的).md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/語法表/聯集.md",
-    "程式語言/Latex/語法表/微分.md",
     "程式語言/Latex/語法表/極限.md",
-    "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/備註.md",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/方程組.md",
@@ -336,13 +338,11 @@
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/刪除線.md",
     "程式語言/Latex/語法表/特殊符號.md",
-    "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/分數.md",
     "程式語言/Latex/語法表/字體.md",
     "程式語言/Latex/語法表/自定義算子.md",
     "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/積分.md",
-    "程式語言/Latex/語法表/邏輯運算.md",
     "程式語言/Latex/語法表/().md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
