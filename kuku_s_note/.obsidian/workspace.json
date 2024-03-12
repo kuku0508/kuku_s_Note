@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/表格.md",
+                "file": "程式語言/Latex/語法表/連分數.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/表格.md",
+                "file": "程式語言/Latex/語法表/連分數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/表格.md",
+                "file": "程式語言/Latex/語法表/連分數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/表格.md"
+                "file": "程式語言/Latex/語法表/連分數.md"
               }
             }
           },
@@ -279,9 +279,9 @@
   },
   "active": "637571167dcbd371",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/連分數.md",
     "程式語言/Latex/語法表/備註.md",
-    "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/Latex語法表.md",
