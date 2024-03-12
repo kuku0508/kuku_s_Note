@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/開方√.md",
+                "file": "程式語言/Latex/語法表/箭頭圖表.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/開方√.md",
+                "file": "程式語言/Latex/語法表/箭頭圖表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/開方√.md",
+                "file": "程式語言/Latex/語法表/箭頭圖表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/開方√.md"
+                "file": "程式語言/Latex/語法表/箭頭圖表.md"
               }
             }
           },
@@ -305,11 +305,12 @@
   },
   "active": "76efa7deb17da9d1",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/備註.md",
+    "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/方程組.md",
     "程式語言/Latex/語法表/連分數.md",
     "程式語言/Latex/語法表/表格.md",
-    "程式語言/Latex/語法表/備註.md",
     "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/Latex語法表.md",
@@ -330,7 +331,6 @@
     "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
     "程式語言/Latex/語法表/大括號與行標.md",
-    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
