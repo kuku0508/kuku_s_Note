@@ -136,9 +136,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb649717017e52ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "程式語言/Latex/語法表/begin...end.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -204,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/箭頭圖表.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/箭頭圖表.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/箭頭圖表.md"
+                "file": "程式語言/Latex/語法表/begin...end.md"
               }
             }
           },
@@ -303,11 +316,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "76efa7deb17da9d1",
+  "active": "bb649717017e52ca",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/未命名.md",
+    "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/備註.md",
     "程式語言/Latex/語法表/開方√.md",
-    "程式語言/Latex/語法表/箭頭圖表.md",
     "程式語言/Latex/語法表/方程組.md",
     "程式語言/Latex/語法表/連分數.md",
     "程式語言/Latex/語法表/表格.md",
@@ -330,7 +344,6 @@
     "程式語言/Latex/語法表/sideset.md",
     "程式語言/Latex/語法表/三角函數.md",
     "程式語言/Latex/語法表/大括號｛｝.md",
-    "程式語言/Latex/語法表/大括號與行標.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
