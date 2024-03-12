@@ -199,7 +199,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/箭頭.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/箭頭.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,9 +236,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "程式語言/Latex/語法表/箭頭.md"
-              }
+              "state": {}
             }
           },
           {
@@ -300,9 +296,9 @@
   },
   "active": "f3d4156b805ff8e0",
   "lastOpenFiles": [
+    "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/文字顏色.md",
-    "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/條件表達式.md",
     "程式語言/Latex/語法表/方程組.md",
     "統計/母體.md",
