@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "統計/樣本統計量.md",
+                "file": "統計/母體參數.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -225,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/樣本統計量.md",
+                "file": "統計/母體參數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/樣本統計量.md",
+                "file": "統計/母體參數.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/樣本統計量.md"
+                "file": "統計/母體參數.md"
               }
             }
           },
@@ -326,10 +326,10 @@
   },
   "active": "eef3631b4560b367",
   "lastOpenFiles": [
+    "統計/母體.md",
     "統計/樣本統計量.md",
     "統計/樣本.md",
     "統計/母體參數.md",
-    "統計/母體.md",
     "程式語言/Latex/Latex語法表.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/文字顏色.md",
