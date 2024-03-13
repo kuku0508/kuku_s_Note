@@ -165,10 +165,8 @@
             "id": "4f0084f44f0b17cb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -238,7 +236,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +252,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -277,9 +273,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md"
-              }
+              "state": {}
             }
           },
           {
@@ -337,10 +331,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "4f0084f44f0b17cb",
   "lastOpenFiles": [
-    "書/未命名.md",
     "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
+    "書/未命名.md",
     "書/榮格心理學指南.md",
     "書/當愛成了依賴.md",
     "書/超譯尼采II.md",
