@@ -157,7 +157,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/當愛成了依賴.md"
+                "file": "書/榮格心理學指南.md"
               }
             }
           }
@@ -228,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/當愛成了依賴.md",
+                "file": "書/榮格心理學指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/當愛成了依賴.md",
+                "file": "書/榮格心理學指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書/當愛成了依賴.md"
+                "file": "書/榮格心理學指南.md"
               }
             }
           },
@@ -329,6 +329,7 @@
   },
   "active": "19b177d5b0447aa9",
   "lastOpenFiles": [
+    "書/當愛成了依賴.md",
     "書/超譯尼采II.md",
     "書/超譯尼采.md",
     "書/被討厭的勇氣.md",
@@ -340,7 +341,6 @@
     "書/犯罪心理學.md",
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "書/榮格心理學指南.md",
-    "書/當愛成了依賴.md",
     "Excalidraw",
     "書/Drawing 2024-03-13 21.22.12.excalidraw 1.md",
     "書/口袋裡的哲學書.md",
