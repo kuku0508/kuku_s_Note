@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 16448627
       }
+    },
+    {
+      "query": "path:統計  ",
+      "color": {
+        "a": 1,
+        "rgb": 16761591
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 11.875,
   "linkStrength": 1,
   "linkDistance": 94,
-  "scale": 0.2292013594175069,
+  "scale": 0.8854989543150961,
   "close": true
 }
