@@ -165,8 +165,10 @@
             "id": "4f0084f44f0b17cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "書/口袋裡的哲學書.md"
+              }
             }
           }
         ],
@@ -236,6 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "書/口袋裡的哲學書.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,6 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "書/口袋裡的哲學書.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +277,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "書/口袋裡的哲學書.md"
+              }
             }
           },
           {
