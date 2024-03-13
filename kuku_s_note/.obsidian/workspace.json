@@ -27,9 +27,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0296f28b9f9a9480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "統計/g.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/描述統計.md",
+                "file": "統計/g.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/描述統計.md",
+                "file": "統計/g.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/描述統計.md"
+                "file": "統計/g.md"
               }
             }
           },
@@ -193,12 +206,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6700ac1f02db48c",
+  "active": "0296f28b9f9a9480",
   "lastOpenFiles": [
+    "統計/描述統計.md",
+    "統計/g.md",
     "統計/母體參數.md",
     "照片/normal distribution mean example.png",
     "照片/酒吞童子.png",
-    "統計/描述統計.md",
     "附件/Pasted image 20240313170626.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
     "統計/樣本統計量.md",
