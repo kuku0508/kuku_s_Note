@@ -32,12 +32,9 @@
             "id": "0296f28b9f9a9480",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "統計/g.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "統計/Untitled Kanban.md"
               }
             }
           }
@@ -108,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/g.md",
+                "file": "統計/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/g.md",
+                "file": "統計/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/g.md"
+                "file": "統計/Untitled Kanban.md"
               }
             }
           },
@@ -208,8 +205,9 @@
   },
   "active": "0296f28b9f9a9480",
   "lastOpenFiles": [
-    "附件/Pasted image 20240313183153.png",
     "統計/g.md",
+    "統計/Untitled Kanban.md",
+    "附件/Pasted image 20240313183153.png",
     "統計/描述統計.md",
     "統計/母體參數.md",
     "照片/normal distribution mean example.png",
