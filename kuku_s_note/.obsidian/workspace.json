@@ -87,12 +87,82 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.22.12.excalidraw.md"
+                "file": "書/自卑與超越.md"
+              }
+            }
+          },
+          {
+            "id": "ff165a244f7eb593",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.22.53.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "8f9071d23e8ebb21",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.23.54.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "9b79f0aafaa33f55",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.24.16.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "d22a7d6004856341",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.24.20.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "032ff3a3febb1708",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.24.21.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "518e1237365c0b86",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.24.23.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "19b177d5b0447aa9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/自卑與超越.md"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -158,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.22.12.excalidraw.md",
+                "file": "書/自卑與超越.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.22.12.excalidraw.md",
+                "file": "書/自卑與超越.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +268,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.22.12.excalidraw.md"
+                "file": "書/自卑與超越.md"
               }
             }
           },
@@ -257,10 +327,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e61c8779801377c7",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "書/Drawing 2024-03-13 21.24.25.excalidraw.md",
+    "書/Drawing 2024-03-13 21.24.23.excalidraw.md",
+    "書/Drawing 2024-03-13 21.24.21.excalidraw.md",
+    "書/Drawing 2024-03-13 21.24.20.excalidraw.md",
+    "書/Drawing 2024-03-13 21.24.16.excalidraw.md",
+    "書/Drawing 2024-03-13 21.23.54.excalidraw.md",
+    "書/Drawing 2024-03-13 21.22.53.excalidraw.md",
+    "書/Drawing 2024-03-13 21.23.19.excalidraw.md",
+    "書/自卑與超越.md",
+    "Excalidraw",
     "書/Drawing 2024-03-13 21.22.12.excalidraw 1.md",
-    "書/Drawing 2024-03-13 21.22.12.excalidraw.md",
     "書/在柏拉圖的洞穴裡.md",
     "書/犯罪心理學.md",
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
@@ -284,15 +363,7 @@
     "程式語言/Latex/語法表/箭頭.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/連分數.md",
-    "程式語言/Latex/語法表/方程組.md",
-    "程式語言/Latex/Latex語法表.md",
-    "程式語言/Latex/語法表/文字顏色.md",
-    "程式語言/Latex/語法表/條件表達式.md",
-    "程式語言/Latex/語法表/上標.md",
     "統計",
-    "程式語言/Latex/語法表/hat(頭上長東西的).md",
-    "程式語言/Latex/語法表/關係符號.md",
-    "程式語言/Latex/語法表/特殊符號.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
