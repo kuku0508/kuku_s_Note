@@ -27,19 +27,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0296f28b9f9a9480",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "統計/Untitled Kanban.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/Untitled Kanban.md",
+                "file": "統計/描述統計.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/Untitled Kanban.md",
+                "file": "統計/描述統計.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/Untitled Kanban.md"
+                "file": "統計/描述統計.md"
               }
             }
           },
@@ -203,10 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0296f28b9f9a9480",
+  "active": "b6700ac1f02db48c",
   "lastOpenFiles": [
-    "統計/g.md",
     "統計/Untitled Kanban.md",
+    "統計/g.md",
     "附件/Pasted image 20240313183153.png",
     "統計/描述統計.md",
     "統計/母體參數.md",
