@@ -57,7 +57,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.17.05.excalidraw.md"
+                "file": "書/犯罪心理學.md"
               }
             }
           },
@@ -67,7 +67,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.17.05.excalidraw.md"
+                "file": "書/犯罪心理學.md"
               }
             }
           }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.17.05.excalidraw.md",
+                "file": "書/犯罪心理學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.17.05.excalidraw.md",
+                "file": "書/犯罪心理學.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書/Drawing 2024-03-13 21.17.05.excalidraw.md"
+                "file": "書/犯罪心理學.md"
               }
             }
           },
@@ -237,11 +237,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6e87116bb45b3663",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "書/口袋裡的哲學書.md",
-    "書/Drawing 2024-03-13 21.17.05.excalidraw.md",
+    "書/犯罪心理學.md",
     "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
     "統計/未命名.md",
     "書",
