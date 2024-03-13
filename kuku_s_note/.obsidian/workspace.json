@@ -70,9 +70,19 @@
                 "file": "書/犯罪心理學.md"
               }
             }
+          },
+          {
+            "id": "abb81e0adecde160",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/在柏拉圖的洞穴裡.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -138,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/犯罪心理學.md",
+                "file": "書/在柏拉圖的洞穴裡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/犯罪心理學.md",
+                "file": "書/在柏拉圖的洞穴裡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書/犯罪心理學.md"
+                "file": "書/在柏拉圖的洞穴裡.md"
               }
             }
           },
@@ -239,9 +249,10 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "書/犯罪心理學.md",
+    "書/在柏拉圖的洞穴裡.md",
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "書/口袋裡的哲學書.md",
-    "書/犯罪心理學.md",
     "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
     "統計/未命名.md",
     "書",
@@ -272,7 +283,6 @@
     "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/其他符號.md",
-    "程式語言/Latex/語法表/希臘字母.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
