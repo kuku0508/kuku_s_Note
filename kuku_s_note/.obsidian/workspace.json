@@ -160,9 +160,19 @@
                 "file": "書/榮格心理學指南.md"
               }
             }
+          },
+          {
+            "id": "4f0084f44f0b17cb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md"
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -228,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "書/榮格心理學指南.md",
+                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "書/榮格心理學指南.md",
+                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "書/榮格心理學指南.md"
+                "file": "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md"
               }
             }
           },
@@ -327,8 +337,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19b177d5b0447aa9",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "書/未命名.md",
+    "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
+    "書/榮格心理學指南.md",
     "書/當愛成了依賴.md",
     "書/超譯尼采II.md",
     "書/超譯尼采.md",
@@ -340,7 +353,6 @@
     "書/在柏拉圖的洞穴裡.md",
     "書/犯罪心理學.md",
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
-    "書/榮格心理學指南.md",
     "Excalidraw",
     "書/Drawing 2024-03-13 21.22.12.excalidraw 1.md",
     "書/口袋裡的哲學書.md",
@@ -361,8 +373,6 @@
     "附件/Pasted image 20240313170626.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
     "程式語言/Latex/語法表/箭頭.md",
-    "程式語言/Latex/語法表/表格.md",
-    "程式語言/Latex/語法表/連分數.md",
     "統計",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
