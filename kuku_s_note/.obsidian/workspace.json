@@ -40,9 +40,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "147e6ba325d5dcae",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "書/Drawing 2024-03-13 21.11.14.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "統計/未命名.md",
+                "file": "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "統計/未命名.md",
+                "file": "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "統計/未命名.md"
+                "file": "書/Drawing 2024-03-13 21.11.14.excalidraw.md"
               }
             }
           },
@@ -189,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 343.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,10 +217,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8079f94d4abe593",
+  "active": "147e6ba325d5dcae",
   "lastOpenFiles": [
-    "統計/樣本統計量.md",
     "統計/未命名.md",
+    "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
+    "書",
+    "統計/樣本統計量.md",
     "統計/樣本.md",
     "統計/描述統計.md",
     "統計/母體參數.md",
@@ -240,7 +253,6 @@
     "程式語言/Latex/語法表/交集.md",
     "程式語言/Latex/語法表/sideset.md",
     "程式語言/Latex/語法表/begin...end.md",
-    "程式語言/Latex/語法表/箭頭圖表.md",
     "附件/Pasted image 20240310092647.png",
     "附件/Pasted image 20240310092637.png",
     "附件/Pasted image 20240309102025.png",
