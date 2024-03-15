@@ -177,7 +177,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "file": "程式語言/Latex/語法表/其他符號.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -251,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "file": "程式語言/Latex/語法表/其他符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "file": "程式語言/Latex/語法表/其他符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/希臘字母.md"
+                "file": "程式語言/Latex/語法表/其他符號.md"
               }
             }
           },
@@ -352,6 +352,12 @@
   },
   "active": "bb7819b6f538bdb0",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
+    "程式語言/Latex/語法表/特殊符號.md",
+    "程式語言/Latex/語法表/對數.md",
+    "程式語言/Latex/語法表/邏輯運算.md",
+    "程式語言/Latex/語法表/關係符號.md",
+    "程式語言/Latex/語法表/希臘字母.md",
     "附件/Latex 顏色對照表1.png",
     "附件/Latex 顏色對照表2 2.png",
     "附件/Latex 顏色對照表1(1).png",
@@ -383,13 +389,7 @@
     "書/犯罪心理學.md",
     "書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "Excalidraw",
-    "書/Drawing 2024-03-13 21.22.12.excalidraw 1.md",
-    "書/Drawing 2024-03-13 21.11.14.excalidraw.md",
-    "統計/未命名.md",
     "書",
-    "統計/樣本統計量.md",
-    "統計/樣本.md",
-    "附件/酒吞童子.png",
     "統計",
     "附件",
     "程式語言/Latex/語法表"
