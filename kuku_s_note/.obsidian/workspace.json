@@ -175,9 +175,12 @@
             "id": "bb7819b6f538bdb0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "附件/Latex 顏色對照表1.png"
+                "file": "程式語言/Latex/語法表/希臘字母.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -248,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/Latex 顏色對照表1.png",
+                "file": "程式語言/Latex/語法表/希臘字母.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +268,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/Latex 顏色對照表1.png",
+                "file": "程式語言/Latex/語法表/希臘字母.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/Latex 顏色對照表1.png"
+                "file": "程式語言/Latex/語法表/希臘字母.md"
               }
             }
           },
@@ -349,10 +352,10 @@
   },
   "active": "bb7819b6f538bdb0",
   "lastOpenFiles": [
+    "附件/Latex 顏色對照表1.png",
     "附件/Latex 顏色對照表2 2.png",
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
-    "附件/Latex 顏色對照表1.png",
     "程式語言/Latex/語法表/文字顏色.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
     "程式語言/Latex/語法表/交集.md",
