@@ -21,8 +21,8 @@ tags: [excalidraw]
 			"type": "embeddable",
 			"x": -425.75,
 			"y": -602.4375,
-			"width": 807,
-			"height": 1158,
+			"width": 868,
+			"height": 1264,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -37,16 +37,16 @@ tags: [excalidraw]
 				"type": 3
 			},
 			"seed": 689703395,
-			"version": 167,
-			"versionNonce": 689383299,
+			"version": 446,
+			"versionNonce": 566306339,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710497646472,
+			"updated": 1710497659301,
 			"link": "https://drive.google.com/file/d/1XDVsYTnFDtlXE3XGzH9X24btTVuZiHDy/view?usp=drive_link",
 			"locked": false,
 			"scale": [
-				0.9706621961441744,
-				0.9706621961441744
+				1.0393964794635373,
+				1.0393964794635373
 			]
 		}
 	],
