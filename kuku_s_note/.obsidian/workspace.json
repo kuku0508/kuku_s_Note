@@ -4,255 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a1ef33bb45fc79",
+        "id": "ceec42ed6849dea1",
         "type": "tabs",
         "children": [
           {
-            "id": "9767638beda78784",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b6700ac1f02db48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "統計/樣本統計量.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8079f94d4abe593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "統計/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77cd9e88b581f2bd",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/口袋裡的哲學書.md"
-              }
-            }
-          },
-          {
-            "id": "611de5ee3c0bd82b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/犯罪心理學.md"
-              }
-            }
-          },
-          {
-            "id": "6e87116bb45b3663",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/犯罪心理學.md"
-              }
-            }
-          },
-          {
-            "id": "abb81e0adecde160",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/在柏拉圖的洞穴裡.md"
-              }
-            }
-          },
-          {
-            "id": "e61c8779801377c7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/自卑與超越.md"
-              }
-            }
-          },
-          {
-            "id": "ff165a244f7eb593",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/東大生的究極專注力.md"
-              }
-            }
-          },
-          {
-            "id": "8f9071d23e8ebb21",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md"
-              }
-            }
-          },
-          {
-            "id": "9b79f0aafaa33f55",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/被討厭的勇氣.md"
-              }
-            }
-          },
-          {
-            "id": "d22a7d6004856341",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/超譯尼采.md"
-              }
-            }
-          },
-          {
-            "id": "032ff3a3febb1708",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/超譯尼采II.md"
-              }
-            }
-          },
-          {
-            "id": "518e1237365c0b86",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/當愛成了依賴.md"
-              }
-            }
-          },
-          {
-            "id": "19b177d5b0447aa9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/榮格心理學指南.md"
-              }
-            }
-          },
-          {
-            "id": "4f0084f44f0b17cb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/口袋裡的哲學書.md"
-              }
-            }
-          },
-          {
-            "id": "bb7819b6f538bdb0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/口袋裡的哲學書.md"
-              }
-            }
-          },
-          {
-            "id": "f2ccedc50b5f57ee",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
-              }
-            }
-          },
-          {
-            "id": "51448214fad13f2a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 2.md"
-              }
-            }
-          },
-          {
-            "id": "48e2b5c817c6f958",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 3.md"
-              }
-            }
-          },
-          {
-            "id": "932a0964beaf60ff",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 4.md"
-              }
-            }
-          },
-          {
-            "id": "8671ec3d4210ea57",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 5.md"
-              }
-            }
-          },
-          {
-            "id": "2198b26bfcadb196",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 6.md"
-              }
-            }
-          },
-          {
-            "id": "7d2c12522dd4204d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/被討厭的勇氣.md"
-              }
-            }
-          },
-          {
-            "id": "742abca54aa3b4fd",
+            "id": "d1903de7f5a3b868",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -261,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 24
+        ]
       }
     ],
     "direction": "vertical"
@@ -427,38 +182,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "742abca54aa3b4fd",
+  "active": "d1903de7f5a3b868",
   "lastOpenFiles": [
+    "統計/樣本統計量.md",
+    "統計/未命名.md",
+    "文本/書/口袋裡的哲學書.md",
+    "文本/書/犯罪心理學.md",
+    "文本/書/在柏拉圖的洞穴裡.md",
+    "文本/書/自卑與超越.md",
+    "文本/書/東大生的究極專注力.md",
+    "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
+    "文本/書/被討厭的勇氣.md",
+    "文本/書/超譯尼采.md",
+    "文本/書/超譯尼采II.md",
+    "文本/書/當愛成了依賴.md",
+    "文本/書/榮格心理學指南.md",
+    "文本/講義/時間數列/Time Series-Session 1.md",
+    "文本/講義/時間數列/Time Series-Session 2.md",
+    "文本/講義/時間數列/Time Series-Session 3.md",
+    "文本/講義/時間數列/Time Series-Session 4.md",
+    "文本/講義/時間數列/Time Series-Session 5.md",
+    "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/書/心流 FLOW.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
-    "文本/講義/時間數列/Time Series-Session 1.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/未命名.md",
-    "文本/書/被討厭的勇氣.md",
-    "文本/書/超譯尼采II.md",
-    "文本/講義/時間數列/Time Series-Session 3.md",
-    "文本/講義/時間數列/Time Series-Session 2.md",
-    "文本/書/超譯尼采.md",
     "文本/書/核心崩解.md",
-    "文本/書/口袋裡的哲學書.md",
-    "文本/講義/時間數列/Time Series-Session 5.md",
-    "文本/講義/時間數列/Time Series-Session 4.md",
     "文本/講義/時間數列/Time Series-Session 7.md",
-    "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/講義/時間數列/Untitled.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
-    "文本/書/自卑與超越.md",
-    "程式語言/Latex/語法表/集合符號.md",
     "文本/書",
-    "程式語言/Latex/語法表/開方√.md",
-    "程式語言/Latex/語法表/註釋文字.md",
-    "程式語言/Latex/語法表/備註.md",
-    "程式語言/Latex/語法表/連線.md",
-    "程式語言/Latex/語法表/連分數.md",
-    "程式語言/Latex/語法表/連乘.md",
-    "程式語言/Latex/語法表/希臘字母.md",
     "附件/Latex 顏色對照表1.png",
     "附件/Latex 顏色對照表2 2.png",
     "附件/Latex 顏色對照表1(1).png",
