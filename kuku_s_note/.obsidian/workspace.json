@@ -23,7 +23,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/心流 FLOW.md"
+                "file": "文本/講義/時間數列/Time Series-Session 1.md"
               }
             }
           }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/心流 FLOW.md",
+                "file": "文本/講義/時間數列/Time Series-Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/心流 FLOW.md",
+                "file": "文本/講義/時間數列/Time Series-Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/心流 FLOW.md"
+                "file": "文本/講義/時間數列/Time Series-Session 1.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "c374ed61f1deee3b",
   "lastOpenFiles": [
+    "文本/書/心流 FLOW.md",
     "文本/書/犯罪心理學.md",
     "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
@@ -211,7 +212,6 @@
     "文本/書/在柏拉圖的洞穴裡.md",
     "文本/書/口袋裡的哲學書.md",
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
-    "文本/書/心流 FLOW.md",
     "統計/樣本統計量.md",
     "統計/未命名.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
