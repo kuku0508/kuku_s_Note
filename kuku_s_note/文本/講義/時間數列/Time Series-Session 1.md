@@ -17,12 +17,12 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.20",
 	"elements": [
 		{
-			"id": "THhvXQCRbIi32WyRG_zsU",
+			"id": "aAWLgM2CNGC1f0lLTgJUc",
 			"type": "embeddable",
-			"x": -447.75,
-			"y": -608.4375,
-			"width": 880,
-			"height": 1225,
+			"x": -458.5,
+			"y": -605.375,
+			"width": 903,
+			"height": 1213,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -36,12 +36,45 @@ tags: [excalidraw]
 			"roundness": {
 				"type": 3
 			},
-			"seed": 1784965085,
-			"version": 138,
-			"versionNonce": 1758221789,
+			"seed": 1540683837,
+			"version": 87,
+			"versionNonce": 558300413,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710496388672,
+			"updated": 1710496517516,
+			"link": "https://drive.google.com/file/d/1cpS1VlvSvCLjGSYjz7UFMPMbufnpCh6D/view?usp=drive_link",
+			"locked": false,
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "embeddable",
+			"version": 143,
+			"versionNonce": 425774803,
+			"isDeleted": true,
+			"id": "THhvXQCRbIi32WyRG_zsU",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -456.75,
+			"y": -599.4375,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 880,
+			"height": 1225,
+			"seed": 1784965085,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1710496502070,
 			"link": "https://drive.google.com/file/d/1cpS1VlvSvCLjGSYjz7UFMPMbufnpCh6D/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -65,10 +98,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 466.25,
-		"scrollY": 756.5625,
+		"scrollX": 564.3750000000002,
+		"scrollY": 830.5312500000002,
 		"zoom": {
-			"value": 1
+			"value": 0.7999999999999998
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
