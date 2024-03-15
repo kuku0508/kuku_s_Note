@@ -21,9 +21,12 @@
             "id": "c374ed61f1deee3b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "程式語言/Latex/語法表/begin...end.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "程式語言/Latex/語法表/begin...end.md"
               }
             }
           },
@@ -195,8 +198,8 @@
   },
   "active": "c374ed61f1deee3b",
   "lastOpenFiles": [
-    "文本/講義/時間數列/Time Series-Session 2.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
+    "文本/講義/時間數列/Time Series-Session 2.md",
     "文本/講義/時間數列/Time Series-Session 7.md",
     "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/講義/時間數列/Time Series-Session 5.md",
