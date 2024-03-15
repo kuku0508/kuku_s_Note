@@ -13,11 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
+                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
+              }
+            }
+          },
+          {
+            "id": "c374ed61f1deee3b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+                "file": "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+                "file": "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md"
+                "file": "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md"
               }
             }
           },
@@ -182,34 +193,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d1903de7f5a3b868",
+  "active": "c374ed61f1deee3b",
   "lastOpenFiles": [
+    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+    "文本/書/Drawing 2024-03-15 18.05.10.excalidraw.md",
+    "文本/書/榮格心理學指南.md",
+    "文本/書/當愛成了依賴.md",
+    "文本/書/超譯尼采II.md",
+    "文本/書/超譯尼采.md",
+    "文本/書/被討厭的勇氣.md",
+    "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
+    "文本/書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
+    "文本/書/核心崩解.md",
+    "文本/書/東大生的究極專注力.md",
+    "文本/書/自卑與超越.md",
+    "文本/書/在柏拉圖的洞穴裡.md",
+    "文本/書/口袋裡的哲學書.md",
+    "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
+    "文本/書/心流 FLOW.md",
+    "文本/書/犯罪心理學.md",
     "統計/樣本統計量.md",
     "統計/未命名.md",
-    "文本/書/口袋裡的哲學書.md",
-    "文本/書/犯罪心理學.md",
-    "文本/書/在柏拉圖的洞穴裡.md",
-    "文本/書/自卑與超越.md",
-    "文本/書/東大生的究極專注力.md",
-    "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
-    "文本/書/被討厭的勇氣.md",
-    "文本/書/超譯尼采.md",
-    "文本/書/超譯尼采II.md",
-    "文本/書/當愛成了依賴.md",
-    "文本/書/榮格心理學指南.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
     "文本/講義/時間數列/Time Series-Session 2.md",
     "文本/講義/時間數列/Time Series-Session 3.md",
     "文本/講義/時間數列/Time Series-Session 4.md",
     "文本/講義/時間數列/Time Series-Session 5.md",
     "文本/講義/時間數列/Time Series-Session 6.md",
-    "文本/書/心流 FLOW.md",
-    "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
-    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/未命名.md",
-    "文本/書/核心崩解.md",
-    "文本/講義/時間數列/Time Series-Session 7.md",
-    "文本/講義/時間數列/Untitled.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
