@@ -47,7 +47,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/口袋裡的哲學書.md"
+                "file": "文本/書/口袋裡的哲學書.md"
               }
             }
           },
@@ -57,7 +57,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/犯罪心理學.md"
+                "file": "文本/書/犯罪心理學.md"
               }
             }
           },
@@ -67,7 +67,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/犯罪心理學.md"
+                "file": "文本/書/犯罪心理學.md"
               }
             }
           },
@@ -77,7 +77,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/在柏拉圖的洞穴裡.md"
+                "file": "文本/書/在柏拉圖的洞穴裡.md"
               }
             }
           },
@@ -87,7 +87,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/自卑與超越.md"
+                "file": "文本/書/自卑與超越.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/東大生的究極專注力.md"
+                "file": "文本/書/東大生的究極專注力.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/從佛洛依德的潛意識世界探討其人格理論發展.md"
+                "file": "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/被討厭的勇氣.md"
+                "file": "文本/書/被討厭的勇氣.md"
               }
             }
           },
@@ -127,7 +127,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/超譯尼采.md"
+                "file": "文本/書/超譯尼采.md"
               }
             }
           },
@@ -137,7 +137,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/超譯尼采II.md"
+                "file": "文本/書/超譯尼采II.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/當愛成了依賴.md"
+                "file": "文本/書/當愛成了依賴.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/榮格心理學指南.md"
+                "file": "文本/書/榮格心理學指南.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "書/口袋裡的哲學書.md"
+                "file": "文本/書/口袋裡的哲學書.md"
               }
             }
           },
@@ -175,17 +175,84 @@
             "id": "bb7819b6f538bdb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/書/口袋裡的哲學書.md"
+              }
+            }
+          },
+          {
+            "id": "f2ccedc50b5f57ee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+              }
+            }
+          },
+          {
+            "id": "51448214fad13f2a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 2.md"
+              }
+            }
+          },
+          {
+            "id": "48e2b5c817c6f958",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 3.md"
+              }
+            }
+          },
+          {
+            "id": "932a0964beaf60ff",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 4.md"
+              }
+            }
+          },
+          {
+            "id": "8671ec3d4210ea57",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 5.md"
+              }
+            }
+          },
+          {
+            "id": "2198b26bfcadb196",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 6.md"
+              }
+            }
+          },
+          {
+            "id": "7d2c12522dd4204d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/時間數列/Time Series-Session 1.md"
               }
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -251,7 +318,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "文本/講義/時間數列/Time Series-Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "文本/講義/時間數列/Time Series-Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -291,7 +358,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md"
+                "file": "文本/講義/時間數列/Time Series-Session 1.md"
               }
             }
           },
@@ -350,8 +417,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb7819b6f538bdb0",
+  "active": "7d2c12522dd4204d",
   "lastOpenFiles": [
+    "文本/書/核心崩解.md",
+    "文本/書/口袋裡的哲學書.md",
+    "文本/講義/時間數列/Time Series-Session 1.md",
+    "文本/講義/時間數列/Time Series-Session 2.md",
+    "文本/講義/時間數列/Time Series-Session 5.md",
+    "文本/講義/時間數列/Time Series-Session 4.md",
+    "文本/講義/時間數列/Time Series-Session 7.md",
+    "文本/講義/時間數列/Time Series-Session 6.md",
+    "文本/講義/時間數列/Time Series-Session 3.md",
+    "文本/講義/時間數列/Untitled.md",
+    "文本/講義/時間數列",
+    "文本/未命名/未命名",
+    "文本/講義",
+    "文本/書/自卑與超越.md",
+    "程式語言/Latex/語法表/集合符號.md",
+    "文本/書",
     "程式語言/Latex/語法表/開方√.md",
     "程式語言/Latex/語法表/註釋文字.md",
     "程式語言/Latex/語法表/備註.md",
@@ -370,26 +453,14 @@
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
     "程式語言/Latex/語法表/文字顏色.md",
-    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-    "程式語言/Latex/語法表/交集.md",
     "附件/normal distribution example.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
     "附件/normal distribution mean example.png",
     "附件/Pasted image 20240313170626.png",
     "附件/Pasted image 20240313183153.png",
-    "統計/描述統計.md",
     "附件/Pasted image 20240309102025.png",
-    "書/榮格心理學指南.md",
-    "書/心流 FLOW.md",
-    "書/未命名.md",
-    "書/口袋裡的哲學書.md",
-    "書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
-    "書/當愛成了依賴.md",
-    "書/超譯尼采II.md",
-    "書/超譯尼采.md",
-    "書/被討厭的勇氣.md",
     "Excalidraw",
-    "書",
+    "文本",
     "統計",
     "附件",
     "程式語言/Latex/語法表"
