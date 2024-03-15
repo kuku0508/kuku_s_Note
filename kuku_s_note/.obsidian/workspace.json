@@ -247,12 +247,35 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "文本/書/被討厭的勇氣.md"
+              }
+            }
+          },
+          {
+            "id": "faaecbff4ffd6fd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文本/書/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "742abca54aa3b4fd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Drawing 2024-03-15 17.57.25.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -318,7 +341,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "文本/書/Drawing 2024-03-15 17.57.25.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +358,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "文本/書/Drawing 2024-03-15 17.57.25.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -358,7 +381,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "文本/書/Drawing 2024-03-15 17.57.25.excalidraw.md"
               }
             }
           },
@@ -412,15 +435,20 @@
       "command-palette:開啟命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d2c12522dd4204d",
+  "active": "742abca54aa3b4fd",
   "lastOpenFiles": [
-    "文本/講義/時間數列/Time Series-Session 2.md",
+    "文本/書/未命名.md",
+    "文本/書/Drawing 2024-03-15 17.57.25.excalidraw.md",
+    "文本/書/被討厭的勇氣.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
+    "文本/書/超譯尼采II.md",
+    "文本/講義/時間數列/Time Series-Session 3.md",
+    "文本/講義/時間數列/Time Series-Session 2.md",
     "文本/書/超譯尼采.md",
     "文本/書/核心崩解.md",
     "文本/書/口袋裡的哲學書.md",
@@ -428,7 +456,6 @@
     "文本/講義/時間數列/Time Series-Session 4.md",
     "文本/講義/時間數列/Time Series-Session 7.md",
     "文本/講義/時間數列/Time Series-Session 6.md",
-    "文本/講義/時間數列/Time Series-Session 3.md",
     "文本/講義/時間數列/Untitled.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
@@ -445,10 +472,6 @@
     "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/省略符號 ‧‧‧.md",
-    "程式語言/Latex/語法表/特殊符號.md",
-    "程式語言/Latex/語法表/對數.md",
-    "程式語言/Latex/語法表/邏輯運算.md",
-    "程式語言/Latex/語法表/關係符號.md",
     "附件/Latex 顏色對照表1.png",
     "附件/Latex 顏色對照表2 2.png",
     "附件/Latex 顏色對照表1(1).png",
