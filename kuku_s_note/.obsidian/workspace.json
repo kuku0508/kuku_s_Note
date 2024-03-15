@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md",
+                "file": "程式語言/Latex/語法表/begin...end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/集合符號.md"
+                "file": "程式語言/Latex/語法表/begin...end.md"
               }
             }
           },
@@ -198,6 +198,7 @@
   },
   "active": "c374ed61f1deee3b",
   "lastOpenFiles": [
+    "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/矩陣.md",
     "程式語言/Latex/語法表/begin...end.md",
@@ -223,7 +224,6 @@
     "文本/書/大數據分析與應用實戰 統計機器學習之資料導向程式設計.md",
     "文本/書/口袋裡的哲學書.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
-    "文本/書/超譯尼采II.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
