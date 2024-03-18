@@ -21,44 +21,17 @@
             "id": "c374ed61f1deee3b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 2.md"
-              }
-            }
-          },
-          {
-            "id": "f1fbd655c67ccf7d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
-              }
-            }
-          },
-          {
-            "id": "e556c84daca4fb55",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 2.md"
-              }
-            }
-          },
-          {
-            "id": "6d08d245123dc08c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
+                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,12 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
+                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md"
               }
             }
           },
@@ -221,17 +194,32 @@
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "workspaces:管理工作區配置": false,
+      "zk-prefixer:建立新唯一筆記": false,
+      "random-note:開始漫遊筆記": false,
+      "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "6d08d245123dc08c",
+  "active": "c374ed61f1deee3b",
   "lastOpenFiles": [
-    "文本/講義/存活分析/Survival Analysis topic 2.md",
-    "文本/講義/存活分析/Survival Analysis topic 3.md",
-    "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "程式語言/平台無關性.md",
+    "程式語言/Latex/語法表/尖括號〈〉.md",
+    "程式語言/Latex/語法表/分數.md",
     "文本/講義/時間數列/Time Series-Session 2.md",
-    "文本/講義/存活分析",
+    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+    "附件/Recording 20240318232218.webm",
+    "附件/Recording 20240318232231.webm",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "202403182321.md",
+    "文本/講義/存活分析/Survival Analysis topic 2.md",
+    "202403182322.md",
+    "202403182323.md",
+    "202403182324.md",
+    "202403182320.md",
     "程式語言/Latex/語法表/begin...end.md",
+    "文本/講義/存活分析/Survival Analysis topic 3.md",
+    "文本/講義/存活分析",
     "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/矩陣.md",
@@ -244,15 +232,6 @@
     "文本/書/榮格心理學指南.md",
     "文本/書/當愛成了依賴.md",
     "文本/書/超譯尼采.md",
-    "文本/書/被討厭的勇氣.md",
-    "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
-    "文本/書/秩序之上 在不斷變動的世界找出隱藏邏輯{生存的另外十二條法則}.md",
-    "文本/書/核心崩解.md",
-    "文本/書/東大生的究極專注力.md",
-    "文本/書/自卑與超越.md",
-    "文本/書/在柏拉圖的洞穴裡.md",
-    "文本/書/犯罪心理學.md",
-    "文本/書/心流 FLOW.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
@@ -269,8 +248,6 @@
     "附件/Pasted image 20240309102025.png",
     "Excalidraw",
     "文本",
-    "統計",
-    "附件",
-    "程式語言/Latex/語法表"
+    "統計"
   ]
 }
