@@ -49,9 +49,19 @@
                 "file": "文本/書/心靈的傷，身體會記住.md"
               }
             }
+          },
+          {
+            "id": "1319903a8d2137af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/心靈的傷，身體會記住.md",
+                "file": "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/心靈的傷，身體會記住.md",
+                "file": "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/心靈的傷，身體會記住.md"
+                "file": "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md"
               }
             }
           },
@@ -220,10 +230,11 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "1319903a8d2137af",
   "lastOpenFiles": [
-    "文本/書/犯罪心理學.md",
     "文本/書/心靈的傷，身體會記住.md",
+    "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
+    "文本/書/犯罪心理學.md",
     "文本/書/東大生的究極專注力.md",
     "文本/書/超譯尼采.md",
     "文本/書/超譯尼采II.md",
@@ -250,7 +261,6 @@
     "程式語言/Latex/語法表/begin...end.md",
     "文本/講義/存活分析/Survival Analysis topic 3.md",
     "文本/講義/存活分析",
-    "程式語言/Latex/語法表/集合符號.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
