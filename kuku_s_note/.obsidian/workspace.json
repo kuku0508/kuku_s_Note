@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
+                "file": "文本/書/當愛成了依賴.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+                "file": "文本/書/當愛成了依賴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+                "file": "文本/書/當愛成了依賴.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
+                "file": "文本/書/當愛成了依賴.md"
               }
             }
           },
@@ -210,8 +210,11 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "4b329aca9f255615",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/書/榮格心理學指南.md",
+    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+    "文本/書/口袋裡的哲學書.md",
     "未命名.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
@@ -219,7 +222,6 @@
     "程式語言/Latex/語法表/尖括號〈〉.md",
     "程式語言/Latex/語法表/分數.md",
     "文本/講義/時間數列/Time Series-Session 2.md",
-    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
     "202403182321.md",
@@ -239,8 +241,6 @@
     "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/講義/時間數列/Time Series-Session 5.md",
     "文本/講義/時間數列/Time Series-Session 4.md",
-    "文本/講義/時間數列/Time Series-Session 3.md",
-    "文本/書/榮格心理學指南.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
