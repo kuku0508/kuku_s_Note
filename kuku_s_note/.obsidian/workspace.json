@@ -36,7 +36,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/當愛成了依賴.md"
+                "file": "文本/書/犯罪心理學.md"
               }
             }
           }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/當愛成了依賴.md",
+                "file": "文本/書/犯罪心理學.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/當愛成了依賴.md",
+                "file": "文本/書/犯罪心理學.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/當愛成了依賴.md"
+                "file": "文本/書/犯罪心理學.md"
               }
             }
           },
@@ -212,6 +212,11 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/書/東大生的究極專注力.md",
+    "文本/書/超譯尼采.md",
+    "文本/書/超譯尼采II.md",
+    "文本/書/Drawing 2024-03-20 23.05.35.excalidraw.md",
+    "文本/書/當愛成了依賴.md",
     "文本/書/榮格心理學指南.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "文本/書/口袋裡的哲學書.md",
@@ -236,11 +241,6 @@
     "程式語言/Latex/語法表/集合符號.md",
     "程式語言/Latex/語法表/表格.md",
     "程式語言/Latex/語法表/矩陣.md",
-    "文本/講義/時間數列/Time Series-Session 1.md",
-    "文本/講義/時間數列/Time Series-Session 7.md",
-    "文本/講義/時間數列/Time Series-Session 6.md",
-    "文本/講義/時間數列/Time Series-Session 5.md",
-    "文本/講義/時間數列/Time Series-Session 4.md",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
     "文本/講義",
