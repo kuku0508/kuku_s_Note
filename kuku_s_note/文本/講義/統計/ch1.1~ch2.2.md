@@ -17,12 +17,12 @@ tags: [excalidraw]
 	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
 	"elements": [
 		{
-			"id": "OeHbIqVs",
-			"type": "text",
-			"x": -280.75,
-			"y": -278.2421875,
-			"width": 10,
-			"height": 25,
+			"id": "N9yCucj1wDSXcO0p1QiQJ",
+			"type": "embeddable",
+			"x": -299.75,
+			"y": -431.2421875,
+			"width": 590,
+			"height": 844,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -33,25 +33,21 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": null,
-			"seed": 41830268,
-			"version": 2,
-			"versionNonce": 928552388,
-			"isDeleted": true,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 1270832636,
+			"version": 130,
+			"versionNonce": 100441724,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1710995803513,
+			"updated": 1710996092903,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 18,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {

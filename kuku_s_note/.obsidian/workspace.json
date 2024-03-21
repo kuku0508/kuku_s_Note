@@ -4,64 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ceec42ed6849dea1",
+        "id": "03b898421f26e30b",
         "type": "tabs",
         "children": [
           {
-            "id": "d1903de7f5a3b868",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
-              }
-            }
-          },
-          {
-            "id": "c374ed61f1deee3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b329aca9f255615",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/犯罪心理學.md"
-              }
-            }
-          },
-          {
-            "id": "92de62c1cfba6840",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/心靈的傷，身體會記住.md"
-              }
-            }
-          },
-          {
-            "id": "1319903a8d2137af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md"
-              }
-            }
-          },
-          {
-            "id": "f177c85287f115e0",
+            "id": "5751694ea04e6b0a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -69,159 +16,8 @@
                 "file": "文本/講義/統計/ch1.1~ch2.2.md"
               }
             }
-          },
-          {
-            "id": "f20a3182418d8cc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md"
-              }
-            }
-          },
-          {
-            "id": "d58b17fc2a4fc36f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch3.7~ch4.2.md"
-              }
-            }
-          },
-          {
-            "id": "24ba678d7d967cf9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch4.3~ch4.4.md"
-              }
-            }
-          },
-          {
-            "id": "17367ff8405cd4d0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch5.md"
-              }
-            }
-          },
-          {
-            "id": "cb0e67b8b431b8af",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch6.md"
-              }
-            }
-          },
-          {
-            "id": "56eb27cf64892aec",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch7.1~ch7.2.md"
-              }
-            }
-          },
-          {
-            "id": "6ffaf7fd6e70970c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch7.3~ch7.4.md"
-              }
-            }
-          },
-          {
-            "id": "181b743ff1681928",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md"
-              }
-            }
-          },
-          {
-            "id": "0acb909901be61b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch9.md"
-              }
-            }
-          },
-          {
-            "id": "adfc70311f524265",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch10.md"
-              }
-            }
-          },
-          {
-            "id": "f887a04cb5f7b71b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch11.md"
-              }
-            }
-          },
-          {
-            "id": "eadbe92e18e60cb4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch12.md"
-              }
-            }
-          },
-          {
-            "id": "ef50a6f4f1324891",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch13.md"
-              }
-            }
-          },
-          {
-            "id": "3ff700b1aae8c4b3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch14.1~ch14.2.md"
-              }
-            }
-          },
-          {
-            "id": "579b587e0ced97e2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md"
-              }
-            }
           }
-        ],
-        "currentTab": 20
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md",
+                "file": "文本/講義/統計/ch1.1~ch2.2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -304,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md",
+                "file": "文本/講義/統計/ch1.1~ch2.2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -327,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/統計/ch3.1~ch3.5.md"
+                "file": "文本/講義/統計/ch1.1~ch2.2.md"
               }
             }
           },
@@ -390,14 +186,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "579b587e0ced97e2",
+  "active": "5751694ea04e6b0a",
   "lastOpenFiles": [
-    "文本/講義/統計/ch12.md",
-    "文本/講義/統計/ch3.1~ch3.5.md",
-    "未命名.md",
     "文本/講義/統計/ch1.1~ch2.2.md",
+    "文本/講義/統計/ch3.1~ch3.5.md",
+    "文本/講義/統計/ch12.md",
+    "未命名.md",
     "文本/講義/統計/ch5.md",
-    "文本/講義/統計/ch.md",
+    "文本/講義/統計/ch14.3.md",
     "文本/講義/統計/ch14.1~ch14.2.md",
     "文本/講義/統計/ch13.md",
     "文本/講義/統計/ch11.md",
