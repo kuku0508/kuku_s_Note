@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/統計/ch8.md"
+                "file": "文本/講義/統計/ch11.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/統計/ch8.md",
+                "file": "文本/講義/統計/ch11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/統計/ch8.md",
+                "file": "文本/講義/統計/ch11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/統計/ch8.md"
+                "file": "文本/講義/統計/ch11.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "5751694ea04e6b0a",
   "lastOpenFiles": [
+    "文本/講義/統計/ch10.md",
+    "文本/講義/統計/ch9.md",
+    "文本/講義/統計/ch8.md",
     "文本/講義/統計/ch7.3~ch7.4.md",
     "文本/講義/統計/ch7.1~ch7.2.md",
     "文本/講義/統計/ch6.md",
@@ -202,9 +205,6 @@
     "文本/講義/統計/ch14.1~ch14.2.md",
     "文本/講義/統計/ch13.md",
     "文本/講義/統計/ch11.md",
-    "文本/講義/統計/ch10.md",
-    "文本/講義/統計/ch9.md",
-    "文本/講義/統計/ch8.md",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/講義/統計",
     "唯一筆記",
