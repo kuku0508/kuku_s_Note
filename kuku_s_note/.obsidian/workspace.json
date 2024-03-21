@@ -219,15 +219,15 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "workspaces:管理工作區配置": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
-      "audio-recorder:開始/停止錄音": false
+      "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "1319903a8d2137af",
