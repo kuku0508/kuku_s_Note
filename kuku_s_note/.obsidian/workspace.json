@@ -56,7 +56,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md"
+                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
+                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
+                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md"
+                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
               }
             }
           },
@@ -232,8 +232,8 @@
   },
   "active": "65cbc1df4e07b193",
   "lastOpenFiles": [
+    "文本/書/原子習慣.md",
     "文本/講義/統計/ch4.3~ch4.4.md",
-    "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
     "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
     "文本/講義/統計/ch9.md",
     "文本/講義/統計/ch8.md",
