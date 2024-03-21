@@ -116,7 +116,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.11.excalidraw 1.md"
+                "file": "文本/講義/統計/ch6.md"
               }
             }
           },
@@ -126,7 +126,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.15.excalidraw 1.md"
+                "file": "文本/講義/統計/ch7.1~ch7.2.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.17.excalidraw 1.md"
+                "file": "文本/講義/統計/ch7.3~ch7.4.md"
               }
             }
           },
@@ -392,6 +392,8 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "未命名.md",
+    "文本/講義/統計/ch3.1~ch3.5.md",
     "文本/講義/統計/ch1.1~ch2.2.md",
     "文本/講義/統計/ch5.md",
     "文本/講義/統計/Drawing 2024-03-21 12.36.56.excalidraw.md",
@@ -401,11 +403,10 @@
     "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md",
     "文本/講義/統計/Drawing 2024-03-21 12.36.47.excalidraw.md",
     "文本/講義/統計/Drawing 2024-03-21 12.36.45.excalidraw.md",
-    "文本/講義/統計/ch3.1~ch3.5.md",
-    "文本/講義/統計/Drawing 2024-03-21 12.36.20.excalidraw 1.md",
-    "文本/講義/統計/Drawing 2024-03-21 12.36.17.excalidraw 1.md",
-    "文本/講義/統計/Drawing 2024-03-21 12.36.15.excalidraw 1.md",
-    "文本/講義/統計/Drawing 2024-03-21 12.36.11.excalidraw 1.md",
+    "文本/講義/統計/ch8.md",
+    "文本/講義/統計/ch7.3~ch7.4.md",
+    "文本/講義/統計/ch7.1~ch7.2.md",
+    "文本/講義/統計/ch6.md",
     "文本/講義/統計/ch4.3~ch4.4.md",
     "文本/講義/統計/ch3.7~ch4.2.md",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
@@ -419,7 +420,6 @@
     "文本/書/Drawing 2024-03-20 23.05.35.excalidraw.md",
     "文本/書/當愛成了依賴.md",
     "文本/書/榮格心理學指南.md",
-    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
     "文本/講義/存活分析",
