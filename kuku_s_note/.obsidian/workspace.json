@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "文本/講義/時間數列/Time Series-Session 4.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "文本/講義/時間數列/Time Series-Session 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md",
+                "file": "文本/講義/時間數列/Time Series-Session 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 1.md"
+                "file": "文本/講義/時間數列/Time Series-Session 4.md"
               }
             }
           },
@@ -188,6 +188,9 @@
   },
   "active": "5751694ea04e6b0a",
   "lastOpenFiles": [
+    "文本/講義/時間數列/Time Series-Session 3.md",
+    "文本/講義/時間數列/Time Series-Session 2.md",
+    "文本/講義/時間數列/Time Series-Session 1.md",
     "文本/講義/統計/ch14.3.md",
     "文本/講義/統計/ch14.1~ch14.2.md",
     "文本/講義/統計/ch13.md",
@@ -213,9 +216,6 @@
     "文本/書/東大生的究極專注力.md",
     "文本/書/超譯尼采.md",
     "文本/書/超譯尼采II.md",
-    "文本/書/Drawing 2024-03-20 23.05.35.excalidraw.md",
-    "文本/書/當愛成了依賴.md",
-    "文本/書/榮格心理學指南.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
     "文本/講義/存活分析",
