@@ -46,7 +46,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/書/心靈的傷，身體會記住.md"
+                "file": "文本/講義/統計/ch4.3~ch4.4.md"
               }
             }
           }
@@ -117,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/講義/統計/ch4.3~ch4.4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/講義/統計/ch4.3~ch4.4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md"
+                "file": "文本/講義/統計/ch4.3~ch4.4.md"
               }
             }
           },
@@ -218,8 +220,9 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "92de62c1cfba6840",
   "lastOpenFiles": [
+    "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
     "文本/講義/統計/ch9.md",
     "文本/講義/統計/ch8.md",
     "文本/講義/統計/ch7.3~ch7.4.md",
@@ -239,7 +242,6 @@
     "文本/講義/統計",
     "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/書/心靈的傷，身體會記住.md",
-    "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
     "文本/書/犯罪心理學.md",
     "文本/書/東大生的究極專注力.md",
     "文本/書/超譯尼采.md",
