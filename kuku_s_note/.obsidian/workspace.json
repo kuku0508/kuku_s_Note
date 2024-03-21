@@ -59,9 +59,129 @@
                 "file": "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md"
               }
             }
+          },
+          {
+            "id": "f177c85287f115e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.35.59.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "f20a3182418d8cc7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.01.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "d58b17fc2a4fc36f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.03.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "24ba678d7d967cf9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.05.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "17367ff8405cd4d0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.07.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "cb0e67b8b431b8af",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.11.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "56eb27cf64892aec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.15.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "6ffaf7fd6e70970c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.17.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "181b743ff1681928",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.01.excalidraw 1.md"
+              }
+            }
+          },
+          {
+            "id": "0acb909901be61b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.45.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "adfc70311f524265",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.47.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f887a04cb5f7b71b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -127,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +287,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md"
+                "file": "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md"
               }
             }
           },
@@ -232,10 +352,22 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/講義/統計/Drawing 2024-03-21 12.36.47.excalidraw.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.49.excalidraw.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.45.excalidraw.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.01.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.35.59.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.07.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.20.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.17.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.15.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.11.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.05.excalidraw 1.md",
+    "文本/講義/統計/Drawing 2024-03-21 12.36.03.excalidraw 1.md",
+    "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/講義/統計",
     "唯一筆記",
     "文本/書/心靈的傷，身體會記住.md",
-    "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
     "文本/書/犯罪心理學.md",
     "文本/書/東大生的究極專注力.md",
     "文本/書/超譯尼采.md",
@@ -248,19 +380,8 @@
     "未命名.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
-    "程式語言/平台無關性.md",
-    "程式語言/Latex/語法表/尖括號〈〉.md",
-    "程式語言/Latex/語法表/分數.md",
-    "文本/講義/時間數列/Time Series-Session 2.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
-    "202403182321.md",
-    "文本/講義/存活分析/Survival Analysis topic 2.md",
-    "202403182322.md",
-    "202403182323.md",
-    "202403182324.md",
-    "202403182320.md",
-    "程式語言/Latex/語法表/begin...end.md",
     "文本/講義/存活分析",
     "文本/講義/時間數列",
     "文本/未命名/未命名",
@@ -276,7 +397,6 @@
     "附件/Pasted image 20240313170626.png",
     "附件/Pasted image 20240313183153.png",
     "附件/Pasted image 20240309102025.png",
-    "Excalidraw",
-    "文本"
+    "Excalidraw"
   ]
 }
