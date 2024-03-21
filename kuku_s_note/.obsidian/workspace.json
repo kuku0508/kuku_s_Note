@@ -49,9 +49,19 @@
                 "file": "文本/講義/統計/ch4.3~ch4.4.md"
               }
             }
+          },
+          {
+            "id": "65cbc1df4e07b193",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -117,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/統計/ch4.3~ch4.4.md",
+                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/統計/ch4.3~ch4.4.md",
+                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/統計/ch4.3~ch4.4.md"
+                "file": "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md"
               }
             }
           },
@@ -220,8 +230,10 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "92de62c1cfba6840",
+  "active": "65cbc1df4e07b193",
   "lastOpenFiles": [
+    "文本/講義/統計/ch4.3~ch4.4.md",
+    "文本/書/Drawing 2024-03-22 00.02.27.excalidraw.md",
     "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
     "文本/講義/統計/ch9.md",
     "文本/講義/統計/ch8.md",
@@ -229,7 +241,6 @@
     "文本/講義/統計/ch7.1~ch7.2.md",
     "文本/講義/統計/ch6.md",
     "文本/講義/統計/ch5.md",
-    "文本/講義/統計/ch4.3~ch4.4.md",
     "文本/講義/統計/ch3.7~ch4.2.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
     "文本/講義/統計/ch14.3.md",
@@ -248,7 +259,6 @@
     "文本/書/超譯尼采II.md",
     "文本/書/Drawing 2024-03-20 23.05.35.excalidraw.md",
     "文本/書/當愛成了依賴.md",
-    "文本/書/榮格心理學指南.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
     "文本/講義/存活分析",
