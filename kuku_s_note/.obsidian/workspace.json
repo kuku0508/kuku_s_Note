@@ -59,9 +59,19 @@
                 "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
               }
             }
+          },
+          {
+            "id": "de742a82e030d913",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -230,7 +240,7 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "65cbc1df4e07b193",
+  "active": "de742a82e030d913",
   "lastOpenFiles": [
     "文本/書/原子習慣.md",
     "文本/講義/統計/ch4.3~ch4.4.md",
