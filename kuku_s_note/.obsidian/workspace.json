@@ -4,84 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ceec42ed6849dea1",
+        "id": "9b979a2f8cdf952a",
         "type": "tabs",
         "children": [
           {
-            "id": "d1903de7f5a3b868",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
-              }
-            }
-          },
-          {
-            "id": "c374ed61f1deee3b",
+            "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+                "file": "程式語言/Latex/語法表/關係符號.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b329aca9f255615",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/犯罪心理學.md"
-              }
-            }
-          },
-          {
-            "id": "92de62c1cfba6840",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/統計/ch4.3~ch4.4.md"
-              }
-            }
-          },
-          {
-            "id": "65cbc1df4e07b193",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/Time Series Analysis and Its Applications：With R Examples.md"
-              }
-            }
-          },
-          {
-            "id": "de742a82e030d913",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.11"
-              }
-            }
-          },
-          {
-            "id": "3d314c934726dfd4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -148,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "程式語言/Latex/語法表/關係符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "程式語言/Latex/語法表/關係符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "程式語言/Latex/語法表/關係符號.md"
               }
             }
           },
@@ -251,14 +189,26 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "3d314c934726dfd4",
+  "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "文本/講義/類別資料分析/CDA Topic 1.md",
+    "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/其他符號.md",
+    "文本/講義/存活分析/Survival Analysis topic 2.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
+    "未命名.md",
+    "文本/書/超譯尼采II.md",
+    "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
+    "文本/講義/時間數列/Time Series-Session 1.md",
+    "附件/Pasted Image 20240324021913_571.png",
+    "程式語言/Latex/語法表/向上取整 ⌈ ⌉.md",
+    "文本/書/犯罪心理學.md",
+    "文本/講義/統計/ch4.3~ch4.4.md",
     "文本/講義/類別資料分析/CDA Topic 2.md",
+    "文本/講義/類別資料分析/CDA Topic 1.md",
     "文本/講義/類別資料分析/Drawing 2024-03-23 15.24.12.excalidraw.md",
     "文本/講義/類別資料分析",
     "文本/書/原子習慣.md",
-    "文本/講義/統計/ch4.3~ch4.4.md",
     "文本/書/Drawing 2024-03-21 00.41.54.excalidraw.md",
     "文本/講義/統計/ch9.md",
     "文本/講義/統計/ch8.md",
@@ -269,18 +219,7 @@
     "文本/講義/統計/ch3.7~ch4.2.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
     "文本/講義/統計/ch14.3.md",
-    "文本/講義/統計/ch13.md",
-    "文本/講義/統計/ch11.md",
-    "文本/講義/統計/ch14.1~ch14.2.md",
-    "文本/講義/統計/ch10.md",
-    "文本/講義/統計/ch12.md",
-    "文本/講義/統計/ch1.1~ch2.2.md",
     "文本/講義/統計",
-    "文本/書/卡內基說話之道 如何贏取友誼與影響他人.md",
-    "文本/書/心靈的傷，身體會記住.md",
-    "文本/書/犯罪心理學.md",
-    "文本/書/東大生的究極專注力.md",
-    "文本/書/超譯尼采.md",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
     "文本/講義/存活分析",
@@ -297,7 +236,6 @@
     "附件/normal distribution mean example.png",
     "附件/Pasted image 20240313170626.png",
     "附件/Pasted image 20240313183153.png",
-    "附件/Pasted image 20240309102025.png",
     "Excalidraw"
   ]
 }
