@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "程式語言/Latex/語法表/關係符號.md",
+                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "程式語言/Latex/語法表/關係符號.md",
+                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "程式語言/Latex/語法表/關係符號.md",
+                "file": "程式語言/Latex/語法表/特殊符號.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "程式語言/Latex/語法表/關係符號.md"
+                "file": "程式語言/Latex/語法表/特殊符號.md"
               }
             }
           },
@@ -191,8 +191,9 @@
   },
   "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "程式語言/Latex/語法表/希臘字母.md",
     "程式語言/Latex/語法表/其他符號.md",
+    "程式語言/Latex/語法表/希臘字母.md",
+    "程式語言/Latex/語法表/關係符號.md",
     "文本/講義/存活分析/Survival Analysis topic 2.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
@@ -218,7 +219,6 @@
     "文本/講義/統計/ch5.md",
     "文本/講義/統計/ch3.7~ch4.2.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
-    "文本/講義/統計/ch14.3.md",
     "文本/講義/統計",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
