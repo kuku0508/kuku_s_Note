@@ -11,8 +11,10 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "excalidraw",
+              "state": {
+                "file": "文本/書/原子習慣.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/書/原子習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/書/原子習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/書/原子習慣.md"
+              }
             }
           },
           {
