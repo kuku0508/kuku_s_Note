@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "文本/書/辯論的實戰技巧 1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "文本/書/辯論的實戰技巧 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "文本/書/辯論的實戰技巧 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "文本/書/辯論的實戰技巧 1.md"
               }
             }
           },
@@ -192,6 +192,8 @@
   "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
     "文本/書/辯論的實戰技巧.md",
+    "文本/書/辯論的實戰技巧 1.md",
+    "未命名.md",
     "文本/書/榮格心理學指南.md",
     "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/其他符號.md",
@@ -200,7 +202,6 @@
     "文本/講義/存活分析/Survival Analysis topic 2.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
-    "未命名.md",
     "文本/書/超譯尼采II.md",
     "文本/書/從佛洛依德的潛意識世界探討其人格理論發展.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
@@ -218,7 +219,6 @@
     "文本/講義/統計/ch8.md",
     "文本/講義/統計/ch7.3~ch7.4.md",
     "文本/講義/統計/ch7.1~ch7.2.md",
-    "文本/講義/統計/ch6.md",
     "文本/講義/統計",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
