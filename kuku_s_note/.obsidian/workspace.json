@@ -11,10 +11,8 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/叔本華的思想隨筆.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/叔本華的思想隨筆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/叔本華的思想隨筆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文本/書/叔本華的思想隨筆.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +182,8 @@
   },
   "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "文本/書/東大生的究極專注力.md",
     "文本/書/叔本華的思想隨筆.md",
+    "文本/書/東大生的究極專注力.md",
     "文本/書/你怎能不愛上辯論 亦恩的辯論天堂.md",
     "文本/書/舌戰.md",
     "文本/書/叔本華 人生哲學的智慧.md",
