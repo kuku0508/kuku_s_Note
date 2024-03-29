@@ -11,9 +11,12 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md"
+                "file": "文本/書/舌戰.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md",
+                "file": "文本/書/舌戰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md",
+                "file": "文本/書/舌戰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md"
+                "file": "文本/書/舌戰.md"
               }
             }
           },
@@ -188,8 +191,9 @@
   },
   "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "叔本華 人生哲學的智慧.pdf",
     "文本/書/叔本華 人生哲學的智慧.md",
+    "文本/書/舌戰.md",
+    "叔本華 人生哲學的智慧.pdf",
     "文本/書/辯論的實戰技巧.md",
     "未命名.md",
     "文本/書/榮格心理學指南.md",
