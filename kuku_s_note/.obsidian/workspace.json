@@ -11,10 +11,8 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/書/辯論的實戰技巧.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/辯論的實戰技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/辯論的實戰技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文本/書/辯論的實戰技巧.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,10 +180,10 @@
       "audio-recorder:開始/停止錄音": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "文本/書/榮格心理學指南.md",
     "文本/書/辯論的實戰技巧.md",
+    "文本/書/榮格心理學指南.md",
     "程式語言/Latex/語法表/特殊符號.md",
     "程式語言/Latex/語法表/其他符號.md",
     "程式語言/Latex/語法表/希臘字母.md",
