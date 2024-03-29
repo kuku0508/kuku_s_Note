@@ -11,9 +11,9 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md"
+                "file": "叔本華 人生哲學的智慧.pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md",
+                "file": "叔本華 人生哲學的智慧.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md",
+                "file": "叔本華 人生哲學的智慧.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/叔本華 人生哲學的智慧.md"
+                "file": "叔本華 人生哲學的智慧.pdf"
               }
             }
           },
@@ -186,10 +186,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "858a8a1b0211a0e1",
   "lastOpenFiles": [
-    "文本/書/辯論的實戰技巧.md",
     "文本/書/叔本華 人生哲學的智慧.md",
+    "叔本華 人生哲學的智慧.pdf",
+    "文本/書/辯論的實戰技巧.md",
     "未命名.md",
     "文本/書/榮格心理學指南.md",
     "程式語言/Latex/語法表/特殊符號.md",
@@ -215,7 +216,6 @@
     "文本/講義/統計/ch9.md",
     "文本/講義/統計/ch8.md",
     "文本/講義/統計/ch7.3~ch7.4.md",
-    "文本/講義/統計/ch7.1~ch7.2.md",
     "文本/講義/統計",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
@@ -232,7 +232,6 @@
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
     "附件/normal distribution mean example.png",
     "附件/Pasted image 20240313170626.png",
-    "附件/Pasted image 20240313183153.png",
-    "Excalidraw"
+    "附件/Pasted image 20240313183153.png"
   ]
 }
