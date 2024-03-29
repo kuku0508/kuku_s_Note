@@ -11,12 +11,9 @@
             "id": "858a8a1b0211a0e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "文本/書/辯論的實戰技巧 1.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "文本/書/叔本華 人生哲學的智慧.md"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/書/辯論的實戰技巧 1.md",
+                "file": "文本/書/叔本華 人生哲學的智慧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/書/辯論的實戰技巧 1.md",
+                "file": "文本/書/叔本華 人生哲學的智慧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/書/辯論的實戰技巧 1.md"
+                "file": "文本/書/叔本華 人生哲學的智慧.md"
               }
             }
           },
@@ -189,10 +186,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "858a8a1b0211a0e1",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
     "文本/書/辯論的實戰技巧.md",
-    "文本/書/辯論的實戰技巧 1.md",
+    "文本/書/叔本華 人生哲學的智慧.md",
     "未命名.md",
     "文本/書/榮格心理學指南.md",
     "程式語言/Latex/語法表/特殊符號.md",
