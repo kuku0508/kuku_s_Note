@@ -24,8 +24,13 @@
             "id": "acdc9d3880758bc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/MarkDown/Markdown知識總目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/程式語言/MarkDown/Markdown知識總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/程式語言/MarkDown/Markdown知識總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/程式語言/MarkDown/Markdown知識總目錄.md"
+              }
             }
           },
           {
@@ -230,12 +239,13 @@
   },
   "active": "acdc9d3880758bc7",
   "lastOpenFiles": [
+    "知識/程式語言/Latex/Latex知識總目錄.md",
+    "知識/程式語言/MarkDown/Markdown知識總目錄.md",
     "知識/程式語言/Latex/基礎知識/隨文數式.md",
     "知識/程式語言/Latex/基礎知識/數學模式.md",
     "知識/程式語言/Latex/基礎知識/Latex概論.md",
     "知識/程式語言/Latex/基礎知識/Latex.md",
     "知識/程式語言/Latex/基礎知識/展式數式.md",
-    "知識/程式語言/Latex/Latex知識總目錄.md",
     "知識/程式語言/Latex/語法表/Latex語法表.md",
     "知識/程式語言/Latex/基礎知識",
     "知識/程式語言/基礎知識/程式語言.md",
@@ -270,7 +280,6 @@
     "文本/書/叔本華的思想隨筆.md",
     "文本/書/形上學 理論與批判.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
-    "文本/書/日本語能力試驗 公式問題集 第二集.md",
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
