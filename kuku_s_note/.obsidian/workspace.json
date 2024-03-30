@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/推論統計.md",
+                "file": "知識/統計/統計學/基礎知識/統計學目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/推論統計.md",
+                "file": "知識/統計/統計學/基礎知識/統計學目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/推論統計.md",
+                "file": "知識/統計/統計學/基礎知識/統計學目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/推論統計.md"
+                "file": "知識/統計/統計學/基礎知識/統計學目錄.md"
               }
             }
           },
@@ -294,8 +294,8 @@
   },
   "active": "20e8f4725b8dbc3f",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/基礎知識/推論統計.md",
+    "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/統計/統計學/基礎知識/統計學目錄.md",
     "知識/統計/統計學/基礎知識",
