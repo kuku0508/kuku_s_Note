@@ -5,4 +5,4 @@ list
 from "程式語言/Latex/語法表"
 ```
 
-child::[[程式語言/Latex/語法表/表格|表格]]
+child::[[知識/程式語言/Latex/語法表/表格|表格]]
