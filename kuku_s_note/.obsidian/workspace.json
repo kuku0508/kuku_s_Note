@@ -24,9 +24,12 @@
             "id": "acdc9d3880758bc7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png"
+                "file": "知識/程式語言/HTML/HTML知識總目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
+                "file": "知識/程式語言/HTML/HTML知識總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
+                "file": "知識/程式語言/HTML/HTML知識總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png"
+                "file": "知識/程式語言/HTML/HTML知識總目錄.md"
               }
             }
           },
@@ -234,11 +237,13 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "acdc9d3880758bc7",
   "lastOpenFiles": [
-    "知識/程式語言/未命名",
-    "未命名.md",
+    "知識/程式語言/HTML/HTML.md",
+    "知識/程式語言/HTML/HTML知識總目錄.md",
     "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
+    "知識/程式語言/基礎知識",
+    "未命名.md",
     "文本/附件/表/統計",
     "文本/附件/表/程式語言/Latex 顏色對照表1.png",
     "文本/附件/表/程式語言",
@@ -273,10 +278,8 @@
     "文本/書/舌戰.md",
     "文本/書/叔本華 人生哲學的智慧.md",
     "叔本華 人生哲學的智慧.pdf",
-    "文本/書/辯論的實戰技巧.md",
     "文本/講義/類別資料分析",
     "文本/講義/統計",
-    "附件/Recording 20240318232218.webm",
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
