@@ -2,7 +2,7 @@
 
 ```dataview
 list
-from "程式語言/Latex/語法表"
+from "知識/程式語言/Latex/基礎知識/語法表"
 ```
 
 child::[[知識/程式語言/Latex/基礎知識/語法表/表格|表格]]
