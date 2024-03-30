@@ -24,8 +24,10 @@
             "id": "acdc9d3880758bc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png"
+              }
             }
           }
         ],
@@ -95,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文本/附件/表/程式語言/Latex 顏色對照表2 2.png"
+              }
             }
           },
           {
@@ -230,6 +236,15 @@
   },
   "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/附件/表/未命名",
+    "文本/附件/表/程式語言/Latex 顏色對照表1.png",
+    "文本/附件/表/程式語言",
+    "文本/附件/圖/酒吞童子.png",
+    "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
+    "文本/附件/表/normal distribution example.png",
+    "文本/附件/Pasted Image 20240324021913_571.png",
+    "文本/附件/表",
+    "文本/附件/圖",
     "知識",
     "統計/統計知識總目錄.md",
     "統計/統計學/母體.md",
@@ -258,23 +273,14 @@
     "叔本華 人生哲學的智慧.pdf",
     "文本/書/辯論的實戰技巧.md",
     "未命名.md",
-    "文本/附件/Pasted Image 20240324021913_571.png",
     "文本/講義/類別資料分析",
     "文本/講義/統計",
     "附件/Recording 20240318232218.webm",
     "附件/Recording 20240318232231.webm",
-    "文本/講義/存活分析",
-    "文本/講義/時間數列",
-    "文本/未命名/未命名",
-    "文本/講義",
-    "文本/附件/Latex 顏色對照表1.png",
-    "文本/附件/Latex 顏色對照表2 2.png",
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
-    "文本/附件/normal distribution example.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
     "附件/normal distribution mean example.png",
-    "附件/Pasted image 20240313170626.png",
-    "附件/Pasted image 20240313183153.png"
+    "附件/Pasted image 20240313170626.png"
   ]
 }
