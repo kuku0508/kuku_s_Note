@@ -24,8 +24,13 @@
             "id": "acdc9d3880758bc7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/程式語言/Latex/Latex知識總目錄.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/程式語言/Latex/Latex知識總目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/程式語言/Latex/Latex知識總目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/程式語言/Latex/Latex知識總目錄.md"
+              }
             }
           },
           {
@@ -228,8 +237,11 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "acdc9d3880758bc7",
   "lastOpenFiles": [
+    "知識/程式語言/基礎知識/程式語言.md",
+    "知識/程式語言/Latex/Latex知識總目錄.md",
+    "知識/程式語言/未命名",
     "知識/程式語言/基礎知識",
     "知識/程式語言/HTML/基礎知識/HTML基礎知識目錄.md",
     "知識/程式語言/HTML/HTML知識總目錄.md",
@@ -267,10 +279,7 @@
     "文本/書/超譯尼采II.md",
     "文本/書/孤獨通行證.md",
     "文本/書/東大生的究極專注力.md",
-    "文本/書/你怎能不愛上辯論 亦恩的辯論天堂.md",
     "叔本華 人生哲學的智慧.pdf",
-    "文本/講義/類別資料分析",
-    "文本/講義/統計",
     "附件/Latex 顏色對照表1(1).png",
     "附件/Latex 顏色對照表2.png",
     "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png",
