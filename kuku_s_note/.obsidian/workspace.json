@@ -8,158 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "858a8a1b0211a0e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/描述統計.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acdc9d3880758bc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15241cadb4da0582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20e8f4725b8dbc3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/統計學目錄.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f84b5faf25ae36e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/資料.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df7a748e4b80fcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "830006bc01fd49d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/基礎知識/變數.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa14cfa6d1cf10a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/資料/量性資料.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea7b553b476773ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/圖表/表/次數分配表.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a64d030f12d90ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖表目錄.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07420f424697d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖表目錄.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/圖表/圖/直方圖.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/圖表/圖/直方圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/圖表/圖/直方圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/圖表/圖/直方圖.md"
+              }
             }
           },
           {
@@ -351,9 +216,9 @@
         ],
         "direction": "vertical",
         "x": 1280,
-        "y": 0,
+        "y": 696,
         "width": 1280,
-        "height": 705,
+        "height": 696,
         "maximize": false,
         "zoom": 0
       },
@@ -388,20 +253,22 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/圖表目錄.md",
+    "知識/統計/統計學/圖表/表/次數分配表.md",
+    "知識/統計/統計學/資料/量性資料.md",
+    "知識/統計/統計學/基礎知識/變數.md",
+    "知識/統計/統計學/基礎知識/資料.md",
     "知識/統計/統計學/圖表/圖/直方圖.md",
     "文本/附件/圖/直方圖範例 分數.png",
-    "知識/統計/統計學/圖表/圖表目錄.md",
     "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
     "知識/統計/統計學/圖表/表/相對次數分配表.md",
     "知識/統計/統計學/圖表/表/累積次數分配表.md",
-    "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/圖表/表/未命名",
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/圖表/圖",
-    "知識/統計/統計學/基礎知識/資料.md",
     "文本/講義/統計/ch1.1~ch2.2.md",
     "知識/統計/統計學/圖表",
     "知識/統計/統計學/圖表/表",
@@ -410,11 +277,9 @@
     "知識/統計/統計學/資料/時間數列資料.md",
     "知識/統計/統計學/資料/結構化資料.md",
     "知識/統計/統計學/資料/區間尺度.md",
-    "知識/統計/統計學/資料/量性資料.md",
     "知識/統計/統計學/資料/橫斷面資料.md",
     "知識/統計/統計學/資料/網路資料.md",
     "知識/統計/統計學/資料/非結構化資料.md",
-    "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/基礎知識/質性資料.md",
     "知識/統計/統計學/基礎知識/描述統計.md",
