@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/類別資料.md",
+                "file": "知識/統計/類別資料分析/有序.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -243,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/類別資料.md",
+                "file": "知識/統計/類別資料分析/有序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/類別資料.md",
+                "file": "知識/統計/類別資料分析/有序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/類別資料.md"
+                "file": "知識/統計/類別資料分析/有序.md"
               }
             }
           },
@@ -409,11 +409,13 @@
       }
     ]
   },
-  "active": "df7a748e4b80fcf7",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
-    "文本/講義/類別資料分析/CDA Topic 1.md",
+    "知識/統計/類別資料分析",
     "知識/統計/統計學/基礎知識/類別資料.md",
+    "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/基礎知識/資料.md",
+    "文本/講義/類別資料分析/CDA Topic 1.md",
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/統計學/資料/結構化資料.md",
     "知識/統計/統計學/資料/時間數列資料.md",
@@ -438,8 +440,6 @@
     "文本/講義/統計講義目錄.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
     "文本/講義/未命名.md",
-    "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
-    "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
     "知識/程式語言/Latex/基礎知識/語法表/未命名",
     "知識/程式語言/MarkDown/基礎知識",
     "知識/程式語言/MarkDown/語法表/未命名",
