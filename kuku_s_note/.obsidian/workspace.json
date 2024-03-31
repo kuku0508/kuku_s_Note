@@ -76,13 +76,8 @@
             "id": "df7a748e4b80fcf7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/資料/無序.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -152,7 +147,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/資料/無序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +163,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/資料/無序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +184,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/資料/無序.md"
-              }
+              "state": {}
             }
           },
           {
@@ -320,9 +311,10 @@
   },
   "active": "df7a748e4b80fcf7",
   "lastOpenFiles": [
+    "知識/統計/統計學/資料/變數.md",
+    "知識/統計/類別資料分析/無序.md",
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/資料/類別資料.md",
-    "知識/統計/統計學/資料/無序.md",
     "知識/統計/類別資料分析",
     "知識/統計/統計學/基礎知識/資料.md",
     "文本/講義/類別資料分析/CDA Topic 1.md",
@@ -349,7 +341,6 @@
     "知識/統計/統計學/基礎知識",
     "文本/講義/統計講義目錄.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
-    "文本/講義/未命名.md",
     "知識/程式語言/Latex/基礎知識/語法表/未命名",
     "知識/程式語言/MarkDown/基礎知識",
     "知識/程式語言/MarkDown/語法表/未命名",
