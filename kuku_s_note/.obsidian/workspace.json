@@ -104,7 +104,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/量性資料.md",
+                "file": "知識/統計/統計學/資料/量性資料.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/區間尺度.md",
+                "file": "知識/統計/統計學/資料/比例尺度.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/區間尺度.md",
+                "file": "知識/統計/統計學/資料/比例尺度.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/區間尺度.md",
+                "file": "知識/統計/統計學/資料/比例尺度.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/區間尺度.md"
+                "file": "知識/統計/統計學/資料/比例尺度.md"
               }
             }
           },
@@ -359,8 +359,9 @@
   },
   "active": "ea7b553b476773ad",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/量性資料.md",
-    "知識/統計/統計學/基礎知識/區間尺度.md",
+    "知識/統計/統計學/資料/量性資料.md",
+    "知識/統計/統計學/資料/比例尺度.md",
+    "知識/統計/統計學/資料/區間尺度.md",
     "知識/統計/統計學/基礎知識/變數.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/基礎知識/質性資料.md",
@@ -387,7 +388,6 @@
     "知識/統計/統計學/基礎知識/海量資料.md",
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/統計學/基礎知識/母體參數.md",
-    "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/基礎知識",
     "知識/程式語言/Latex/基礎知識/語法表/未命名",
     "知識/程式語言/MarkDown/基礎知識",
