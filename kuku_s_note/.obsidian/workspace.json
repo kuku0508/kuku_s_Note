@@ -11,13 +11,8 @@
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/長條圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖/長條圖.md"
-              }
+              "state": {}
             }
           },
           {
@@ -253,13 +244,13 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/圖/長條圖.md",
+    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "文本/附件/圖/長條圖範例 學歷.png",
     "知識/統計/統計學/圖表/圖/直方圖.md",
-    "知識/統計/統計學/圖表/圖/長條圖.md",
     "知識/統計/統計學/圖表/圖表目錄.md",
-    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "文本/附件/圖/相對次數直方圖 範例.png",
     "知識/統計/統計學/圖表/表/累積次數分配表.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
@@ -299,7 +290,6 @@
     "文本/附件/表/統計/normal distribution example.png",
     "文本/附件/Pasted Image 20240324021913_571.png",
     "附件/Latex 顏色對照表1(1).png",
-    "附件/Latex 顏色對照表2.png",
-    "附件/27bf0b45-98d2-456b-84ef-ca6df09b59d7.png"
+    "附件/Latex 顏色對照表2.png"
   ]
 }
