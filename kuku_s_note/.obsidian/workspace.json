@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖表目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖表目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
+                "file": "知識/統計/統計學/圖表/圖表目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/表/相對累積次數分配表.md"
+                "file": "知識/統計/統計學/圖表/圖表目錄.md"
               }
             }
           },
@@ -385,8 +385,8 @@
   },
   "active": "b07420f424697d79",
   "lastOpenFiles": [
-    "知識/統計/統計學/圖表/表/相對次數分配表.md",
     "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
+    "知識/統計/統計學/圖表/表/相對次數分配表.md",
     "知識/統計/統計學/圖表/表/累積次數分配表.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
     "知識/統計/統計學/圖表/表/未命名",
