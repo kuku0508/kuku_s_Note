@@ -377,13 +377,43 @@
         "height": 705,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "f55808591b3c87b7",
+        "type": "window",
+        "children": [
+          {
+            "id": "7c8d34043bfaab71",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "905ed918361f1e11",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "文本/講義/類別資料分析/CDA Topic 1.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 712,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "df7a748e4b80fcf7",
   "lastOpenFiles": [
-    "知識/統計/統計學/基礎知識/資料.md",
+    "文本/講義/類別資料分析/CDA Topic 1.md",
     "知識/統計/統計學/基礎知識/類別資料.md",
+    "知識/統計/統計學/基礎知識/資料.md",
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/統計學/資料/結構化資料.md",
     "知識/統計/統計學/資料/時間數列資料.md",
@@ -410,7 +440,6 @@
     "文本/講義/未命名.md",
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/程式語言/MarkDown/基礎知識/MarkDown.md",
-    "知識/程式語言/MarkDown/基礎知識/Markdown概論.md",
     "知識/程式語言/Latex/基礎知識/語法表/未命名",
     "知識/程式語言/MarkDown/基礎知識",
     "知識/程式語言/MarkDown/語法表/未命名",
