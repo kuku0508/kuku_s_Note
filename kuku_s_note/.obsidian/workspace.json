@@ -141,8 +141,13 @@
             "id": "b07420f424697d79",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/圖表/表/相對次數分配表.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -212,6 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/圖表/表/相對次數分配表.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,6 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/圖表/表/相對次數分配表.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +256,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/圖表/表/相對次數分配表.md"
+              }
             }
           },
           {
@@ -376,6 +385,8 @@
   },
   "active": "b07420f424697d79",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
+    "知識/統計/統計學/圖表/表/未命名",
     "知識/統計/統計學/圖表/表/累積次數分配表.md",
     "知識/統計/統計學/圖表/表/相對次數分配表.md",
     "知識/統計/統計學/圖表/表/次數分配表.md",
@@ -405,13 +416,11 @@
     "知識/統計/類別資料分析/無序.md",
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/類別資料分析",
-    "文本/講義/類別資料分析/CDA Topic 1.md",
     "知識/統計/機器學習",
     "知識/統計/統計學/資料",
     "知識/統計/統計學/基礎知識",
     "知識/程式語言/Latex/基礎知識/語法表/未命名",
     "知識/程式語言/MarkDown/基礎知識",
-    "知識/程式語言/MarkDown/語法表/未命名",
     "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
     "文本/附件/表/程式語言/Latex 顏色對照表1.png",
     "文本/附件/圖/酒吞童子.png",
