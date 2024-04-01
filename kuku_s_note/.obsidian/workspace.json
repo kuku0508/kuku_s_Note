@@ -11,12 +11,9 @@
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/時間序列圖.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "散佈圖 預測與實際變數.png"
               }
             }
           }
@@ -86,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/時間序列圖.md",
+                "file": "散佈圖 預測與實際變數.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/時間序列圖.md",
+                "file": "散佈圖 預測與實際變數.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/時間序列圖.md"
+                "file": "散佈圖 預測與實際變數.png"
               }
             }
           },
@@ -255,8 +252,9 @@
   },
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
-    "知識/統計/統計學/資料/時間數列資料.md",
     "知識/統計/統計學/圖表/圖/時間序列圖.md",
+    "時間序列圖範例 每年飛機乘客數.png",
+    "知識/統計/統計學/資料/時間數列資料.md",
     "知識/待處理/相關係數.md",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
     "知識/待處理",
@@ -287,11 +285,9 @@
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/微分.md",
-    "知識/程式語言/MarkDown/語法表/圓形標記.md",
     "文本/附件/圖/點圖範例 員工工作完成率.png",
     "文本/附件/圖/次數多邊形圖範例.png",
     "文本/附件/圖/長條圖範例 學歷.png",
-    "文本/附件/圖/相對次數直方圖 範例.png",
     "知識/統計/統計學/圖表/表/未命名",
     "知識/統計/統計學/圖表/圖",
     "知識/統計/統計學/圖表",
