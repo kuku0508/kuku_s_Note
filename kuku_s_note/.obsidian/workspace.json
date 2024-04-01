@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/柏拉圖.md",
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/柏拉圖.md",
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/柏拉圖.md",
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/柏拉圖.md"
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md"
               }
             }
           },
@@ -256,6 +256,7 @@
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
     "知識/統計/統計學/圖表/圖/柏拉圖.md",
+    "知識/統計/統計學/圖表/圖/散佈圖.md",
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "文本/附件/圖/柏拉圖範例 咖啡問題.png",
     "知識/統計/統計學/基礎知識/描述統計.md",
