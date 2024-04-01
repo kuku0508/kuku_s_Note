@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/圓餅圖.md",
+                "file": "知識/統計/統計學/圖表/圖/莖葉圖.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/圓餅圖.md",
+                "file": "知識/統計/統計學/圖表/圖/莖葉圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/圓餅圖.md",
+                "file": "知識/統計/統計學/圖表/圖/莖葉圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/圓餅圖.md"
+                "file": "知識/統計/統計學/圖表/圖/莖葉圖.md"
               }
             }
           },
@@ -253,12 +253,12 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "文本/附件/圖/圓餅圖範例 台灣政黨席次.png",
     "知識/統計/統計學/圖表/圖/點圖.md",
     "文本/附件/圖/圓餅圖範例 台灣政黨席次.png",
-    "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
@@ -299,7 +299,6 @@
     "知識/程式語言/MarkDown/基礎知識",
     "文本/附件/表/程式語言/Latex 顏色對照表2 2.png",
     "文本/附件/表/程式語言/Latex 顏色對照表1.png",
-    "文本/附件/圖/酒吞童子.png",
-    "文本/附件/表/統計/normal distribution example.png"
+    "文本/附件/圖/酒吞童子.png"
   ]
 }
