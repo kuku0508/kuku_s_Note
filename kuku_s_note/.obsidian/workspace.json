@@ -11,8 +11,13 @@
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "知識/統計/統計學/圖表/圖/點圖.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "知識/統計/統計學/圖表/圖/點圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "知識/統計/統計學/圖表/圖/點圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "知識/統計/統計學/圖表/圖/點圖.md"
+              }
             }
           },
           {
@@ -246,6 +255,7 @@
   },
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/圖表/圖/點圖.md",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
@@ -279,7 +289,6 @@
     "知識/統計/統計學/資料/區間尺度.md",
     "知識/統計/統計學/資料/橫斷面資料.md",
     "知識/統計/統計學/資料/網路資料.md",
-    "知識/統計/統計學/資料/非結構化資料.md",
     "知識/統計/類別資料分析",
     "知識/統計/機器學習",
     "知識/統計/統計學/資料",
