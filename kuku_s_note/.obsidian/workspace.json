@@ -11,9 +11,12 @@
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20240401170349.png"
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20240401170349.png",
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20240401170349.png",
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20240401170349.png"
+                "file": "知識/統計/統計學/圖表/圖/散佈圖.md"
               }
             }
           },
@@ -250,10 +253,10 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "文本/附件/圖/散佈圖 相關性說明.png",
     "Pasted image 20240401170257.png",
-    "Pasted image 20240401170349.png",
     "知識/統計/統計學/圖表/圖/散佈圖.md",
     "知識/統計/統計學/圖表/圖/柏拉圖.md",
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
