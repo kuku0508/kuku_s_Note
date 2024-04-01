@@ -11,13 +11,8 @@
             "id": "0db3c847c0a898d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "知識/統計/統計學/圖表/圖/點圖.md"
-              }
+              "state": {}
             }
           },
           {
@@ -255,14 +246,14 @@
   },
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
-    "Pasted image 20240401140011.png",
+    "知識/統計/統計學/圖表/圖/點圖.md",
+    "文本/附件/圖/點圖範例 員工工作完成率.png",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/程式語言/Latex/基礎知識/語法表/Latex語法表.md",
     "知識/程式語言/Latex/基礎知識/語法表/條件表達式.md",
     "知識/程式語言/Latex/基礎知識/語法表/連分數.md",
     "知識/程式語言/Latex/基礎知識/語法表/向量.md",
-    "知識/統計/統計學/圖表/圖/點圖.md",
     "知識/統計/統計學/圖表/圖/莖葉圖.md",
     "知識/統計/統計學/圖表/圖/次數多邊形圖.md",
     "知識/統計/統計學/圖表/圖/直方圖.md",
@@ -299,7 +290,6 @@
     "文本/附件/表/程式語言/Latex 顏色對照表1.png",
     "文本/附件/圖/酒吞童子.png",
     "文本/附件/表/統計/normal distribution example.png",
-    "文本/附件/Pasted Image 20240324021913_571.png",
-    "附件/Latex 顏色對照表1(1).png"
+    "文本/附件/Pasted Image 20240324021913_571.png"
   ]
 }
