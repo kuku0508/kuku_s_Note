@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
+                "file": "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
+                "file": "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
+                "file": "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md"
+                "file": "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
+                "file": "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +198,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -318,10 +318,10 @@
   },
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
     "知識/統計/統計學/基礎知識/資料.md",
     "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/基礎知識/母體.md",
-    "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
     "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
     "知識/統計/統計學/基礎知識/樣本統計量",
