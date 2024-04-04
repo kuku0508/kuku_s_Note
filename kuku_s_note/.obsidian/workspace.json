@@ -161,9 +161,44 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "174d11e6e3a78682",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224423,
+                  "close": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -283,9 +318,11 @@
   },
   "active": "0db3c847c0a898d9",
   "lastOpenFiles": [
+    "知識/統計/統計學/基礎知識/資料.md",
+    "知識/統計/統計學/統計學目錄.md",
     "知識/統計/統計學/基礎知識/母體.md",
     "知識/統計/統計學/基礎知識/母體參數/母體參數.md",
-    "知識/統計/統計學/統計學目錄.md",
+    "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
     "文本/講義/統計/ch3.1~ch3.5.md",
     "知識/統計/統計學/基礎知識/樣本統計量",
     "知識/統計/統計學/基礎知識/母體參數",
@@ -303,10 +340,8 @@
     "知識/統計/統計學/圖表/圖/圓餅圖.md",
     "文本/附件/圖/柏拉圖範例 咖啡問題.png",
     "知識/統計/統計學/基礎知識/描述統計.md",
-    "知識/統計/統計學/基礎知識/樣本統計量/樣本統計量.md",
     "知識/統計/統計學/基礎知識/樣本.md",
     "知識/統計/統計學/基礎知識/統計學.md",
-    "知識/統計/統計學/基礎知識/資料.md",
     "知識/統計/統計學/資料/類別資料.md",
     "知識/統計/統計學/圖表/表/相對累積次數分配表.md",
     "知識/統計/統計學/圖表/表/累積次數分配表.md",
