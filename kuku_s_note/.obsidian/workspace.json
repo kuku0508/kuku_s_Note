@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/抽樣調查/Ch-05.md"
+                "file": "文本/講義/抽樣調查/Ch-04.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/抽樣調查/Ch-05.md",
+                "file": "文本/講義/抽樣調查/Ch-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/抽樣調查/Ch-05.md",
+                "file": "文本/講義/抽樣調查/Ch-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/抽樣調查/Ch-05.md"
+                "file": "文本/講義/抽樣調查/Ch-04.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/抽樣調查/Ch-05.md",
+                "file": "文本/講義/抽樣調查/Ch-04.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,6 +223,7 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/抽樣調查/Ch-05.md",
     "文本/講義/抽樣調查/Ch-04.md",
     "文本/講義/抽樣調查/Ch-03.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
@@ -248,7 +249,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
     "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "知識/程式語言/Latex/基礎知識/語法表/表格.md",
-    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "文本/問題/時間數列",
     "文本/問題/未命名.canvas",
     "文本/問題",
