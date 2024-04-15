@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 6.md",
+                "file": "文本/問題/時間數列 第二次作業.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 6.md",
+                "file": "文本/問題/時間數列 第二次作業.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 6.md"
+                "file": "文本/問題/時間數列 第二次作業.md"
               }
             }
           },
@@ -168,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/時間數列/Time Series-Session 6.md",
+                "file": "文本/問題/時間數列 第二次作業.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,53 +224,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "floating": {
-    "id": "86547cced0137a62",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f774d87f6e495008",
-        "type": "window",
-        "children": [
-          {
-            "id": "c147dc31f427e90f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "52233391fb7fb3ba",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/講義/時間數列/Time Series-Session 6.md"
-                  }
-                }
-              },
-              {
-                "id": "4d16f4374c3d155d",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "文本/講義/時間數列/Time Series-Session 7.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1032,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "52233391fb7fb3ba",
+  "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/問題/時間數列 第二次作業.md",
     "文本/講義/時間數列/Time Series-Session 5.md",
     "文本/講義/時間數列/Time Series-Session 4.md",
@@ -278,7 +234,6 @@
     "文本/講義/時間數列/Time Series-Session 2.md",
     "文本/講義/時間數列/Time Series-Session 1.md",
     "文本/講義/時間數列/Time Series-Session 7.md",
-    "文本/講義/時間數列/Time Series-Session 6.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
