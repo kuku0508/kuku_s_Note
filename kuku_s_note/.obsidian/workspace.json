@@ -207,21 +207,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
+      "templater-obsidian:Templater": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "workspaces:管理工作區配置": false,
       "zk-prefixer:建立新唯一筆記": false,
       "random-note:開始漫遊筆記": false,
       "audio-recorder:開始/停止錄音": false,
+      "workspaces:管理工作區配置": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-text-transporter:Obsidian42 - Text Transporter": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "floating": {
@@ -262,8 +262,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1280,
-        "height": 1392,
+        "width": 960,
+        "height": 1032,
         "maximize": false,
         "zoom": 0
       }
@@ -271,6 +271,7 @@
   },
   "active": "52233391fb7fb3ba",
   "lastOpenFiles": [
+    "文本/問題/時間數列 第二次作業.md",
     "文本/講義/時間數列/Time Series-Session 5.md",
     "文本/講義/時間數列/Time Series-Session 4.md",
     "文本/講義/時間數列/Time Series-Session 3.md",
@@ -278,7 +279,6 @@
     "文本/講義/時間數列/Time Series-Session 1.md",
     "文本/講義/時間數列/Time Series-Session 7.md",
     "文本/講義/時間數列/Time Series-Session 6.md",
-    "文本/問題/時間數列 第二次作業.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
