@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/時間數列/空白筆記/Time Series-Session 7.md"
+                "file": "文本/講義/時間數列/老師筆記/time Series-Session 2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
+                "file": "文本/講義/時間數列/老師筆記/time Series-Session 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
+                "file": "文本/講義/時間數列/老師筆記/time Series-Session 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/時間數列/空白筆記/Time Series-Session 7.md"
+                "file": "文本/講義/時間數列/老師筆記/time Series-Session 2.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
+                "file": "文本/講義/時間數列/老師筆記/time Series-Session 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,8 +224,11 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/時間數列/老師筆記/time Series-Session 1.md",
+    "文本/講義/時間數列/老師筆記/time Series-Session 2.md",
+    "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
     "文本/講義/抽樣調查/Ch-04.md",
     "文本/講義/時間數列/空白筆記",
     "文本/講義/時間數列/老師筆記",
@@ -239,7 +245,6 @@
     "文本/講義/時間數列/空白筆記/Time Series-Session 3.md",
     "文本/講義/時間數列/空白筆記/Time Series-Session 2.md",
     "文本/講義/時間數列/空白筆記/Time Series-Session 1.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
     "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
     "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "知識/程式語言/Latex/基礎知識/語法表/特殊符號.md",
@@ -249,7 +254,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/刪除線.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
-    "知識/程式語言/Latex/基礎知識/語法表/矩陣.md",
     "文本/問題/時間數列",
     "文本/問題/未命名.canvas",
     "文本/問題",
