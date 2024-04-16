@@ -42,7 +42,7 @@ tags: [excalidraw]
 			"isDeleted": false,
 			"boundElements": null,
 			"updated": 1710497581170,
-			"link": "https://drive.google.com/file/d/1xkwFaZH-N3QTrOFti1kuI1uoX6aHXI2d/view?usp=sharing",
+			"link": "https://drive.google.com/file/d/1hgU1XzvRRWTFOCJsD41hAA-V2Ki0zIZl/view?usp=drive_link",
 			"locked": false,
 			"scale": [
 				1,
