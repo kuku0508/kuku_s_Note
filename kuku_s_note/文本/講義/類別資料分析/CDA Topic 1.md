@@ -45,6 +45,8 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 - Response Variable   ：dependent variable, Y variable
 - Explanatory Variable：independent variable, X variable ^geybpEPO
 
+So, Statistical Models is how response vabiables are influenced by explanatory variables. ^rgMTeqsi
+
 %%
 # Drawing
 ```json
@@ -879,6 +881,159 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 			"lineHeight": 1.25
 		},
 		{
+			"id": "rgMTeqsi",
+			"type": "text",
+			"x": -218.80863609933544,
+			"y": 221.04528070660353,
+			"width": 882.25927734375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 321064353,
+			"version": 116,
+			"versionNonce": 981449039,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653444789,
+			"link": null,
+			"locked": false,
+			"text": "So, Statistical Models is how response vabiables are influenced by explanatory variables.",
+			"rawText": "So, Statistical Models is how response vabiables are influenced by explanatory variables.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "So, Statistical Models is how response vabiables are influenced by explanatory variables.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "pwfWKdnUZ5p2U9yZd2k7M",
+			"type": "rectangle",
+			"x": -180.588508173474,
+			"y": 222.00078390475005,
+			"width": 185.3676204404277,
+			"height": 24.84308315180988,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"seed": 536736481,
+			"version": 124,
+			"versionNonce": 38810497,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653463840,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "88eHPe89b_1dM_9V1SqWy",
+			"type": "line",
+			"x": 82.17487131682287,
+			"y": 241.11084786768072,
+			"width": 179.63460125154847,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1984595759,
+			"version": 89,
+			"versionNonce": 2005336161,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653473156,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					179.63460125154847,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "1yomUMK8AgfzoDy2ThF8U",
+			"type": "line",
+			"x": 314.3621484664309,
+			"y": 243.97735746212038,
+			"width": 94.59481661650693,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 241847361,
+			"version": 35,
+			"versionNonce": 2037806703,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653479770,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					94.59481661650693,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "VFRnZiEU",
 			"type": "text",
 			"x": -7.530903812777069,
@@ -918,7 +1073,7 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
