@@ -8,21 +8,56 @@ tags: [excalidraw]
 
 
 # Text Elements
+類別資料分析-Categorical Data ^pJEwXkTZ
+
 %%
 # Drawing
 ```json
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.4",
 	"elements": [
 		{
-			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"type": "embeddable",
-			"x": -429.75,
-			"y": -594.4375,
+			"version": 250,
+			"versionNonce": 1398607009,
+			"isDeleted": false,
+			"id": "Fc1xNSJ7PDDVRqM5lOeem",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -1098.75,
+			"y": -628.4375,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
 			"width": 850,
 			"height": 1214,
+			"seed": 332641782,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 3
+			},
+			"boundElements": [],
+			"updated": 1713615139876,
+			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
+			"locked": false,
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "pJEwXkTZ",
+			"type": "text",
+			"x": -224.5,
+			"y": -537.875,
+			"width": 302.9798583984375,
+			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -33,21 +68,24 @@ tags: [excalidraw]
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"seed": 332641782,
-			"version": 134,
-			"versionNonce": 96581034,
+			"roundness": null,
+			"seed": 287905889,
+			"version": 47,
+			"versionNonce": 1198254721,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1711178624836,
-			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
+			"updated": 1713615166641,
+			"link": null,
 			"locked": false,
-			"scale": [
-				1,
-				1
-			]
+			"text": "類別資料分析-Categorical Data",
+			"rawText": "類別資料分析-Categorical Data",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "類別資料分析-Categorical Data",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -65,8 +103,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 466.25,
-		"scrollY": 656.5625,
+		"scrollX": 1111,
+		"scrollY": 644,
 		"zoom": {
 			"value": 1
 		},
