@@ -40,6 +40,8 @@ Nominal             Nominal
 
 Ordinal             Ordinal ^k2uDyHGJ
 
+Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
+
 %%
 # Drawing
 ```json
@@ -802,6 +804,42 @@ Ordinal             Ordinal ^k2uDyHGJ
 			"endArrowhead": null
 		},
 		{
+			"id": "UhSm22c1",
+			"type": "text",
+			"x": -214.98662330674927,
+			"y": 102.56288413643324,
+			"width": 762.7194048642743,
+			"height": 30.73301918887921,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 623345487,
+			"version": 163,
+			"versionNonce": 766683009,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653227347,
+			"link": null,
+			"locked": false,
+			"text": "Response Variable and Explanatory Variable 反應變數與解釋變數",
+			"rawText": "Response Variable and Explanatory Variable 反應變數與解釋變數",
+			"fontSize": 24.586415351103366,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Response Variable and Explanatory Variable 反應變數與解釋變數",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "VFRnZiEU",
 			"type": "text",
 			"x": -7.530903812777069,
@@ -841,7 +879,7 @@ Ordinal             Ordinal ^k2uDyHGJ
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
