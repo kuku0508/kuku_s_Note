@@ -11,7 +11,7 @@ tags: [excalidraw]
 類別資料分析-Categorical Data Analysis ^pJEwXkTZ
 
 類別資料(Categorical Data)
-A ca ^eLCuUd6q
+- A categorical variable has a measurement scale consisting of a set of categories ^eLCuUd6q
 
 %%
 # Drawing
@@ -95,7 +95,7 @@ A ca ^eLCuUd6q
 			"type": "text",
 			"x": -232.5,
 			"y": -558.875,
-			"width": 269.8198547363281,
+			"width": 838.0994262695312,
 			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -109,21 +109,21 @@ A ca ^eLCuUd6q
 			"frameId": null,
 			"roundness": null,
 			"seed": 1845050593,
-			"version": 56,
-			"versionNonce": 89063873,
+			"version": 140,
+			"versionNonce": 2052049633,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615227535,
+			"updated": 1713615265541,
 			"link": null,
 			"locked": false,
-			"text": "類別資料(Categorical Data)\nA ca",
-			"rawText": "類別資料(Categorical Data)\nA ca",
+			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
+			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料(Categorical Data)\nA ca",
+			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
 			"lineHeight": 1.25
 		}
 	],
