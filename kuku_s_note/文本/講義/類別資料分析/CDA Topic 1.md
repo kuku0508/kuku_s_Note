@@ -11,7 +11,12 @@ tags: [excalidraw]
 類別資料分析-Categorical Data Analysis ^pJEwXkTZ
 
 類別資料(Categorical Data)
-- A categorical variable has a measurement scale consisting of a set of categories ^eLCuUd6q
+- A categorical variable has a measurement scale consisting of a set of categories
+For example
+- yes or no
+- male or female
+- correct or incorrect
+- DPP or KMT ^eLCuUd6q
 
 %%
 # Drawing
@@ -96,7 +101,7 @@ tags: [excalidraw]
 			"x": -232.5,
 			"y": -558.875,
 			"width": 838.0994262695312,
-			"height": 50,
+			"height": 175,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -109,21 +114,21 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 1845050593,
-			"version": 140,
-			"versionNonce": 2052049633,
+			"version": 229,
+			"versionNonce": 1517976399,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615265541,
+			"updated": 1713615442325,
 			"link": null,
 			"locked": false,
-			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
-			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
+			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
+			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"lineHeight": 1.25
 		},
 		{
