@@ -12,7 +12,7 @@ tags: [excalidraw]
 
 類別資料(Categorical Data)
 - A categorical variable has a measurement scale consisting of a set of categories
-categorical data 
+there are two type of categorical data, Nominal and Ordinal
 For example
 - yes or no
 - male or female
@@ -115,21 +115,21 @@ For example
 			"frameId": null,
 			"roundness": null,
 			"seed": 1845050593,
-			"version": 251,
-			"versionNonce": 1347219777,
+			"version": 305,
+			"versionNonce": 1076913793,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615521783,
+			"updated": 1713615572770,
 			"link": null,
 			"locked": false,
-			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
-			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nthere are two type of categorical data, Nominal and Ordinal\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nthere are two type of categorical data, Nominal and Ordinal\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nthere are two type of categorical data, Nominal and Ordinal\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"lineHeight": 1.25
 		},
 		{
@@ -168,6 +168,50 @@ For example
 				[
 					200,
 					-1
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "bA34uOoMUAuF1ITY_i1eS",
+			"type": "line",
+			"x": 184.5,
+			"y": -487.875,
+			"width": 67,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 580352577,
+			"version": 114,
+			"versionNonce": 1482626127,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615584020,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					67,
+					0
 				]
 			],
 			"lastCommittedPoint": null,
