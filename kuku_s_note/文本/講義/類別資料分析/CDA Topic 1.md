@@ -42,7 +42,8 @@ Ordinal             Ordinal ^k2uDyHGJ
 
 Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 
-- Response Variable ^geybpEPO
+- Response Variable   ：dependent variable, Y variable
+- Explanatory Variable：independent variable, X variable ^geybpEPO
 
 %%
 # Drawing
@@ -846,8 +847,8 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 			"type": "text",
 			"x": -219.76413929748196,
 			"y": 143.64952165673424,
-			"width": 192.01983642578125,
-			"height": 25,
+			"width": 549.9995727539062,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -860,21 +861,21 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 			"frameId": null,
 			"roundness": null,
 			"seed": 1682919311,
-			"version": 30,
-			"versionNonce": 1934366017,
+			"version": 150,
+			"versionNonce": 1822664225,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713653251777,
+			"updated": 1713653324142,
 			"link": null,
 			"locked": false,
-			"text": "- Response Variable",
-			"rawText": "- Response Variable",
+			"text": "- Response Variable   ：dependent variable, Y variable\n- Explanatory Variable：independent variable, X variable",
+			"rawText": "- Response Variable   ：dependent variable, Y variable\n- Explanatory Variable：independent variable, X variable",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "- Response Variable",
+			"originalText": "- Response Variable   ：dependent variable, Y variable\n- Explanatory Variable：independent variable, X variable",
 			"lineHeight": 1.25
 		},
 		{
