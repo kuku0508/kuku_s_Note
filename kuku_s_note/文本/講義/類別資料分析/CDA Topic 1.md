@@ -1034,6 +1034,50 @@ So, Statistical Models is how response vabiables are influenced by explanatory v
 			"endArrowhead": null
 		},
 		{
+			"id": "UiZqs7QxHsF6WfXQ-w0oM",
+			"type": "line",
+			"x": 450.0436026032387,
+			"y": 243.02185426397375,
+			"width": 211.1662067903842,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1734070415,
+			"version": 68,
+			"versionNonce": 1514289057,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653485620,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					211.1662067903842,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"id": "VFRnZiEU",
 			"type": "text",
 			"x": -7.530903812777069,
