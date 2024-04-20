@@ -99,8 +99,12 @@ Regression ^ke58etyk
 
 類別資料分析
 對數線性模式
-Loglinear model
+Loglinear 
+model
 列聯表分析 ^GcZjCxGz
+
+邏輯迴歸
+對數線性模式 ^MZ8sJu03
 
 %%
 # Drawing
@@ -2179,8 +2183,8 @@ Loglinear model
 		{
 			"id": "ke58etyk",
 			"type": "text",
-			"x": -63.635308223014135,
-			"y": 678.9259318786667,
+			"x": -64.91964322301413,
+			"y": 677.7491708786667,
 			"width": 110,
 			"height": 100,
 			"angle": 0,
@@ -2195,11 +2199,11 @@ Loglinear model
 			"frameId": null,
 			"roundness": null,
 			"seed": 592933729,
-			"version": 66,
-			"versionNonce": 1879910319,
+			"version": 70,
+			"versionNonce": 1736263023,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713655159536,
+			"updated": 1713655217718,
 			"link": null,
 			"locked": false,
 			"text": "邏輯/羅吉斯\n迴歸\nLogistic\nRegression",
@@ -2215,10 +2219,10 @@ Loglinear model
 		{
 			"id": "GcZjCxGz",
 			"type": "text",
-			"x": 78.75279613368025,
-			"y": 677.7491706856362,
-			"width": 146.25987243652344,
-			"height": 100,
+			"x": 61.073087133680225,
+			"y": 665.2491706856363,
+			"width": 120,
+			"height": 125,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2231,21 +2235,57 @@ Loglinear model
 			"frameId": null,
 			"roundness": null,
 			"seed": 836743809,
-			"version": 100,
-			"versionNonce": 1665324207,
+			"version": 134,
+			"versionNonce": 1768162447,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713655206520,
+			"updated": 1713655240385,
 			"link": null,
 			"locked": false,
-			"text": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
-			"rawText": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
+			"text": "類別資料分析\n對數線性模式\nLoglinear \nmodel\n列聯表分析",
+			"rawText": "類別資料分析\n對數線性模式\nLoglinear \nmodel\n列聯表分析",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
+			"originalText": "類別資料分析\n對數線性模式\nLoglinear \nmodel\n列聯表分析",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "MZ8sJu03",
+			"type": "text",
+			"x": 221.3675068764357,
+			"y": 677.7491714926057,
+			"width": 120,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1325464303,
+			"version": 58,
+			"versionNonce": 1668559471,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713655263155,
+			"link": null,
+			"locked": false,
+			"text": "邏輯迴歸\n對數線性模式",
+			"rawText": "邏輯迴歸\n對數線性模式",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "邏輯迴歸\n對數線性模式",
 			"lineHeight": 1.25
 		},
 		{
