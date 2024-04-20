@@ -21,7 +21,8 @@ For example
 
 Nominal Variable 無序變數 ^ssiU08Wq
 
-The order of listing the categories is irrelevant ^7H6SvIsA
+- The order of listing the categories is irrelevant
+- The statistical analysis should not depand on the ordering ^7H6SvIsA
 
 不相關的 ^4YAeJOLl
 
@@ -311,8 +312,8 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 			"type": "text",
 			"x": -223.5,
 			"y": -296.875,
-			"width": 475.85955810546875,
-			"height": 25,
+			"width": 602.8994750976562,
+			"height": 50,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -325,27 +326,27 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 			"frameId": null,
 			"roundness": null,
 			"seed": 149521519,
-			"version": 72,
-			"versionNonce": 69857569,
+			"version": 171,
+			"versionNonce": 370066497,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615713944,
+			"updated": 1713615869230,
 			"link": null,
 			"locked": false,
-			"text": "The order of listing the categories is irrelevant",
-			"rawText": "The order of listing the categories is irrelevant",
+			"text": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering",
+			"rawText": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "The order of listing the categories is irrelevant",
+			"originalText": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering",
 			"lineHeight": 1.25
 		},
 		{
 			"id": "rduHVas8w4-2tyQq9Zf8l",
 			"type": "line",
-			"x": 161.5,
+			"x": 180.5,
 			"y": -274.875,
 			"width": 90,
 			"height": 0,
@@ -363,11 +364,11 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 				"type": 2
 			},
 			"seed": 1315364065,
-			"version": 66,
-			"versionNonce": 1978639791,
+			"version": 85,
+			"versionNonce": 32177441,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615748380,
+			"updated": 1713615882172,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -389,7 +390,7 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 		{
 			"id": "4YAeJOLl",
 			"type": "text",
-			"x": 251.8972650698065,
+			"x": 270.8972650698065,
 			"y": -283.875,
 			"width": 53.43731253174569,
 			"height": 16.699160166170522,
@@ -405,11 +406,11 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 			"frameId": null,
 			"roundness": null,
 			"seed": 1034889281,
-			"version": 56,
-			"versionNonce": 792299713,
+			"version": 75,
+			"versionNonce": 1286648065,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615772202,
+			"updated": 1713615882172,
 			"link": null,
 			"locked": false,
 			"text": "不相關的",
@@ -421,6 +422,50 @@ The order of listing the categories is irrelevant ^7H6SvIsA
 			"containerId": null,
 			"originalText": "不相關的",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "oF-i2x6z7Ablhg8F7_eLS",
+			"type": "line",
+			"x": 41.46065408694517,
+			"y": -251.18058851523574,
+			"width": 183.22437706204505,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1501930529,
+			"version": 139,
+			"versionNonce": 291460751,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615875495,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					183.22437706204505,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		},
 		{
 			"id": "VFOWPaUY",
