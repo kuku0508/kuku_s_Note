@@ -12,6 +12,7 @@ tags: [excalidraw]
 
 類別資料(Categorical Data)
 - A categorical variable has a measurement scale consisting of a set of categories
+categorical data 
 For example
 - yes or no
 - male or female
@@ -101,7 +102,7 @@ For example
 			"x": -232.5,
 			"y": -558.875,
 			"width": 838.0994262695312,
-			"height": 175,
+			"height": 200,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -114,21 +115,21 @@ For example
 			"frameId": null,
 			"roundness": null,
 			"seed": 1845050593,
-			"version": 229,
-			"versionNonce": 1517976399,
+			"version": 251,
+			"versionNonce": 1347219777,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615442325,
+			"updated": 1713615521783,
 			"link": null,
 			"locked": false,
-			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
-			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"text": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"rawText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
+			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\ncategorical data \nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"lineHeight": 1.25
 		},
 		{
@@ -136,8 +137,8 @@ For example
 			"type": "line",
 			"x": 409.5,
 			"y": -512.875,
-			"width": 199,
-			"height": 0,
+			"width": 200,
+			"height": 1,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -152,11 +153,11 @@ For example
 				"type": 2
 			},
 			"seed": 458338479,
-			"version": 107,
-			"versionNonce": 1453856929,
+			"version": 109,
+			"versionNonce": 459328673,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615336352,
+			"updated": 1713615505447,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -165,8 +166,8 @@ For example
 					0
 				],
 				[
-					199,
-					0
+					200,
+					-1
 				]
 			],
 			"lastCommittedPoint": null,
@@ -174,6 +175,42 @@ For example
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "VFOWPaUY",
+			"type": "text",
+			"x": 609.5,
+			"y": -518.875,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1707118721,
+			"version": 2,
+			"versionNonce": 98834991,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713615506771,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
