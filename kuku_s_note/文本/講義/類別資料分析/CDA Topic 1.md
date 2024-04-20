@@ -19,6 +19,8 @@ For example
 - correct or incorrect
 - DPP or KMT ^eLCuUd6q
 
+Nominal Variable 無ㄒㄩ ^ssiU08Wq
+
 %%
 # Drawing
 ```json
@@ -221,6 +223,86 @@ For example
 			"endArrowhead": null
 		},
 		{
+			"id": "O2lTnA4wTuirYLp40UqU2",
+			"type": "line",
+			"x": 305.5,
+			"y": -488.875,
+			"width": 68,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2114465793,
+			"version": 52,
+			"versionNonce": 1915353807,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615591198,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					68,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "ssiU08Wq",
+			"type": "text",
+			"x": -232.5,
+			"y": -339.875,
+			"width": 288.38385009765625,
+			"height": 31.999999999999964,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1223137583,
+			"version": 66,
+			"versionNonce": 1493778991,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615647828,
+			"link": null,
+			"locked": false,
+			"text": "Nominal Variable 無ㄒㄩ",
+			"rawText": "Nominal Variable 無ㄒㄩ",
+			"fontSize": 25.599999999999973,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Nominal Variable 無ㄒㄩ",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "VFOWPaUY",
 			"type": "text",
 			"x": 609.5,
@@ -260,7 +342,7 @@ For example
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
