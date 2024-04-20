@@ -76,8 +76,8 @@ Explanatory Variable ^SoSZbuMW
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 282,
-			"versionNonce": 1453554401,
+			"version": 407,
+			"versionNonce": 826333825,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -86,8 +86,8 @@ Explanatory Variable ^SoSZbuMW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1098.7639379503298,
-			"y": -628.4375,
+			"x": -1101.1174603363906,
+			"y": 62.32132030892217,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -99,7 +99,7 @@ Explanatory Variable ^SoSZbuMW
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713654564572,
+			"updated": 1713654847852,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -16697,7 +16697,7 @@ Explanatory Variable ^SoSZbuMW
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1375.1356578555415,
-		"scrollY": 620.365520376169,
+		"scrollY": 267.33716246700953,
 		"zoom": {
 			"value": 0.8497900898861938
 		},
