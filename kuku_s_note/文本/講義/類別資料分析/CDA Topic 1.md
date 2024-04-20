@@ -50,8 +50,8 @@ Ordinal             Ordinal ^k2uDyHGJ
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 251,
-			"versionNonce": 1265437633,
+			"version": 252,
+			"versionNonce": 2016845185,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -60,7 +60,7 @@ Ordinal             Ordinal ^k2uDyHGJ
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1099.7194411484763,
+			"x": -1098.7639379503298,
 			"y": -628.4375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -73,7 +73,7 @@ Ordinal             Ordinal ^k2uDyHGJ
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713615981527,
+			"updated": 1713653046318,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
