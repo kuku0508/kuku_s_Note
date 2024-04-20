@@ -28,7 +28,7 @@ For example
 
 不相關的 ^4YAeJOLl
 
-Nominal Variable 無序變數 ^phFV3lRq
+Ordinal Variable 有序變數 ^phFV3lRq
 
 - The order of listing the categories is irrelevant
 - The statistical analysis should not depand on the ordering
@@ -478,8 +478,8 @@ For example
 		},
 		{
 			"type": "text",
-			"version": 164,
-			"versionNonce": 1531118415,
+			"version": 196,
+			"versionNonce": 179372193,
 			"isDeleted": false,
 			"id": "phFV3lRq",
 			"fillStyle": "solid",
@@ -492,24 +492,24 @@ For example
 			"y": -185.87499985928488,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 313.98382568359375,
+			"width": 311.27020263671875,
 			"height": 31.999999999999964,
 			"seed": 574811471,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713615992854,
+			"updated": 1713616015432,
 			"link": null,
 			"locked": false,
 			"fontSize": 25.599999999999973,
 			"fontFamily": 1,
-			"text": "Nominal Variable 無序變數",
-			"rawText": "Nominal Variable 無序變數",
+			"text": "Ordinal Variable 有序變數",
+			"rawText": "Ordinal Variable 有序變數",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Nominal Variable 無序變數",
+			"originalText": "Ordinal Variable 有序變數",
 			"lineHeight": 1.25
 		},
 		{
