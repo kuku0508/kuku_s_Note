@@ -8,7 +8,10 @@ tags: [excalidraw]
 
 
 # Text Elements
-類別資料分析-Categorical Data ^pJEwXkTZ
+類別資料分析-Categorical Data Analysis ^pJEwXkTZ
+
+類別資料(Categorical Data)
+A ca ^eLCuUd6q
 
 %%
 # Drawing
@@ -54,10 +57,10 @@ tags: [excalidraw]
 		{
 			"id": "pJEwXkTZ",
 			"type": "text",
-			"x": -224.5,
-			"y": -537.875,
-			"width": 302.9798583984375,
-			"height": 25,
+			"x": -238.5,
+			"y": -611.875,
+			"width": 529.7468945312509,
+			"height": 34.00000000000002,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -70,21 +73,57 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"seed": 287905889,
-			"version": 47,
-			"versionNonce": 1198254721,
+			"version": 151,
+			"versionNonce": 1076727151,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713615166641,
+			"updated": 1713615187671,
 			"link": null,
 			"locked": false,
-			"text": "類別資料分析-Categorical Data",
-			"rawText": "類別資料分析-Categorical Data",
+			"text": "類別資料分析-Categorical Data Analysis",
+			"rawText": "類別資料分析-Categorical Data Analysis",
+			"fontSize": 27.200000000000028,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "類別資料分析-Categorical Data Analysis",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "eLCuUd6q",
+			"type": "text",
+			"x": -232.5,
+			"y": -558.875,
+			"width": 269.8198547363281,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1845050593,
+			"version": 56,
+			"versionNonce": 89063873,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615227535,
+			"link": null,
+			"locked": false,
+			"text": "類別資料(Categorical Data)\nA ca",
+			"rawText": "類別資料(Categorical Data)\nA ca",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "類別資料分析-Categorical Data",
+			"originalText": "類別資料(Categorical Data)\nA ca",
 			"lineHeight": 1.25
 		}
 	],
@@ -103,8 +142,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1111,
-		"scrollY": 644,
+		"scrollX": 1084,
+		"scrollY": 695,
 		"zoom": {
 			"value": 1
 		},
