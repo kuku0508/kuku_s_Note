@@ -33,6 +33,8 @@ Ordinal Variable 有序變數 ^phFV3lRq
 - Methods uilize the ordering : low -> high or high -> low
 - The results of ordinal analyses would change if the categories order changes. ^zhCBVyB5
 
+利用 ^at2tywl8
+
 %%
 # Drawing
 ```json
@@ -544,6 +546,122 @@ Ordinal Variable 有序變數 ^phFV3lRq
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "- Methods uilize the ordering : low -> high or high -> low\n- The results of ordinal analyses would change if the categories order changes.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "md56cIaQSckOjP5nfWV6V",
+			"type": "line",
+			"x": -227.59404451692637,
+			"y": -96.07000475900713,
+			"width": 802.6972709384833,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1635197263,
+			"version": 187,
+			"versionNonce": 175655937,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713616196835,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					802.6972709384833,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "at2tywl8",
+			"type": "text",
+			"x": -7.530903812777069,
+			"y": -8.820301396128457,
+			"width": 40,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1820931951,
+			"version": 13,
+			"versionNonce": 181281153,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713616250680,
+			"link": null,
+			"locked": false,
+			"text": "利用",
+			"rawText": "利用",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "利用",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "VFRnZiEU",
+			"type": "text",
+			"x": -7.530903812777069,
+			"y": -8.820301396128457,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2060120335,
+			"version": 2,
+			"versionNonce": 1819907905,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713616247793,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
