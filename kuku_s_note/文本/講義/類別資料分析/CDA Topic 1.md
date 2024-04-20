@@ -35,6 +35,11 @@ Ordinal Variable 有序變數 ^phFV3lRq
 
 利用 ^at2tywl8
 
+Methods           Type of Data
+Nominal             Nominal
+
+Ordinal             Ordinal ^k2uDyHGJ
+
 %%
 # Drawing
 ```json
@@ -627,6 +632,174 @@ Ordinal Variable 有序變數 ^phFV3lRq
 			"containerId": null,
 			"originalText": "利用",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "k2uDyHGJ",
+			"type": "text",
+			"x": -220.71964249562848,
+			"y": -41.71809878369345,
+			"width": 331.3997802734375,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1905358767,
+			"version": 146,
+			"versionNonce": 602428431,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713652883153,
+			"link": null,
+			"locked": false,
+			"text": "Methods           Type of Data\nNominal             Nominal\n\nOrdinal             Ordinal",
+			"rawText": "Methods           Type of Data\nNominal             Nominal\n\nOrdinal             Ordinal",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Methods           Type of Data\nNominal             Nominal\n\nOrdinal             Ordinal",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "-URD6t7n9UdFCOMZISVIj",
+			"type": "line",
+			"x": -148.10139943649187,
+			"y": -5.408977254125148,
+			"width": 125.17091895719614,
+			"height": 1.9110063962931463,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 2019548239,
+			"version": 104,
+			"versionNonce": 635599713,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713652896884,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					125.17091895719614,
+					-1.9110063962931463
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "CZXQ6Xv3N66bko_gkQA8E",
+			"type": "line",
+			"x": -147.14589623834536,
+			"y": -5.408977254125148,
+			"width": 120.39340296646333,
+			"height": 50.64166950176627,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1129277775,
+			"version": 95,
+			"versionNonce": 734840705,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713652905926,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					120.39340296646333,
+					50.64166950176627
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "p_wTQ7RIZWVr0Zo-_5cpt",
+			"type": "line",
+			"x": -146.19039304019884,
+			"y": 47.14369864393427,
+			"width": 121.34890616460984,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 433828655,
+			"version": 78,
+			"versionNonce": 1912822209,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713652917395,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					121.34890616460984,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		},
 		{
 			"id": "VFRnZiEU",
