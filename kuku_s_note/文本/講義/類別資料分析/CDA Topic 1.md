@@ -92,6 +92,16 @@ ANCOVA ^LmfDJ6NR
 線性模式
 Linear model ^peVLYEd8
 
+邏輯/羅吉斯
+迴歸
+Logistic
+Regression ^ke58etyk
+
+類別資料分析
+對數線性模式
+Loglinear model
+列聯表分析 ^GcZjCxGz
+
 %%
 # Drawing
 ```json
@@ -2164,6 +2174,78 @@ Linear model ^peVLYEd8
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "線性模式\nLinear model",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "ke58etyk",
+			"type": "text",
+			"x": -63.635308223014135,
+			"y": 678.9259318786667,
+			"width": 110,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 592933729,
+			"version": 66,
+			"versionNonce": 1879910319,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713655159536,
+			"link": null,
+			"locked": false,
+			"text": "邏輯/羅吉斯\n迴歸\nLogistic\nRegression",
+			"rawText": "邏輯/羅吉斯\n迴歸\nLogistic\nRegression",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "邏輯/羅吉斯\n迴歸\nLogistic\nRegression",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "GcZjCxGz",
+			"type": "text",
+			"x": 78.75279613368025,
+			"y": 677.7491706856362,
+			"width": 146.25987243652344,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 836743809,
+			"version": 100,
+			"versionNonce": 1665324207,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713655206520,
+			"link": null,
+			"locked": false,
+			"text": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
+			"rawText": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "類別資料分析\n對數線性模式\nLoglinear model\n列聯表分析",
 			"lineHeight": 1.25
 		},
 		{
