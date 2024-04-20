@@ -47,6 +47,8 @@ Response Variable and Explanatory Variable 反應變數與解釋變數 ^UhSm22c1
 
 So, Statistical Models is how response vabiables are influenced by explanatory variables. ^rgMTeqsi
 
+For example： ^xOmC9NYg
+
 %%
 # Drawing
 ```json
@@ -1078,6 +1080,42 @@ So, Statistical Models is how response vabiables are influenced by explanatory v
 			"endArrowhead": null
 		},
 		{
+			"id": "xOmC9NYg",
+			"type": "text",
+			"x": -216.8976297030424,
+			"y": 259.26540863246487,
+			"width": 135.39990234375,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2125979983,
+			"version": 20,
+			"versionNonce": 790381519,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713653639770,
+			"link": null,
+			"locked": false,
+			"text": "For example：",
+			"rawText": "For example：",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "For example：",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "VFRnZiEU",
 			"type": "text",
 			"x": -7.530903812777069,
@@ -1117,7 +1155,7 @@ So, Statistical Models is how response vabiables are influenced by explanatory v
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1130,7 +1168,7 @@ So, Statistical Models is how response vabiables are influenced by explanatory v
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 1105.0378523802462,
-		"scrollY": 661.9591122805627,
+		"scrollY": 566.4087924659093,
 		"zoom": {
 			"value": 1.0465689721811287
 		},
