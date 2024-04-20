@@ -125,12 +125,56 @@ tags: [excalidraw]
 			"containerId": null,
 			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "gbnoiTE0Xo6sdGvWtVxwb",
+			"type": "line",
+			"x": 409.5,
+			"y": -512.875,
+			"width": 199,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 458338479,
+			"version": 107,
+			"versionNonce": 1453856929,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713615336352,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					199,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
