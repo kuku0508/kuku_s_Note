@@ -30,10 +30,8 @@ For example
 
 Ordinal Variable 有序變數 ^phFV3lRq
 
-- The order of listing the categories is irrelevant
-- The statistical analysis should not depand on the ordering
-For example
-- Favorite food(hot-pot, pasta, steak) ^zhCBVyB5
+- Methods uilize the ordering : low -> high or high -> low
+- The results of ordinal analyses would change if the categories order changes. ^zhCBVyB5
 
 %%
 # Drawing
@@ -514,8 +512,8 @@ For example
 		},
 		{
 			"type": "text",
-			"version": 329,
-			"versionNonce": 2109981039,
+			"version": 524,
+			"versionNonce": 647813391,
 			"isDeleted": false,
 			"id": "zhCBVyB5",
 			"fillStyle": "solid",
@@ -528,24 +526,24 @@ For example
 			"y": -142.87499985928488,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 602.8994750976562,
-			"height": 100,
+			"width": 794.83935546875,
+			"height": 50,
 			"seed": 1899391855,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713615992854,
+			"updated": 1713616175592,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering\nFor example\n- Favorite food(hot-pot, pasta, steak)",
-			"rawText": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering\nFor example\n- Favorite food(hot-pot, pasta, steak)",
+			"text": "- Methods uilize the ordering : low -> high or high -> low\n- The results of ordinal analyses would change if the categories order changes.",
+			"rawText": "- Methods uilize the ordering : low -> high or high -> low\n- The results of ordinal analyses would change if the categories order changes.",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "- The order of listing the categories is irrelevant\n- The statistical analysis should not depand on the ordering\nFor example\n- Favorite food(hot-pot, pasta, steak)",
+			"originalText": "- Methods uilize the ordering : low -> high or high -> low\n- The results of ordinal analyses would change if the categories order changes.",
 			"lineHeight": 1.25
 		}
 	],
