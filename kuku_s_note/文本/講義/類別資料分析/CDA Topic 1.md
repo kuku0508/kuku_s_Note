@@ -89,6 +89,9 @@ ANOVA ^ATxWEwAt
 共變異分析
 ANCOVA ^LmfDJ6NR
 
+線性模式
+Linear model ^peVLYEd8
+
 %%
 # Drawing
 ```json
@@ -2095,7 +2098,7 @@ ANCOVA ^LmfDJ6NR
 			"id": "LmfDJ6NR",
 			"type": "text",
 			"x": 220.65333296492415,
-			"y": 591.0206700501631,
+			"y": 587.900595050163,
 			"width": 100,
 			"height": 50,
 			"angle": 0,
@@ -2110,11 +2113,11 @@ ANCOVA ^LmfDJ6NR
 			"frameId": null,
 			"roundness": null,
 			"seed": 1124808911,
-			"version": 79,
-			"versionNonce": 1800492449,
+			"version": 98,
+			"versionNonce": 1371297569,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713655082942,
+			"updated": 1713655098270,
 			"link": null,
 			"locked": false,
 			"text": "共變異分析\nANCOVA",
@@ -2125,6 +2128,42 @@ ANCOVA ^LmfDJ6NR
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "共變異分析\nANCOVA",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "peVLYEd8",
+			"type": "text",
+			"x": 349.29799084706883,
+			"y": 587.9005949804683,
+			"width": 119.89990234375,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 398376641,
+			"version": 54,
+			"versionNonce": 47589281,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713655120498,
+			"link": null,
+			"locked": false,
+			"text": "線性模式\nLinear model",
+			"rawText": "線性模式\nLinear model",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "線性模式\nLinear model",
 			"lineHeight": 1.25
 		},
 		{
