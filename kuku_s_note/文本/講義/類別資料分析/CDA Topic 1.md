@@ -218,6 +218,9 @@ Confidencce interval of Binomial proportion under small sample ^Box5qwaR
 
 More inferences based on the likelihood function ^axDxymDD
 
+Three large sample inferences using the likelihood function for model parameters are：
+a.Wald Test Statistic ^nqHftVP8
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -6759,6 +6762,42 @@ ce521c9ddfb1fbf114f3daf29be1e55ef146665e: [[Pasted Image 20240422042556_398.png]
 			"lineHeight": 1.25
 		},
 		{
+			"id": "nqHftVP8",
+			"type": "text",
+			"x": 891.9565812996152,
+			"y": 1791.048215298222,
+			"width": 854.6793212890625,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 914652705,
+			"version": 139,
+			"versionNonce": 651063791,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713731283226,
+			"link": null,
+			"locked": false,
+			"text": "Three large sample inferences using the likelihood function for model parameters are：\na.Wald Test Statistic",
+			"rawText": "Three large sample inferences using the likelihood function for model parameters are：\na.Wald Test Statistic",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Three large sample inferences using the likelihood function for model parameters are：\na.Wald Test Statistic",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "image",
 			"version": 134,
 			"versionNonce": 1328801583,
@@ -6843,10 +6882,10 @@ ce521c9ddfb1fbf114f3daf29be1e55ef146665e: [[Pasted Image 20240422042556_398.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 180.32556338397444,
-		"scrollY": -912.4777388196262,
+		"scrollX": 73.96564320360984,
+		"scrollY": -1123.3934068368935,
 		"zoom": {
-			"value": 0.5989821656928128
+			"value": 0.748982165692813
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
