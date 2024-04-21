@@ -138,6 +138,9 @@ Special case：C=2,  ^tgKb73He
 
 母體比例的推論(Statistical inference for a proportion) ^nnf3dJVO
 
+1.區間
+2. ^OQy24HRr
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -148,6 +151,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 630f908ec4f12b7b80559a2e57740fe4f7932adc: $$\pi \,is\,fixed,n\rightarrow\infty,bell-shaped$$
 6c7ec610ce64cb7d4f84651066fa37d47ac0b23c: $$B(n,\pi)$$
 323135651fe2d1fcdb4199dac9fbd49723c7fb2d: $$n_j \sim B(n,\pi_j),for\, jth\, category$$
+649c409d6d431ad86262a94ae076a2f84b4cd189: $$Let \, Y \sim B(n,\pi)$$
 
 %%
 # Drawing
@@ -3493,161 +3497,142 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"lineHeight": 1.25
 		},
 		{
-			"type": "line",
-			"version": 141,
-			"versionNonce": 529385441,
-			"isDeleted": true,
-			"id": "gbnoiTE0Xo6sdGvWtVxwb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"type": "image",
+			"version": 19,
+			"versionNonce": 738501007,
+			"isDeleted": false,
+			"id": "I55w3Evf",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 409.5,
-			"y": -512.875,
-			"strokeColor": "#e03131",
+			"x": 713.3894752536007,
+			"y": -589.2657346208075,
+			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 200,
-			"height": 1,
-			"seed": 458338479,
+			"width": 198.61218870783858,
+			"height": 29.424027956716827,
+			"seed": 2170,
 			"groupIds": [],
 			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
+			"roundness": null,
 			"boundElements": [],
-			"updated": 1713681193654,
+			"updated": 1713681266292,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					200,
-					-1
-				]
+			"status": "pending",
+			"fileId": "649c409d6d431ad86262a94ae076a2f84b4cd189",
+			"scale": [
+				1,
+				1
 			]
 		},
 		{
+			"id": "IDhIVGA6IbG0FBxasRw3Q",
 			"type": "line",
-			"version": 146,
-			"versionNonce": 1056694959,
-			"isDeleted": true,
-			"id": "bA34uOoMUAuF1ITY_i1eS",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 184.5,
-			"y": -487.875,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 67,
+			"x": 955.2728591267419,
+			"y": -654.6579579267808,
+			"width": 329.8409784850878,
 			"height": 0,
-			"seed": 580352577,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1713681193654,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					67,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 84,
-			"versionNonce": 690758593,
-			"isDeleted": true,
-			"id": "O2lTnA4wTuirYLp40UqU2",
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
-			"x": 305.5,
-			"y": -488.875,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 68,
-			"height": 0,
-			"seed": 2114465793,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"boundElements": [],
-			"updated": 1713681193654,
+			"seed": 606779375,
+			"version": 112,
+			"versionNonce": 1456165057,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713681284602,
 			"link": null,
 			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
 			"points": [
 				[
 					0,
 					0
 				],
 				[
-					68,
+					329.8409784850878,
 					0
 				]
-			]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		},
 		{
-			"id": "BacX8k3X",
+			"id": "OQy24HRr",
 			"type": "text",
-			"x": 729.0961881655389,
-			"y": -585.5484195775243,
-			"width": 10,
-			"height": 25,
+			"x": 1194.0149006969007,
+			"y": -829.0024751260414,
+			"width": 50.899993896484375,
+			"height": 50,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
-			"strokeStyle": "dashed",
+			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1173746351,
-			"version": 18,
-			"versionNonce": 45683105,
+			"seed": 2121922639,
+			"version": 13,
+			"versionNonce": 1820307105,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713681295498,
+			"link": null,
+			"locked": false,
+			"text": "1.區間\n2.",
+			"rawText": "1.區間\n2.",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1.區間\n2.",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "Fr97NhlJ",
+			"type": "text",
+			"x": 1194.0149006969007,
+			"y": -829.0024751260414,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2077361647,
+			"version": 2,
+			"versionNonce": 503356513,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1713681228456,
+			"updated": 1713681289865,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -3664,11 +3649,11 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "dashed",
+		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
