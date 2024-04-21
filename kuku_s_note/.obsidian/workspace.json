@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md"
+                "file": "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "知識/程式語言/Latex/基礎知識/語法表/自定義算子.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,8 +226,25 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "文本/講義/類別資料分析/CDA Topic 2.md",
+    "知識/程式語言/Latex/基礎知識/語法表/連分數.md",
+    "知識/程式語言/Latex/基礎知識/語法表/連乘.md",
+    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
+    "知識/程式語言/Latex/基礎知識/語法表/備註.md",
+    "知識/程式語言/Latex/基礎知識/語法表/註釋文字.md",
+    "知識/程式語言/Latex/基礎知識/語法表/開方√.md",
+    "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/微分.md",
+    "知識/程式語言/Latex/基礎知識/語法表/極限.md",
+    "知識/程式語言/Latex/基礎知識/語法表/對數.md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭.md",
+    "知識/程式語言/Latex/基礎知識/語法表/箭頭圖表.md",
+    "知識/程式語言/Latex/基礎知識/語法表/積分.md",
+    "知識/程式語言/Latex/基礎知識/語法表/聯集.md",
+    "知識/程式語言/Latex/基礎知識/語法表/邏輯運算.md",
+    "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
+    "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "文本/講義/類別資料分析/CDA Topic 1.md",
+    "文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/講義/時間數列/老師筆記/Time Series-Session 7.md",
     "未命名/資料視覺化.pptx",
     "未命名",
@@ -237,25 +257,8 @@
     "文本/講義/時間數列/老師筆記/Time Series-Session 3.md",
     "文本/講義/時間數列/老師筆記/Time Series-Session 2.md",
     "文本/講義/時間數列/老師筆記/Time Series-Session 1.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 7.md",
-    "文本/講義/抽樣調查/Ch-04.md",
     "文本/講義/時間數列/空白筆記",
     "文本/講義/時間數列/老師筆記",
-    "文本/講義/抽樣調查/Ch-05.md",
-    "文本/講義/抽樣調查/Ch-03.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/母體參數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
-    "文本/問題/時間數列 第二次作業.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 6.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 5.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 4.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 3.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 2.md",
-    "文本/講義/時間數列/空白筆記/Time Series-Session 1.md",
-    "文本/書/Time Series Analysis and Its Applications：With R Examples.md",
-    "知識/程式語言/Latex/基礎知識/語法表/連線.md",
     "文本/問題/時間數列",
     "文本/問題/未命名.canvas",
     "文本/問題",

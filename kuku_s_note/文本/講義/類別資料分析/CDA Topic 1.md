@@ -119,7 +119,7 @@ CDA裡面會遇到的機率分配
 3.Special cases：Poisson distribution for count data ^1QgJRoyn
 
 # Embedded files
-aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y~B(n,\pi)$$
+aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\~B(n,\pi)$$
 
 %%
 # Drawing
@@ -2513,8 +2513,8 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y~B(n,\pi)$$
 		},
 		{
 			"type": "image",
-			"version": 1,
-			"versionNonce": 819532237,
+			"version": 18,
+			"versionNonce": 1030708449,
 			"isDeleted": false,
 			"id": "bfMsj8aM",
 			"fillStyle": "hachure",
@@ -2527,14 +2527,14 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y~B(n,\pi)$$
 			"y": 1066.5035014079835,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 81,
-			"height": 20,
+			"width": 151.87499999999957,
+			"height": 37.49999999999989,
 			"seed": 93373,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679253827,
+			"updated": 1713679257312,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2543,6 +2543,42 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y~B(n,\pi)$$
 				1,
 				1
 			]
+		},
+		{
+			"id": "iouZ5oeI",
+			"type": "text",
+			"x": -150.21528266932384,
+			"y": 1089.0035014079835,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1374928367,
+			"version": 2,
+			"versionNonce": 201155681,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713679260093,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
