@@ -164,7 +164,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 323135651fe2d1fcdb4199dac9fbd49723c7fb2d: $$n_j \sim B(n,\pi_j),for\, jth\, category$$
 2bf3bd653fce80c8b2261e2cc6ec8ae0796295c4: $$P(x)=\frac{\lambda^xe^{-\lambda}}{x!}$$
 b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
-472a060c0a8be60de6a87a31f2a4f69b4b841d0c: $$l(\pi)=$$
+472a060c0a8be60de6a87a31f2a4f69b4b841d0c: $$\ell(\pi)=P(Y=y)=C^y_{10}\pi^y(1-\pi)^{10-y}$$
 
 %%
 # Drawing
@@ -4109,8 +4109,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 		},
 		{
 			"type": "image",
-			"version": 217,
-			"versionNonce": 401130095,
+			"version": 391,
+			"versionNonce": 2122377455,
 			"isDeleted": false,
 			"id": "VJpanOck",
 			"fillStyle": "hachure",
@@ -4119,18 +4119,18 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 726.4378700255028,
-			"y": -274.0561640265367,
+			"x": 722.3215740255029,
+			"y": -275.8495880265367,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 78.91520850581578,
-			"height": 29.77932396445879,
+			"width": 352.66520850581577,
+			"height": 28.743942301699672,
 			"seed": 96154,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713724102716,
+			"updated": 1713724209885,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4156,10 +4156,10 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 231.14526626837164,
-		"scrollY": 1360.5409892498285,
+		"scrollX": -586.4271670792932,
+		"scrollY": 713.5431721511795,
 		"zoom": {
-			"value": 0.5788107009300618
+			"value": 1.258315515234592
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
