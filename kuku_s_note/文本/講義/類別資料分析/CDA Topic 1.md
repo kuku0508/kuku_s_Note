@@ -225,7 +225,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 8a998f2a36c3ec549ec5a1e8d40e187011c01d45: $$SE(\hat{\pi})=\sqrt{Var(\hat{\pi})}=\sqrt{\frac{\pi(1-\pi)}{n}}$$
 d14543766d5841d9e311a7415fa2cc15fa77713c: $$Var(\hat{\pi})$$
 b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$$
-56bd3a2aa76aacb48bf865d24a41dab28e5555f0: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$$
+56bd3a2aa76aacb48bf865d24a41dab28e5555f0: $$=\frac{1}{\cancel{n^2}}\cancel{n}\pi(1-\pi)=\frac{\pi(1-\pi)}{n}$$
 
 %%
 # Drawing
