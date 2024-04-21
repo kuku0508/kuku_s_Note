@@ -173,6 +173,7 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 472a060c0a8be60de6a87a31f2a4f69b4b841d0c: $$\ell(\pi)=P(Y=y)=C^y_{10}\pi^y(1-\pi)^{10-y}$$
 145e996240338e4f3344611ce8ebf48f1ec45b7a: $$Y \sim B(10,\pi)$$
 499754e2157ad7375edc8e17348054afd9c94fe7: $$\ell(\pi)=P(Y=y)=C^y_{10}\pi^y(1-\pi)^{10-y}$$
+a23a1969debbd7a31e7d2380d95c073755e8f498: $$\ell(\pi)$$
 
 %%
 # Drawing
@@ -4285,6 +4286,39 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 				1,
 				1
 			]
+		},
+		{
+			"type": "image",
+			"version": 1,
+			"versionNonce": 926226691,
+			"isDeleted": false,
+			"id": "0rr3eOko",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 886.0341654530965,
+			"y": 66.89380593753333,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 35,
+			"height": 20,
+			"seed": 17326,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713725081188,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "a23a1969debbd7a31e7d2380d95c073755e8f498",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -4302,8 +4336,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2.7527453453635777,
-		"scrollY": 974.3786140340471,
+		"scrollX": 14.990678124337528,
+		"scrollY": 880.5544627285817,
 		"zoom": {
 			"value": 0.7354183228937929
 		},
