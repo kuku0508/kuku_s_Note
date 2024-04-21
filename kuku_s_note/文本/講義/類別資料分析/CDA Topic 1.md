@@ -240,6 +240,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 b712deb5bfb5906c38c71df07a24407017600ac8: $$\hat{\pi}\pm Z_{\frac{\alpha}{n}}*\hat{SE}(\hat{\pi})$$
 68200753e8467a1d233393bda63d308dde9364c2: $$H_0：\pi=\pi_0$$
 baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
+08561741dcef40ec5638d8da801b374122803aba: $$Testing Statistic：\hat{\pi}_{(MLE)}$$
 
 %%
 # Drawing
@@ -6332,6 +6333,39 @@ baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 			"locked": false,
 			"status": "pending",
 			"fileId": "baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 1,
+			"versionNonce": 93952057,
+			"isDeleted": false,
+			"id": "C9ow7CmX",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 802.7398502483198,
+			"y": 1084.8496901446968,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 407,
+			"height": 19,
+			"seed": 8712,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713728173569,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "08561741dcef40ec5638d8da801b374122803aba",
 			"scale": [
 				1,
 				1
