@@ -143,6 +143,10 @@ Possion Distribution ^17s1LyPT
 1.點/區間估計
 2.檢定 ^w9FEseLK
 
+- Likelihood function：
+The probability of the observed data,
+expressed as a function of the parameter ^CJmVRioB
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -3778,6 +3782,42 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"containerId": null,
 			"originalText": "1.點/區間估計\n2.檢定",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "CJmVRioB",
+			"type": "text",
+			"x": 713.3894746409566,
+			"y": -589.8796707101811,
+			"width": 653.807373046875,
+			"height": 116.16295213793629,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2035609807,
+			"version": 217,
+			"versionNonce": 1023580911,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713685186310,
+			"link": null,
+			"locked": false,
+			"text": "- Likelihood function：\nThe probability of the observed data,\nexpressed as a function of the parameter",
+			"rawText": "- Likelihood function：\nThe probability of the observed data,\nexpressed as a function of the parameter",
+			"fontSize": 30.976787236783007,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "- Likelihood function：\nThe probability of the observed data,\nexpressed as a function of the parameter",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -3786,7 +3826,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
+		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
