@@ -188,6 +188,15 @@ Given that Y=4 ^V0HACJRM
 
 0.000 ^f5EZnU3F
 
+MLE in Large Sample：
+1.Consistency
+
+2.Asymptotic Mormality
+
+3.Asymptotic Efficiency
+
+4.Invariance ^SNszKe21
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -5277,6 +5286,42 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"lineHeight": 1.25
 		},
 		{
+			"id": "SNszKe21",
+			"type": "text",
+			"x": 1284.4827039046913,
+			"y": -238.63247474111085,
+			"width": 225.01979064941406,
+			"height": 200,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 333617135,
+			"version": 104,
+			"versionNonce": 776013039,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713726320079,
+			"link": null,
+			"locked": false,
+			"text": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
+			"rawText": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "MipXwpWXlbyf2Jg3QYY7a",
 			"type": "freedraw",
 			"x": 1191.8054709133717,
@@ -5922,10 +5967,10 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -549.7434881395221,
-		"scrollY": 1467.5241926295346,
+		"scrollX": -853.6129216382119,
+		"scrollY": 744.7491750770639,
 		"zoom": {
-			"value": 0.5354183228937928
+			"value": 0.8854183228937931
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
