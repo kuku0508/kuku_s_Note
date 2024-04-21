@@ -149,6 +149,9 @@ expressed as a function of the parameter ^CJmVRioB
 
 表達成 ^6MLbzbBf
 
+我會這樣理解likelihood function，他就是在給定x跟模型的情況下，你的參數是未知。
+以binomial為例： ^yYuUJh2W
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -4034,6 +4037,42 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"lineHeight": 1.25
 		},
 		{
+			"id": "yYuUJh2W",
+			"type": "text",
+			"x": 722.3215744271629,
+			"y": -412.0442946159027,
+			"width": 761.1798095703125,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1180725359,
+			"version": 133,
+			"versionNonce": 231239937,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713686317251,
+			"link": null,
+			"locked": false,
+			"text": "我會這樣理解likelihood function，他就是在給定x跟模型的情況下，你的參數是未知。\n以binomial為例：",
+			"rawText": "我會這樣理解likelihood function，他就是在給定x跟模型的情況下，你的參數是未知。\n以binomial為例：",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "我會這樣理解likelihood function，他就是在給定x跟模型的情況下，你的參數是未知。\n以binomial為例：",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "CiANLPnHJhzyUZOqlrjcj",
 			"type": "rectangle",
 			"x": 711.3447871903799,
@@ -4095,7 +4134,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -4107,8 +4146,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -255.80811686388412,
-		"scrollY": 1378.1730837533828,
+		"scrollX": 28.216252887876905,
+		"scrollY": 1253.3121289349772,
 		"zoom": {
 			"value": 0.7288107009300621
 		},
