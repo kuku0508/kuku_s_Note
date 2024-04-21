@@ -206,6 +206,8 @@ N(1.0) ^e7vyiAn7
 
 C.I of  ^eOZKYCo1
 
+Testing  ^lgvpjH39
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -235,6 +237,7 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 9c93dcf8332d87f8a7e6688102158f41fab94b3f: $$Z=\frac{\hat{\pi}-E({\hat{\pi}})}{SE(\hat{\pi})}=\frac{\hat{\pi}-\pi}{\sqrt{\frac{\pi(1-\pi)}{n}}}$$
 8978796e080fbcbc8a4f7f37ca06dd88ea3d8186: $$n \rightarrow \infty$$
 d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
+b712deb5bfb5906c38c71df07a24407017600ac8: $$\hat{\pi}\pm Z_{\frac{\alpha}{n}}*\hat{SE}(\hat{\pi})$$
 
 %%
 # Drawing
@@ -2697,7 +2700,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": -234.26568134352766,
 			"y": 1056.030046939235,
-			"width": 318.403277861996,
+			"width": 318.3073425292969,
 			"height": 41.13741657231529,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2948,7 +2951,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 186.16866933780787,
 			"y": 1322.441055126033,
-			"width": 27.601272969520863,
+			"width": 27.5999755859375,
 			"height": 17.25079560595054,
 			"angle": 0,
 			"strokeColor": "#e03131",
@@ -3050,8 +3053,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 48.01142528389795,
 			"y": 1431.2467840624513,
-			"width": 64.78386347575442,
-			"height": 12.42784442528748,
+			"width": 64.76895141601562,
+			"height": 12.427844425287486,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3189,8 +3192,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"y": 1461.7295507272524,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 30.270550272858635,
-			"height": 7.939816465012101,
+			"width": 29.586318969726562,
+			"height": 7.939816465012102,
 			"seed": 1695122351,
 			"groupIds": [
 				"wKz3aqVu03ri55CV0JTdh"
@@ -3204,7 +3207,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"fontSize": 4.962385290632564,
 			"fontFamily": 1,
 			"text": "Density plot",
-			"rawText": "",
+			"rawText": "Density plot",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -3401,7 +3404,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"y": 1357.7142574892237,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 24.644511541582002,
+			"width": 24.635345458984375,
 			"height": 6.613627694281631,
 			"seed": 679265903,
 			"groupIds": [
@@ -3680,8 +3683,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 889.8211487768482,
 			"y": -691.0180505125996,
-			"width": 854.6449979222176,
-			"height": 40.7067132611946,
+			"width": 854.50439453125,
+			"height": 40.70671326119461,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3716,8 +3719,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": -231.02684836152582,
 			"y": 1914.2545529194817,
-			"width": 312.8553921983898,
-			"height": 40.40810878133742,
+			"width": 312.7928466796875,
+			"height": 40.408108781337404,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3829,7 +3832,7 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 1424.2669376516972,
 			"y": -749.5805021469795,
-			"width": 154.0773316447362,
+			"width": 154.02655029296875,
 			"height": 63.72098404597874,
 			"angle": 0,
 			"strokeColor": "#e03131",
@@ -4077,8 +4080,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 902.8695439045032,
 			"y": -462.81193558602286,
-			"width": 77.83727925977246,
-			"height": 32.43219969157185,
+			"width": 77.81996154785156,
+			"height": 32.43219969157187,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -4215,8 +4218,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 898.1097767873125,
 			"y": -215.18696780175105,
-			"width": 518.9186163230914,
-			"height": 39.80661731896772,
+			"width": 518.8325805664062,
+			"height": 39.80661731896773,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -6097,8 +6100,8 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 			"type": "text",
 			"x": 1370.1564173276347,
 			"y": 815.09697778895,
-			"width": 100.3485090600919,
-			"height": 47.694194271235524,
+			"width": 100.33445739746094,
+			"height": 47.69419427123549,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -6196,6 +6199,75 @@ d84b99aa31692c039258827bf2b1f7ba86b789cd: $$\pi$$
 				1,
 				1
 			]
+		},
+		{
+			"type": "image",
+			"version": 153,
+			"versionNonce": 2114550817,
+			"isDeleted": false,
+			"id": "bEf341TE",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 920.7056963460748,
+			"y": 940.9417283468133,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 194.8453463104344,
+			"height": 46.26893626925579,
+			"seed": 38829,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713728018333,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "b712deb5bfb5906c38c71df07a24407017600ac8",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "lgvpjH39",
+			"type": "text",
+			"x": 923.6459270171457,
+			"y": 1004.2472284379614,
+			"width": 82.919921875,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1868682447,
+			"version": 9,
+			"versionNonce": 268923553,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713728032985,
+			"link": null,
+			"locked": false,
+			"text": "Testing ",
+			"rawText": "Testing ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Testing ",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
