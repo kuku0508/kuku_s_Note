@@ -182,6 +182,12 @@ Given that Y=4 ^V0HACJRM
 
 0.205 ^nl9bl74l
 
+0.111 ^y0s8tXzf
+
+0.006 ^rA8KYrya
+
+0.000 ^f5EZnU3F
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -4383,7 +4389,7 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"type": "line",
 			"x": 733.5628768562361,
 			"y": 127.20530736220405,
-			"width": 519.4322579520054,
+			"width": 564.3046781415768,
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -4399,11 +4405,11 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 				"type": 2
 			},
 			"seed": 143487439,
-			"version": 264,
-			"versionNonce": 856063279,
+			"version": 293,
+			"versionNonce": 44774817,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713725934908,
+			"updated": 1713725938037,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -4412,7 +4418,7 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 					0
 				],
 				[
-					519.4322579520054,
+					564.3046781415768,
 					0
 				]
 			],
@@ -5163,6 +5169,114 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"lineHeight": 1.25
 		},
 		{
+			"id": "y0s8tXzf",
+			"type": "text",
+			"x": 1105.9002189166795,
+			"y": 161.63864555177506,
+			"width": 35.49998474121094,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2143355233,
+			"version": 41,
+			"versionNonce": 951658529,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713725947797,
+			"link": null,
+			"locked": false,
+			"text": "0.111",
+			"rawText": "0.111",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "0.111",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "rA8KYrya",
+			"type": "text",
+			"x": 1171.4696118992986,
+			"y": 165.27887631667548,
+			"width": 59.559967041015625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1630803631,
+			"version": 17,
+			"versionNonce": 579877103,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713725955464,
+			"link": null,
+			"locked": false,
+			"text": "0.006",
+			"rawText": "0.006",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "0.006",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "f5EZnU3F",
+			"type": "text",
+			"x": 1244.759371190692,
+			"y": 165.27887631667548,
+			"width": 60.51997375488281,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 526453583,
+			"version": 22,
+			"versionNonce": 972845633,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713725963343,
+			"link": null,
+			"locked": false,
+			"text": "0.000",
+			"rawText": "0.000",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "0.000",
+			"lineHeight": 1.25
+		},
+		{
 			"id": "MipXwpWXlbyf2Jg3QYY7a",
 			"type": "freedraw",
 			"x": 1191.8054709133717,
@@ -5808,8 +5922,8 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -43.47944515298248,
-		"scrollY": 880.5544627285817,
+		"scrollX": -125.06566367947552,
+		"scrollY": 877.834922111032,
 		"zoom": {
 			"value": 0.7354183228937929
 		},
