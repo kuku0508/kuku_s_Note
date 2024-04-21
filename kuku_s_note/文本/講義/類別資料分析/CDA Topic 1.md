@@ -223,6 +223,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 97c3d6ea2d53e2d94c0c19b8116a010702b5a87e: $$Sample \,distribution \, of \, the \, sample \, proportion\, \hat{\pi}$$
 36c04a7f243eb20b9bd7425ea9418ff62392c647: $$E(\hat{\pi})=E(\frac{Y}{n})=\frac{1}{n}E(Y)=\frac{1}{\cancel{n}}*\cancel{n}\pi=\pi$$
 8a998f2a36c3ec549ec5a1e8d40e187011c01d45: $$SE(\hat{\pi})=\sqrt{Var(\hat{\pi})}=\sqrt{\frac{\pi(1-\pi)}{n}}$$
+f23a165ab3c27a9cb2105c99162fdb9ec3c3bc75: $$Var(\hat{\pi})\\=Var(\frac{Y}{n})$$
 
 %%
 # Drawing
@@ -5795,8 +5796,8 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 		},
 		{
 			"type": "image",
-			"version": 222,
-			"versionNonce": 141399681,
+			"version": 511,
+			"versionNonce": 269611663,
 			"isDeleted": false,
 			"id": "hTlIEfxsjogL0RpLTNClM",
 			"fillStyle": "hachure",
@@ -5805,22 +5806,55 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 906.9858411538951,
-			"y": 433.191612401376,
+			"x": 906.3356751538953,
+			"y": 602.6633984013761,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 542.032247803184,
-			"height": 99.1800311484449,
+			"width": 402.03224780318425,
+			"height": 73.56309706923106,
 			"seed": 788895727,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713727304477,
+			"updated": 1713727321291,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "8a998f2a36c3ec549ec5a1e8d40e187011c01d45",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 94,
+			"versionNonce": 1950430689,
+			"isDeleted": false,
+			"id": "ZBfrpsXj",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 906.9858410554873,
+			"y": 446.9981043089318,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 160,
+			"height": 40,
+			"seed": 69902,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713727361101,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "f23a165ab3c27a9cb2105c99162fdb9ec3c3bc75",
 			"scale": [
 				1,
 				1
@@ -5843,7 +5877,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": -377.46166638882056,
-		"scrollY": 859.1010766910681,
+		"scrollY": 525.7677433577347,
 		"zoom": {
 			"value": 0.6000000000000001
 		},
