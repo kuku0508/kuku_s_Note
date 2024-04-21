@@ -138,6 +138,8 @@ Special case：C=2,  ^tgKb73He
 
 母體比例的推論(Statistical inference for a proportion) ^nnf3dJVO
 
+Possion Distr ^17s1LyPT
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -159,8 +161,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 1546,
-			"versionNonce": 2065278017,
+			"version": 1819,
+			"versionNonce": 1348909505,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -169,8 +171,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 112.11746760376582,
-			"y": -691.018051419424,
+			"x": 756.6900182897125,
+			"y": 813.8405728911922,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -182,7 +184,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713684391146,
+			"updated": 1713684456644,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -3625,6 +3627,42 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"lineHeight": 1.25
 		},
 		{
+			"id": "17s1LyPT",
+			"type": "text",
+			"x": -231.02684836152582,
+			"y": 1914.2545529194817,
+			"width": 131.5598602294922,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 235362063,
+			"version": 20,
+			"versionNonce": 262148865,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713684475520,
+			"link": null,
+			"locked": false,
+			"text": "Possion Distr",
+			"rawText": "Possion Distr",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Possion Distr",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "image",
 			"version": 28,
 			"versionNonce": 792469711,
@@ -3789,8 +3827,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 15.313325422803105,
-		"scrollY": 1019.866661993314,
+		"scrollX": 602.1054681787341,
+		"scrollY": -1040.9678875105587,
 		"zoom": {
 			"value": 0.7788107009300621
 		},
