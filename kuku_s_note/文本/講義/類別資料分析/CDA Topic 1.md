@@ -126,7 +126,7 @@ Multinomial distribution ^8zJtMBEy
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
 fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial(n,\pi_1,\pi_2,\ldots,\pi_{C-1})$$
-968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
+968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y_1,y_2,\ldots,y_c)=\frac{n!}{y_1!y_2!\ldots y_c!} \pi_1^{y_1} (1-\pi)^{n-y}$$
 
 %%
 # Drawing
@@ -2655,8 +2655,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "image",
-			"version": 817,
-			"versionNonce": 1125821185,
+			"version": 918,
+			"versionNonce": 396779937,
 			"isDeleted": false,
 			"id": "pTdbOMPePJYD62tbRY23H",
 			"fillStyle": "hachure",
@@ -2669,14 +2669,14 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"y": 1482.3476025774216,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 409.4410063766972,
-			"height": 79.63468845519888,
+			"width": 551.7436797871137,
+			"height": 76.70061271477783,
 			"seed": 64951873,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679932234,
+			"updated": 1713680050467,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2720,42 +2720,6 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Multinomial distribution",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "G9mwSYf7",
-			"type": "text",
-			"x": -16.120891643850143,
-			"y": 1538.9902802767986,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 695495119,
-			"version": 2,
-			"versionNonce": 352363137,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713679935116,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
