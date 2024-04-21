@@ -252,6 +252,7 @@ baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{SE}(\hat{\pi})$$
 01cb5d34e7c12daa15383ca528c796ad60db9720: $$\hat{\pi}=\frac{y}{n}$$
 e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
+202bc6c694425f05daf9597f735834b56364ff27: $$-\,Let \,\beta\,denote\,an\,arbitraty\,parameter\,and\,\hat{\beta}\,is\,the\,MLE\,of$$
 
 %%
 # Drawing
@@ -6687,40 +6688,37 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 			"endArrowhead": null
 		},
 		{
-			"id": "mzU7ovZe",
-			"type": "text",
-			"x": 874.8551390207344,
-			"y": 1454.390952654129,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
+			"type": "image",
+			"version": 28,
+			"versionNonce": 1655391425,
+			"isDeleted": false,
+			"id": "LUA4HqPA",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 879.368164771771,
+			"y": 1513.8280520314884,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 228,
+			"height": 18,
+			"seed": 35839,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2021150191,
-			"version": 2,
-			"versionNonce": 1455150177,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713730931058,
+			"boundElements": [],
+			"updated": 1713730970817,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "202bc6c694425f05daf9597f735834b56364ff27",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -6738,10 +6736,10 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -75.30951458768436,
-		"scrollY": -564.500011055236,
+		"scrollX": -83.95894489111248,
+		"scrollY": -693.957051020479,
 		"zoom": {
-			"value": 0.5990902649735019
+			"value": 0.6489821656928129
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
