@@ -226,6 +226,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 d14543766d5841d9e311a7415fa2cc15fa77713c: $$Var(\hat{\pi})$$
 b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$$
 56bd3a2aa76aacb48bf865d24a41dab28e5555f0: $$=\frac{1}{n^\cancel{2}}\cancel{n}\pi(1-\pi)=\frac{\pi(1-\pi)}{n}$$
+9c93dcf8332d87f8a7e6688102158f41fab94b3f: $$Z=\frac{\hat{\pi}-E({\hat{\pi}})}{SE(\hat{\pi})}=\frac{\hat{\pi}-\pi}{\sqrt{\frac{\pi(1-\pi)}{n}}}$$
 
 %%
 # Drawing
@@ -5929,40 +5930,37 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 			]
 		},
 		{
-			"id": "MFh85E7Z",
-			"type": "text",
-			"x": 921.6123423196842,
-			"y": 808.4222147679984,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
+			"type": "image",
+			"version": 88,
+			"versionNonce": 2087570319,
+			"isDeleted": false,
+			"id": "JdZ01r4R",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 913.6280153196842,
+			"y": 812.0245327679984,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 308.451068486293,
+			"height": 76.36409947961623,
+			"seed": 76380,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1662389345,
-			"version": 2,
-			"versionNonce": 369199183,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713727663152,
+			"boundElements": [],
+			"updated": 1713727758690,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "9c93dcf8332d87f8a7e6688102158f41fab94b3f",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
