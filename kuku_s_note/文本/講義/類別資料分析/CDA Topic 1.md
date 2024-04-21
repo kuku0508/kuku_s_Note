@@ -134,6 +134,8 @@ Density plot ^UO5r2jRb
 
 Special case：C=2,  ^tgKb73He
 
+*binomial ^IFxIYdX3
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -3439,8 +3441,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "image",
-			"version": 1,
-			"versionNonce": 376519681,
+			"version": 152,
+			"versionNonce": 1502955151,
 			"isDeleted": false,
 			"id": "jsRyvNLV",
 			"fillStyle": "hachure",
@@ -3449,8 +3451,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -299.8189092419246,
-			"y": 1959.1902871976586,
+			"x": -24.69220459458444,
+			"y": 1816.7574356766904,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 62,
@@ -3460,7 +3462,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713680934138,
+			"updated": 1713680939609,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -3469,12 +3471,48 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				1,
 				1
 			]
+		},
+		{
+			"id": "IFxIYdX3",
+			"type": "text",
+			"x": 37.35085278819082,
+			"y": 1802.3582158830027,
+			"width": 61.37774658203125,
+			"height": 18.964849810575558,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 786529519,
+			"version": 132,
+			"versionNonce": 1135296719,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713680971045,
+			"link": null,
+			"locked": false,
+			"text": "*binomial",
+			"rawText": "*binomial",
+			"fontSize": 15.171879848460447,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "*binomial",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -3486,8 +3524,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 276.4275017377028,
-		"scrollY": -1409.1217935834243,
+		"scrollX": 274.6014395387159,
+		"scrollY": -1469.3818461499882,
 		"zoom": {
 			"value": 1.6428794165196634
 		},
