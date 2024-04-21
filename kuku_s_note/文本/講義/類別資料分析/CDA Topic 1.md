@@ -140,6 +140,9 @@ Special case：C=2,  ^tgKb73He
 
 Possion Distribution ^17s1LyPT
 
+1.點/區間估計
+2.檢定 ^w9FEseLK
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -3695,12 +3698,92 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				1,
 				1
 			]
+		},
+		{
+			"id": "j49_gyz3r6m-VwkdUhnhI",
+			"type": "line",
+			"x": 1146.2999814479074,
+			"y": -657.6499090389217,
+			"width": 141.3261356735818,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1204975439,
+			"version": 48,
+			"versionNonce": 867280737,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713685022772,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					141.3261356735818,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "w9FEseLK",
+			"type": "text",
+			"x": 1247.8352633881505,
+			"y": -749.5805021469795,
+			"width": 154.0773316447362,
+			"height": 63.72098404597874,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 805731663,
+			"version": 145,
+			"versionNonce": 1795257345,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713685063313,
+			"link": null,
+			"locked": false,
+			"text": "1.點/區間估計\n2.檢定",
+			"rawText": "1.點/區間估計\n2.檢定",
+			"fontSize": 25.488393618391495,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "1.點/區間估計\n2.檢定",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -3712,8 +3795,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 81.72809066719479,
-		"scrollY": 1184.707208705084,
+		"scrollX": -255.80811686388412,
+		"scrollY": 1378.1730837533828,
 		"zoom": {
 			"value": 0.7288107009300621
 		},
