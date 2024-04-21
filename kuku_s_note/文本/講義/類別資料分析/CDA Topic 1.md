@@ -214,6 +214,8 @@ Problem for approximate C.I：
 - Does not work well(unless n is very large)
 - It's especially poor when    is near 0 or 1 ^sIwvZ2HG
 
+Confidencce interval of Binomial proportion under small sample ^Box5qwaR
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -261,8 +263,8 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 4046,
-			"versionNonce": 1858837967,
+			"version": 4237,
+			"versionNonce": 744874305,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -271,8 +273,8 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1391.0748343007826,
-			"y": 839.8480050509874,
+			"x": 893.0084487552178,
+			"y": 672.1573124301186,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -284,7 +286,7 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713730706065,
+			"updated": 1713730839857,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -6603,6 +6605,42 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 				1,
 				1
 			]
+		},
+		{
+			"id": "Box5qwaR",
+			"type": "text",
+			"x": 909.326777828241,
+			"y": 1258.876859290004,
+			"width": 754.2473300909866,
+			"height": 31.08609201500715,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 568834767,
+			"version": 223,
+			"versionNonce": 657833327,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713730824738,
+			"link": null,
+			"locked": false,
+			"text": "Confidencce interval of Binomial proportion under small sample",
+			"rawText": "Confidencce interval of Binomial proportion under small sample",
+			"fontSize": 24.868873612005743,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Confidencce interval of Binomial proportion under small sample",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
