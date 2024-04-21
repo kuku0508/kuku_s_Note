@@ -210,6 +210,9 @@ Testing  ^lgvpjH39
 
 point estimate ^yXKLUKNq
 
+Problem for approximate C.I：
+Does not work well(unless n is very large) ^sIwvZ2HG
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -256,8 +259,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 3816,
-			"versionNonce": 395298031,
+			"version": 4046,
+			"versionNonce": 1858837967,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -266,8 +269,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1193.3499877776687,
-			"y": 66.46854206817517,
+			"x": 1391.0748343007826,
+			"y": 839.8480050509874,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -279,7 +282,7 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713730575841,
+			"updated": 1713730706065,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -6529,6 +6532,42 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 			"containerId": null,
 			"originalText": "point estimate",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "sIwvZ2HG",
+			"type": "text",
+			"x": 913.6280150660216,
+			"y": 1303.973625765565,
+			"width": 411.2396545410156,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1499766863,
+			"version": 123,
+			"versionNonce": 636003279,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713730710155,
+			"link": null,
+			"locked": false,
+			"text": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
+			"rawText": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -6546,8 +6585,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -789.7436575363017,
-		"scrollY": 217.2981248049151,
+		"scrollX": -624.5558110739532,
+		"scrollY": -445.9561072029983,
 		"zoom": {
 			"value": 0.7990902649735021
 		},
