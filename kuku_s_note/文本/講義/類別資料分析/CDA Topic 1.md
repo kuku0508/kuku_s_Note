@@ -126,6 +126,8 @@ The binomial distribution is always symmetric when ^qXTMPASy
 
 對稱 ^aUGTnXMj
 
+*中央極限定理 ^QRreH762
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -133,6 +135,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y_1,y_2,\ldots,y_c)=\frac{n!}{y_1!y_2!\ldots y_c!} \pi_1^{y_1}\pi_2^{y_2}\ldots\pi_c^{y_c}$$
 78c77d8756ff1efb61b38ae615699fc2fd5f19e2: $$\pi=0.5$$
 5bf7ac069d54d54681bc9ea3ee29e20cbfb62906: $$n \,is \,fixed, \pi \rightarrow 1 , skewed$$
+630f908ec4f12b7b80559a2e57740fe4f7932adc: $$\pi \,is\,fixed,n\rightarrow\infty,bell-shaped$$
 
 %%
 # Drawing
@@ -2909,6 +2912,111 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				1,
 				1
 			]
+		},
+		{
+			"type": "image",
+			"version": 94,
+			"versionNonce": 148387457,
+			"isDeleted": false,
+			"id": "c4RNKnK2",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -234.26568068832182,
+			"y": 1414.3283165588568,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 274,
+			"height": 18,
+			"seed": 8957,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713680666556,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "630f908ec4f12b7b80559a2e57740fe4f7932adc",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "QRreH762",
+			"type": "text",
+			"x": -228.89347839680204,
+			"y": 1443.992861192695,
+			"width": 130.3199920654297,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 553715169,
+			"version": 47,
+			"versionNonce": 511654849,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713680693640,
+			"link": null,
+			"locked": false,
+			"text": "*中央極限定理",
+			"rawText": "*中央極限定理",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "*中央極限定理",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "AUYSHzqK",
+			"type": "text",
+			"x": -228.89347839680204,
+			"y": 1444.583276765575,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 529222209,
+			"version": 2,
+			"versionNonce": 1761121391,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713680677354,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
