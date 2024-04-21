@@ -163,7 +163,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 6c7ec610ce64cb7d4f84651066fa37d47ac0b23c: $$B(n,\pi)$$
 323135651fe2d1fcdb4199dac9fbd49723c7fb2d: $$n_j \sim B(n,\pi_j),for\, jth\, category$$
 2bf3bd653fce80c8b2261e2cc6ec8ae0796295c4: $$P(x)=\frac{\lambda^xe^{-\lambda}}{x!}$$
-b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$$
+b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 
 %%
 # Drawing
@@ -4075,8 +4075,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 		},
 		{
 			"type": "image",
-			"version": 251,
-			"versionNonce": 1416530145,
+			"version": 360,
+			"versionNonce": 1136257231,
 			"isDeleted": false,
 			"id": "HDn1yM6Y",
 			"fillStyle": "hachure",
@@ -4089,14 +4089,14 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 			"y": -339.8750004549769,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 368.1860977682653,
-			"height": 41.20937766437034,
+			"width": 188.44120676594355,
+			"height": 36.49979437500775,
 			"seed": 83335,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713686406007,
+			"updated": 1713723989786,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4122,8 +4122,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 54.28612257523659,
-		"scrollY": 1118.8464852843865,
+		"scrollX": 11.75107203270238,
+		"scrollY": 1127.0790757119735,
 		"zoom": {
 			"value": 0.7288107009300621
 		},
