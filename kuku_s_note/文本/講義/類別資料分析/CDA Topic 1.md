@@ -154,6 +154,10 @@ expressed as a function of the parameter ^CJmVRioB
 
 MLE(Maximum likelihood estimate) ^C5vzEady
 
+The parameter values for which the probability of 
+the observed data takes its greastest value
+ ^SqA6qPsV
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -167,6 +171,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 2bf3bd653fce80c8b2261e2cc6ec8ae0796295c4: $$P(x)=\frac{\lambda^xe^{-\lambda}}{x!}$$
 b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 472a060c0a8be60de6a87a31f2a4f69b4b841d0c: $$\ell(\pi)=P(Y=y)=C^y_{10}\pi^y(1-\pi)^{10-y}$$
+145e996240338e4f3344611ce8ebf48f1ec45b7a: $$Y \sim B(10,\pi)$$
+499754e2157ad7375edc8e17348054afd9c94fe7: $$\ell(\pi)=P(Y=y)=C^y_{10}\pi^y(1-\pi)^{10-y}$$
 
 %%
 # Drawing
@@ -4147,8 +4153,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 			"type": "text",
 			"x": 721.6781025237658,
 			"y": -215.18696780175105,
-			"width": 518.9186163230914,
-			"height": 39.80661731896772,
+			"width": 518.8325805664062,
+			"height": 39.80661731896773,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4179,12 +4185,12 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 			"lineHeight": 1.25
 		},
 		{
-			"id": "BKhNa7vP",
+			"id": "SqA6qPsV",
 			"type": "text",
-			"x": 721.6781025237658,
-			"y": -215.18696780175105,
-			"width": 10,
-			"height": 25,
+			"x": 729.9040010343034,
+			"y": -157.6056782279877,
+			"width": 505.27960205078125,
+			"height": 75,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -4196,59 +4202,89 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2073535777,
-			"version": 2,
-			"versionNonce": 1401320335,
-			"isDeleted": true,
+			"seed": 993950991,
+			"version": 108,
+			"versionNonce": 1053386145,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713724635960,
+			"updated": 1713724739424,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "The parameter values for which the probability of \nthe observed data takes its greastest value\n",
+			"rawText": "The parameter values for which the probability of \nthe observed data takes its greastest value\n",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "",
+			"originalText": "The parameter values for which the probability of \nthe observed data takes its greastest value\n",
 			"lineHeight": 1.25
 		},
 		{
-			"id": "1xjATV6P",
-			"type": "text",
-			"x": 731.5491807364109,
-			"y": -159.2508579300952,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
+			"type": "image",
+			"version": 445,
+			"versionNonce": 1903991809,
+			"isDeleted": false,
+			"id": "bpbZ_XR37L1V4zZYUih3V",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 730.5541663413968,
+			"y": -88.10277661379831,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 188.44120676594355,
+			"height": 36.49979437500775,
+			"seed": 984419617,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1620884623,
-			"version": 2,
-			"versionNonce": 1578283969,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713724674063,
+			"boundElements": [],
+			"updated": 1713724763743,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "145e996240338e4f3344611ce8ebf48f1ec45b7a",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 476,
+			"versionNonce": 1516991457,
+			"isDeleted": false,
+			"id": "n74xHZXEYSSMHfXxcrSiK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 726.4378699121029,
+			"y": -24.077364185358135,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 352.66520850581577,
+			"height": 28.743942301699672,
+			"seed": 1118880001,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713724763743,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "499754e2157ad7375edc8e17348054afd9c94fe7",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -4266,10 +4302,10 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 58.9596661262541,
-		"scrollY": 1256.791366698577,
+		"scrollX": 2.7527453453635777,
+		"scrollY": 974.3786140340471,
 		"zoom": {
-			"value": 0.6078363346684685
+			"value": 0.7354183228937929
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
