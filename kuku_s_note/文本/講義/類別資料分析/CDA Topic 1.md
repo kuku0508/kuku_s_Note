@@ -122,11 +122,16 @@ Binomial distribution ^DHTxbuF5
 
 Multinomial distribution ^8zJtMBEy
 
+The binomial distribution is always symmetric when ^qXTMPASy
+
+ㄉㄨㄟ ^aUGTnXMj
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
 fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial(n,\pi_1,\pi_2,\ldots,\pi_{C-1})$$
 968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y_1,y_2,\ldots,y_c)=\frac{n!}{y_1!y_2!\ldots y_c!} \pi_1^{y_1}\pi_2^{y_2}\ldots\pi_c^{y_c}$$
+78c77d8756ff1efb61b38ae615699fc2fd5f19e2: $$\pi=0.5$$
 
 %%
 # Drawing
@@ -2721,12 +2726,161 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"containerId": null,
 			"originalText": "Multinomial distribution",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "qXTMPASy",
+			"type": "text",
+			"x": -231.77545856479054,
+			"y": 1330.6709027069105,
+			"width": 488.779541015625,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 645032001,
+			"version": 55,
+			"versionNonce": 373077775,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713680357121,
+			"link": null,
+			"locked": false,
+			"text": "The binomial distribution is always symmetric when",
+			"rawText": "The binomial distribution is always symmetric when",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "The binomial distribution is always symmetric when",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 111,
+			"versionNonce": 1756810031,
+			"isDeleted": false,
+			"id": "5Tcl8Tcm",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 268.2922504514028,
+			"y": 1336.3742435388049,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 62,
+			"height": 15,
+			"seed": 2906,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713680380620,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "78c77d8756ff1efb61b38ae615699fc2fd5f19e2",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"id": "Gm8Q3YgL1bv6xjm7jgmKw",
+			"type": "line",
+			"x": 113.54755387357315,
+			"y": 1353.6592785420607,
+			"width": 91.51441379639337,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 302573313,
+			"version": 52,
+			"versionNonce": 2042885071,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713680389645,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					91.51441379639337,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "aUGTnXMj",
+			"type": "text",
+			"x": 163.14246199548955,
+			"y": 1323.5480843251828,
+			"width": 60,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1876074991,
+			"version": 12,
+			"versionNonce": 1614703393,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713680395851,
+			"link": null,
+			"locked": false,
+			"text": "ㄉㄨㄟ",
+			"rawText": "ㄉㄨㄟ",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "ㄉㄨㄟ",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -2738,10 +2892,10 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 389.482029612417,
-		"scrollY": -334.3688091002191,
+		"scrollX": 42.02694958029559,
+		"scrollY": -962.139951776039,
 		"zoom": {
-			"value": 0.6816456618509296
+			"value": 1.6937222626465496
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
