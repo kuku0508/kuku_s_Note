@@ -2955,8 +2955,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"type": "text",
 			"x": 48.01142528389795,
 			"y": 1431.2467840624513,
-			"width": 64.78386347575442,
-			"height": 12.42784442528748,
+			"width": 64.76895141601562,
+			"height": 12.427844425287486,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -3094,8 +3094,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"y": 1438.6173875552463,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 30.270550272858635,
-			"height": 7.939816465012101,
+			"width": 29.586318969726562,
+			"height": 7.939816465012102,
 			"seed": 1695122351,
 			"groupIds": [
 				"wKz3aqVu03ri55CV0JTdh"
@@ -3109,7 +3109,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"fontSize": 4.962385290632564,
 			"fontFamily": 1,
 			"text": "Density plot",
-			"rawText": "",
+			"rawText": "Density plot",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -3200,8 +3200,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "line",
-			"version": 758,
-			"versionNonce": 111065153,
+			"version": 939,
+			"versionNonce": 1699739151,
 			"isDeleted": false,
 			"id": "IhA8plhQiItfHYG06b6ND",
 			"fillStyle": "cross-hatch",
@@ -3210,12 +3210,12 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 26.194128410025968,
-			"y": 1460.8164021667048,
+			"x": 1.8517890523887368,
+			"y": 1370.8028439250756,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
 			"width": 0,
-			"height": 69.47339406885588,
+			"height": 57.86924232496426,
 			"seed": 784549423,
 			"groupIds": [
 				"zYeE41EjYFdP07jDj3W-x"
@@ -3225,7 +3225,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1713680755205,
+			"updated": 1713680762523,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3240,14 +3240,14 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				],
 				[
 					0,
-					69.47339406885588
+					57.86924232496426
 				]
 			]
 		},
 		{
 			"type": "line",
-			"version": 767,
-			"versionNonce": 1971324961,
+			"version": 948,
+			"versionNonce": 1348302433,
 			"isDeleted": false,
 			"id": "OYCk1QDF10NDWSoknFW-2",
 			"fillStyle": "cross-hatch",
@@ -3256,11 +3256,11 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 26.079102999659796,
-			"y": 1530.6035283022366,
+			"x": 1.7559763540856825,
+			"y": 1428.933415601152,
 			"strokeColor": "#000000",
 			"backgroundColor": "#12b886",
-			"width": 143.90917342834433,
+			"width": 119.87200195885455,
 			"height": 0,
 			"seed": 1106815055,
 			"groupIds": [
@@ -3271,7 +3271,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1713680755205,
+			"updated": 1713680762523,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3285,15 +3285,15 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 					0
 				],
 				[
-					143.90917342834433,
+					119.87200195885455,
 					0
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 784,
-			"versionNonce": 1064066049,
+			"version": 965,
+			"versionNonce": 119823407,
 			"isDeleted": false,
 			"id": "UO5r2jRb",
 			"fillStyle": "cross-hatch",
@@ -3302,12 +3302,12 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 25.923083877688185,
-			"y": 1450.9491935482838,
+			"x": 1.6260171301595445,
+			"y": 1362.5837566865216,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 30.270550272858635,
-			"height": 7.939816465012101,
+			"width": 24.644511541582002,
+			"height": 6.613627694281631,
 			"seed": 679265903,
 			"groupIds": [
 				"zYeE41EjYFdP07jDj3W-x"
@@ -3315,13 +3315,13 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713680755205,
+			"updated": 1713680762523,
 			"link": null,
 			"locked": false,
-			"fontSize": 4.962385290632564,
+			"fontSize": 4.133517308926019,
 			"fontFamily": 1,
 			"text": "Density plot",
-			"rawText": "",
+			"rawText": "Density plot",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
@@ -3330,8 +3330,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "line",
-			"version": 632,
-			"versionNonce": 1415787489,
+			"version": 1030,
+			"versionNonce": 1216963041,
 			"isDeleted": false,
 			"id": "fbk2GB2Sr_Xwx8HNwiqzQ",
 			"fillStyle": "hachure",
@@ -3340,12 +3340,12 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 36.693715588038714,
-			"y": 1529.3210466951145,
+			"x": 10.597628562033318,
+			"y": 1427.8651470949915,
 			"strokeColor": "#5f3dc4",
 			"backgroundColor": "#7950f2",
-			"width": 102.63115032899151,
-			"height": 57.74411974554256,
+			"width": 85.48865343460619,
+			"height": 48.70779790352864,
 			"seed": 18358415,
 			"groupIds": [
 				"zYeE41EjYFdP07jDj3W-x"
@@ -3355,7 +3355,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1713680755205,
+			"updated": 1713680802730,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -3369,82 +3369,46 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 					0
 				],
 				[
-					5.18794825838861,
-					-1.127814838780174
+					4.321404459331765,
+					-0.939435752028679
 				],
 				[
-					25.263052388674907,
-					-16.014970710677865
+					2.1740514559116058,
+					-12.122612879482176
 				],
 				[
-					42.405837938132606,
-					-46.014845422229236
+					7.323163891812857,
+					-35.285541684457485
 				],
 				[
-					53.00729742266587,
-					-56.616304906762444
+					13.110422962570897,
+					-47.768362151500014
 				],
 				[
-					60.45087535861472,
-					-45.11259355120511
+					40.00607051447663,
+					-24.79499468823815
 				],
 				[
-					69.0222681333438,
-					-25.93974129194299
+					55.05871842550374,
+					-16.128835699698357
 				],
 				[
-					84.58611290850939,
-					-9.022518710241055
+					70.45768140214788,
+					-7.5154860162291515
 				],
 				[
-					102.18002439347964,
-					-2.2556296775602918
+					85.11287913379488,
+					-1.8788715040573112
 				],
 				[
-					102.63115032899151,
-					1.1278148387801177
+					85.48865343460619,
+					0.939435752028632
 				],
 				[
 					0,
 					0
 				]
 			]
-		},
-		{
-			"id": "AUYSHzqK",
-			"type": "text",
-			"x": -228.89347839680204,
-			"y": 1444.583276765575,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 529222209,
-			"version": 2,
-			"versionNonce": 1761121391,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713680677354,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -3462,10 +3426,10 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 446.3618288874362,
-		"scrollY": -1055.3468649025806,
+		"scrollX": 276.4275017377028,
+		"scrollY": -1165.646833718521,
 		"zoom": {
-			"value": 1.079884360533076
+			"value": 1.6428794165196634
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
