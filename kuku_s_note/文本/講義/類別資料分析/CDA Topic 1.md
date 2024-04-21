@@ -241,6 +241,7 @@ b712deb5bfb5906c38c71df07a24407017600ac8: $$\hat{\pi}\pm Z_{\frac{\alpha}{n}}*\h
 68200753e8467a1d233393bda63d308dde9364c2: $$H_0：\pi=\pi_0$$
 baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 08561741dcef40ec5638d8da801b374122803aba: $$Testing Statistic：\hat{\pi}_{(MLE)}$$
+c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{SE}(\hat{\pi})$$
 
 %%
 # Drawing
@@ -6366,6 +6367,39 @@ baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 			"locked": false,
 			"status": "pending",
 			"fileId": "08561741dcef40ec5638d8da801b374122803aba",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 94,
+			"versionNonce": 624892961,
+			"isDeleted": false,
+			"id": "vkMOgsOM",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1057.6819659484486,
+			"y": 1128.9037671565848,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 291.5546968511825,
+			"height": 32.25711539630104,
+			"seed": 17212,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713728465649,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c3be6e326a469a83f3c91e914e035d0d4269d842",
 			"scale": [
 				1,
 				1
