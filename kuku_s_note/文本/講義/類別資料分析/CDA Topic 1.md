@@ -132,6 +132,8 @@ Density plot ^Rc1TVcRy
 
 Density plot ^UO5r2jRb
 
+Special case：C=2,  ^tgKb73He
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -140,6 +142,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 78c77d8756ff1efb61b38ae615699fc2fd5f19e2: $$\pi=0.5$$
 5bf7ac069d54d54681bc9ea3ee29e20cbfb62906: $$n \,is \,fixed, \pi \rightarrow 1 , skewed$$
 630f908ec4f12b7b80559a2e57740fe4f7932adc: $$\pi \,is\,fixed,n\rightarrow\infty,bell-shaped$$
+6c7ec610ce64cb7d4f84651066fa37d47ac0b23c: $$B(n,\pi)$$
 
 %%
 # Drawing
@@ -3399,14 +3402,14 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			]
 		},
 		{
-			"id": "jPMF3e06",
+			"id": "tgKb73He",
 			"type": "text",
-			"x": 21.524980396972012,
-			"y": 1403.7196929114214,
-			"width": 10,
+			"x": -215.25441807164597,
+			"y": 1813.975000283783,
+			"width": 195.75987243652344,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -3416,29 +3419,62 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1019740879,
-			"version": 2,
-			"versionNonce": 1244150145,
-			"isDeleted": true,
+			"seed": 1658426479,
+			"version": 39,
+			"versionNonce": 1022010657,
+			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713680820914,
+			"updated": 1713680919153,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
+			"text": "Special case：C=2, ",
+			"rawText": "Special case：C=2, ",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "",
+			"originalText": "Special case：C=2, ",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 1,
+			"versionNonce": 376519681,
+			"isDeleted": false,
+			"id": "jsRyvNLV",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -299.8189092419246,
+			"y": 1959.1902871976586,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 62,
+			"height": 20,
+			"seed": 79014,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713680934138,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "6c7ec610ce64cb7d4f84651066fa37d47ac0b23c",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -3451,7 +3487,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 276.4275017377028,
-		"scrollY": -1165.646833718521,
+		"scrollY": -1409.1217935834243,
 		"zoom": {
 			"value": 1.6428794165196634
 		},
