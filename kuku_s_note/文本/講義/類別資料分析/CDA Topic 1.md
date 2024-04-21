@@ -145,6 +145,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 5bf7ac069d54d54681bc9ea3ee29e20cbfb62906: $$n \,is \,fixed, \pi \rightarrow 1 , skewed$$
 630f908ec4f12b7b80559a2e57740fe4f7932adc: $$\pi \,is\,fixed,n\rightarrow\infty,bell-shaped$$
 6c7ec610ce64cb7d4f84651066fa37d47ac0b23c: $$B(n,\pi)$$
+323135651fe2d1fcdb4199dac9fbd49723c7fb2d: $$n_j \sim B(n,\pi_j),for\, jth\, category$$
 
 %%
 # Drawing
@@ -3311,7 +3312,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"y": 1357.7142574892237,
 			"strokeColor": "#000000",
 			"backgroundColor": "#be4bdb",
-			"width": 24.644511541582002,
+			"width": 24.635345458984375,
 			"height": 6.613627694281631,
 			"seed": 679265903,
 			"groupIds": [
@@ -3507,6 +3508,39 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"containerId": null,
 			"originalText": "*binomial",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 138,
+			"versionNonce": 1144810127,
+			"isDeleted": false,
+			"id": "QrgURxKK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -215.254417687182,
+			"y": 1862.4666572415656,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 250,
+			"height": 20,
+			"seed": 44099,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713681053499,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "323135651fe2d1fcdb4199dac9fbd49723c7fb2d",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
