@@ -216,8 +216,8 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 2537,
-			"versionNonce": 1811550959,
+			"version": 2828,
+			"versionNonce": 599614177,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -226,8 +226,8 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 715.9405512464621,
-			"y": -742.6044805118186,
+			"x": 113.56230445918845,
+			"y": -923.453931578878,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -239,7 +239,7 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713726201180,
+			"updated": 1713726249413,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -5922,10 +5922,10 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -504.4415798276676,
-		"scrollY": 962.1406812550742,
+		"scrollX": -549.7434881395221,
+		"scrollY": 1467.5241926295346,
 		"zoom": {
-			"value": 0.7354183228937929
+			"value": 0.5354183228937928
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
