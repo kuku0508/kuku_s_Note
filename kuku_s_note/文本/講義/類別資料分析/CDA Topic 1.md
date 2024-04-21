@@ -136,6 +136,8 @@ Special case：C=2,  ^tgKb73He
 
 *binomial ^IFxIYdX3
 
+母體比例的推論(Statistical inference for a proportion) ^nnf3dJVO
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -157,8 +159,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 881,
-			"versionNonce": 1244762657,
+			"version": 1046,
+			"versionNonce": 1887631649,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -167,8 +169,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1152.9709543234007,
-			"y": 1104.386292667892,
+			"x": -161.37646326497247,
+			"y": -691.018051419424,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -180,7 +182,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713681110331,
+			"updated": 1713681133873,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -3541,16 +3543,96 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				1,
 				1
 			]
+		},
+		{
+			"id": "eN1Swld7ocyWcMDkWsYLP",
+			"type": "line",
+			"x": -238.7699153190465,
+			"y": 855.4603639980202,
+			"width": 968.6939254450697,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1618594991,
+			"version": 160,
+			"versionNonce": 1225937409,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713681124356,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					968.6939254450697,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "nnf3dJVO",
+			"type": "text",
+			"x": 725.9548455133015,
+			"y": -599.6844615125996,
+			"width": 722.7388542220812,
+			"height": 34.42402795671679,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 162570433,
+			"version": 96,
+			"versionNonce": 1324208687,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713681175487,
+			"link": null,
+			"locked": false,
+			"text": "母體比例的推論(Statistical inference for a proportion)",
+			"rawText": "母體比例的推論(Statistical inference for a proportion)",
+			"fontSize": 27.53922236537344,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "母體比例的推論(Statistical inference for a proportion)",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -3558,10 +3640,10 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1313.698573447,
-		"scrollY": 524.6542874268303,
+		"scrollX": -198.9946156002208,
+		"scrollY": 1262.704095050779,
 		"zoom": {
-			"value": 0.3366704372649506
+			"value": 0.6366704372649507
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
