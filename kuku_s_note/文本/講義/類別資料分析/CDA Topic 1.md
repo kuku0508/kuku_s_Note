@@ -222,7 +222,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 2dc3002e29f4e8d83b0b608ea0da2bb37180a7d0: $$\hat{\theta}$$
 97c3d6ea2d53e2d94c0c19b8116a010702b5a87e: $$Sample \,distribution \, of \, the \, sample \, proportion\, \hat{\pi}$$
 36c04a7f243eb20b9bd7425ea9418ff62392c647: $$E(\hat{\pi})=E(\frac{Y}{n})=\frac{1}{n}E(Y)=\frac{1}{\cancel{n}}*\cancel{n}\pi=\pi$$
-8a998f2a36c3ec549ec5a1e8d40e187011c01d45: $$E(\hat{\pi})=E(\frac{Y}{n})=\frac{1}{n}E(Y)=\frac{1}{\cancel{n}}*\cancel{n}\pi=\pi$$
+8a998f2a36c3ec549ec5a1e8d40e187011c01d45: $$SE(\hat{\pi})=\sqrt{Var(\hat{\pi})}=\sqrt{\frac{\pi(1-\pi)}{n}}$$
 
 %%
 # Drawing
@@ -5795,8 +5795,8 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 		},
 		{
 			"type": "image",
-			"version": 201,
-			"versionNonce": 1003916047,
+			"version": 222,
+			"versionNonce": 141399681,
 			"isDeleted": false,
 			"id": "hTlIEfxsjogL0RpLTNClM",
 			"fillStyle": "hachure",
@@ -5809,14 +5809,14 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 			"y": 433.191612401376,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 550.3655811365174,
-			"height": 69.18003114844494,
+			"width": 542.032247803184,
+			"height": 99.1800311484449,
 			"seed": 788895727,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713727208841,
+			"updated": 1713727304477,
 			"link": null,
 			"locked": false,
 			"status": "pending",
