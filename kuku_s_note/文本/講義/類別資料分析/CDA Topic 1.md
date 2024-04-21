@@ -175,8 +175,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 2021,
-			"versionNonce": 337984897,
+			"version": 2453,
+			"versionNonce": 1755164321,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -185,8 +185,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -142.00054501555155,
-			"y": -799.2217096474438,
+			"x": -150.23313544313874,
+			"y": -854.105645831359,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -198,7 +198,7 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713685219531,
+			"updated": 1713723816618,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -4122,8 +4122,8 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$p(6)=C^{10}_6 \pi^6 *(1-\pi)^{10-6}$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 28.216252887876905,
-		"scrollY": 1253.3121289349772,
+		"scrollX": 54.28612257523659,
+		"scrollY": 1118.8464852843865,
 		"zoom": {
 			"value": 0.7288107009300621
 		},
