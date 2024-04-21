@@ -113,6 +113,9 @@ GLM ^adWf5r9a
 
 反應變數 Y ^tfffUely
 
+CDA裡面會遇到的機率分配
+1.Binomial distri ^1QgJRoyn
+
 %%
 # Drawing
 ```json
@@ -123,8 +126,8 @@ GLM ^adWf5r9a
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 491,
-			"versionNonce": 1658929263,
+			"version": 787,
+			"versionNonce": 1634916417,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -133,8 +136,8 @@ GLM ^adWf5r9a
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1127.0062065830625,
-			"y": 449.4757528159671,
+			"x": -1099.5062065830625,
+			"y": -253.02424718403267,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -146,7 +149,7 @@ GLM ^adWf5r9a
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713678572839,
+			"updated": 1713679041847,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -2465,6 +2468,42 @@ GLM ^adWf5r9a
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "反應變數 Y",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "1QgJRoyn",
+			"type": "text",
+			"x": -206.4652826693238,
+			"y": 901.5035014079835,
+			"width": 241.5999755859375,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1110135777,
+			"version": 88,
+			"versionNonce": 922907599,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713679075391,
+			"link": null,
+			"locked": false,
+			"text": "CDA裡面會遇到的機率分配\n1.Binomial distri",
+			"rawText": "CDA裡面會遇到的機率分配\n1.Binomial distri",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "CDA裡面會遇到的機率分配\n1.Binomial distri",
 			"lineHeight": 1.25
 		},
 		{
@@ -17675,10 +17714,10 @@ GLM ^adWf5r9a
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1375.1356578555415,
-		"scrollY": 31.984923860903223,
+		"scrollX": 403.34028266932376,
+		"scrollY": -268.8472514079837,
 		"zoom": {
-			"value": 0.8497900898861938
+			"value": 0.8000000000000003
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
