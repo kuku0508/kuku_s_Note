@@ -124,7 +124,7 @@ Multinomial distribution ^8zJtMBEy
 
 The binomial distribution is always symmetric when ^qXTMPASy
 
-ㄉㄨㄟ ^aUGTnXMj
+對稱 ^aUGTnXMj
 
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
@@ -2843,10 +2843,10 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		{
 			"id": "aUGTnXMj",
 			"type": "text",
-			"x": 163.14246199548955,
-			"y": 1323.5480843251828,
-			"width": 60,
-			"height": 25,
+			"x": 186.16866933780787,
+			"y": 1322.441055126033,
+			"width": 27.601272969520863,
+			"height": 17.25079560595054,
 			"angle": 0,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
@@ -2859,21 +2859,21 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"frameId": null,
 			"roundness": null,
 			"seed": 1876074991,
-			"version": 12,
-			"versionNonce": 1614703393,
+			"version": 69,
+			"versionNonce": 364650369,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713680395851,
+			"updated": 1713680404229,
 			"link": null,
 			"locked": false,
-			"text": "ㄉㄨㄟ",
-			"rawText": "ㄉㄨㄟ",
-			"fontSize": 20,
+			"text": "對稱",
+			"rawText": "對稱",
+			"fontSize": 13.800636484760432,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "ㄉㄨㄟ",
+			"originalText": "對稱",
 			"lineHeight": 1.25
 		}
 	],
