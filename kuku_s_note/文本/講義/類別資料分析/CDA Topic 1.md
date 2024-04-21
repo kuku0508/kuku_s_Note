@@ -152,6 +152,8 @@ expressed as a function of the parameter ^CJmVRioB
 我會這樣理解likelihood function，他就是在給定x跟模型的情況下，你的參數是未知。
 以binomial為例： ^yYuUJh2W
 
+MLE(Maximum likelihood estimate) ^C5vzEady
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -4139,6 +4141,78 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 				1,
 				1
 			]
+		},
+		{
+			"id": "C5vzEady",
+			"type": "text",
+			"x": 721.6781025237658,
+			"y": -215.18696780175105,
+			"width": 325.89971923828125,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 276090049,
+			"version": 53,
+			"versionNonce": 556417615,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713724659047,
+			"link": null,
+			"locked": false,
+			"text": "MLE(Maximum likelihood estimate)",
+			"rawText": "MLE(Maximum likelihood estimate)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "MLE(Maximum likelihood estimate)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "BKhNa7vP",
+			"type": "text",
+			"x": 721.6781025237658,
+			"y": -215.18696780175105,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2073535777,
+			"version": 2,
+			"versionNonce": 1401320335,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713724635960,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -4156,10 +4230,10 @@ b091f17a1dce1778b463725a9021f95dc888c279: $$Y \sim B(10,\pi)$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -586.4271670792932,
-		"scrollY": 713.5431721511795,
+		"scrollX": 58.9596661262541,
+		"scrollY": 1256.791366698577,
 		"zoom": {
-			"value": 1.258315515234592
+			"value": 0.6078363346684685
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
