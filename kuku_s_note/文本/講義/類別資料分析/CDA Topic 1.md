@@ -263,8 +263,8 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 4237,
-			"versionNonce": 744874305,
+			"version": 4518,
+			"versionNonce": 1860553953,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -273,8 +273,8 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 893.0084487552178,
-			"y": 672.1573124301186,
+			"x": -29.885051672350983,
+			"y": 1316.5148828180156,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -286,7 +286,7 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713730839857,
+			"updated": 1713730923647,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -6641,6 +6641,86 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 			"containerId": null,
 			"originalText": "Confidencce interval of Binomial proportion under small sample",
 			"lineHeight": 1.25
+		},
+		{
+			"id": "01wexmvpsOx11zVKfL55C",
+			"type": "line",
+			"x": 877.9918775250623,
+			"y": 1408.6051090308983,
+			"width": 1133.4370914079532,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 499554447,
+			"version": 102,
+			"versionNonce": 1392932705,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713730919784,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1133.4370914079532,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "mzU7ovZe",
+			"type": "text",
+			"x": 874.8551390207344,
+			"y": 1454.390952654129,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 2021150191,
+			"version": 2,
+			"versionNonce": 1455150177,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713730931058,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -6650,7 +6730,7 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
+		"currentItemStrokeStyle": "dashed",
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
@@ -6658,10 +6738,10 @@ e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -624.5558110739532,
-		"scrollY": -445.9561072029983,
+		"scrollX": -75.30951458768436,
+		"scrollY": -564.500011055236,
 		"zoom": {
-			"value": 0.7990902649735021
+			"value": 0.5990902649735019
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
