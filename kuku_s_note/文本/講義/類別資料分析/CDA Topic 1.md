@@ -189,13 +189,14 @@ Given that Y=4 ^V0HACJRM
 0.000 ^f5EZnU3F
 
 MLE in Large Sample：
-1.Consistency
+1.Consistency - 一致性
+  Larger Number of Sample , 更精確
 
-2.Asymptotic Mormality
-
-3.Asymptotic Efficiency
-
-4.Invariance ^SNszKe21
+2.Asymptotic Mormality - 漸進常態性
+  Larger Number of Sample , simlier to normal distribution
+3.Asymptotic Efficiency - 漸進效率
+  在無偏估計量中，MLE的方差是最小的。
+4.Invariance - 不變性 ^SNszKe21
 
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
@@ -5290,8 +5291,8 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"type": "text",
 			"x": 1284.4827039046913,
 			"y": -238.63247474111085,
-			"width": 225.01979064941406,
-			"height": 200,
+			"width": 568.49951171875,
+			"height": 225,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -5304,21 +5305,21 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"frameId": null,
 			"roundness": null,
 			"seed": 333617135,
-			"version": 104,
-			"versionNonce": 776013039,
+			"version": 470,
+			"versionNonce": 1045885345,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713726320079,
+			"updated": 1713726590053,
 			"link": null,
 			"locked": false,
-			"text": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
-			"rawText": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
+			"text": "MLE in Large Sample：\n1.Consistency - 一致性\n  Larger Number of Sample , 更精確\n\n2.Asymptotic Mormality - 漸進常態性\n  Larger Number of Sample , simlier to normal distribution\n3.Asymptotic Efficiency - 漸進效率\n  在無偏估計量中，MLE的方差是最小的。\n4.Invariance - 不變性",
+			"rawText": "MLE in Large Sample：\n1.Consistency - 一致性\n  Larger Number of Sample , 更精確\n\n2.Asymptotic Mormality - 漸進常態性\n  Larger Number of Sample , simlier to normal distribution\n3.Asymptotic Efficiency - 漸進效率\n  在無偏估計量中，MLE的方差是最小的。\n4.Invariance - 不變性",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "MLE in Large Sample：\n1.Consistency\n\n2.Asymptotic Mormality\n\n3.Asymptotic Efficiency\n\n4.Invariance",
+			"originalText": "MLE in Large Sample：\n1.Consistency - 一致性\n  Larger Number of Sample , 更精確\n\n2.Asymptotic Mormality - 漸進常態性\n  Larger Number of Sample , simlier to normal distribution\n3.Asymptotic Efficiency - 漸進效率\n  在無偏估計量中，MLE的方差是最小的。\n4.Invariance - 不變性",
 			"lineHeight": 1.25
 		},
 		{
