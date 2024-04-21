@@ -220,6 +220,7 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 450b91c2560715fbd59ee25a8780833c35a41f8e: $$f(\hat{\theta})$$
 2dc3002e29f4e8d83b0b608ea0da2bb37180a7d0: $$\hat{\theta}$$
+97c3d6ea2d53e2d94c0c19b8116a010702b5a87e: $$Sample \,distribution \, of \, the \, sample \, proportion\, \hat{\pi}$$
 
 %%
 # Drawing
@@ -5723,6 +5724,39 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 			"containerId": null,
 			"originalText": "MLE",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 135,
+			"versionNonce": 293787247,
+			"isDeleted": false,
+			"id": "Ck5JR2UZ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 898.1097765159199,
+			"y": 249.36808298496265,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 1015.4785832888188,
+			"height": 50.90118211974029,
+			"seed": 49170,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713727002755,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "97c3d6ea2d53e2d94c0c19b8116a010702b5a87e",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
