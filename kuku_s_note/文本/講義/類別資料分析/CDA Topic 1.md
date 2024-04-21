@@ -114,7 +114,9 @@ GLM ^adWf5r9a
 反應變數 Y ^tfffUely
 
 CDA裡面會遇到的機率分配
-1.Binomial distri ^1QgJRoyn
+1.Binomial distribution
+2.Multinomial distribution
+3.Special cases ^1QgJRoyn
 
 %%
 # Drawing
@@ -2473,10 +2475,10 @@ CDA裡面會遇到的機率分配
 		{
 			"id": "1QgJRoyn",
 			"type": "text",
-			"x": -206.4652826693238,
+			"x": -205.2152826693238,
 			"y": 901.5035014079835,
-			"width": 241.5999755859375,
-			"height": 50,
+			"width": 241.9197540283203,
+			"height": 100,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2489,21 +2491,21 @@ CDA裡面會遇到的機率分配
 			"frameId": null,
 			"roundness": null,
 			"seed": 1110135777,
-			"version": 88,
-			"versionNonce": 922907599,
+			"version": 148,
+			"versionNonce": 1192520897,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713679075391,
+			"updated": 1713679134602,
 			"link": null,
 			"locked": false,
-			"text": "CDA裡面會遇到的機率分配\n1.Binomial distri",
-			"rawText": "CDA裡面會遇到的機率分配\n1.Binomial distri",
+			"text": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
+			"rawText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "CDA裡面會遇到的機率分配\n1.Binomial distri",
+			"originalText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
 			"lineHeight": 1.25
 		},
 		{
