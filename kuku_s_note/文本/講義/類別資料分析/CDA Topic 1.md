@@ -256,8 +256,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 3814,
-			"versionNonce": 1818231631,
+			"version": 3816,
+			"versionNonce": 395298031,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -266,8 +266,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1192.0985646984086,
-			"y": 67.71996514743529,
+			"x": 1193.3499877776687,
+			"y": 66.46854206817517,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -279,7 +279,7 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713730508023,
+			"updated": 1713730575841,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -6546,8 +6546,8 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -588.2645417754072,
-		"scrollY": 402.50874053542685,
+		"scrollX": -789.7436575363017,
+		"scrollY": 217.2981248049151,
 		"zoom": {
 			"value": 0.7990902649735021
 		},
