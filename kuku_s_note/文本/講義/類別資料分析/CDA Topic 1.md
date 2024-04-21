@@ -150,7 +150,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 630f908ec4f12b7b80559a2e57740fe4f7932adc: $$\pi \,is\,fixed,n\rightarrow\infty,bell-shaped$$
 6c7ec610ce64cb7d4f84651066fa37d47ac0b23c: $$B(n,\pi)$$
 323135651fe2d1fcdb4199dac9fbd49723c7fb2d: $$n_j \sim B(n,\pi_j),for\, jth\, category$$
-2bf3bd653fce80c8b2261e2cc6ec8ae0796295c4: $$P(x)=\frac{\lambda}{}$$
+2bf3bd653fce80c8b2261e2cc6ec8ae0796295c4: $$P(x)=\frac{\lambda^xe^{-\lambda}}{x!}$$
 
 %%
 # Drawing
@@ -3665,8 +3665,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "image",
-			"version": 1,
-			"versionNonce": 320137485,
+			"version": 185,
+			"versionNonce": 1084644687,
 			"isDeleted": false,
 			"id": "6qjA89Bk",
 			"fillStyle": "hachure",
@@ -3675,18 +3675,18 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -220.5984676268448,
-			"y": 1950.750951784384,
+			"x": -231.02684821284788,
+			"y": 1958.5087455657215,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 87,
-			"height": 40,
+			"width": 250.06915126915374,
+			"height": 88.80710319912131,
 			"seed": 51138,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713684578250,
+			"updated": 1713684618160,
 			"link": null,
 			"locked": false,
 			"status": "pending",
