@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md"
+                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
               }
             }
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -84,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md"
+                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
               }
             }
           },
@@ -166,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 1.md",
+                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,9 +223,9 @@
   },
   "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
+    "文本/講義/類別資料分析/CDA Topic 1.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "文本/講義/類別資料分析/CDA Topic 1.md",
     "附件/Pasted Image 20240422042556_398.png",
     "附件",
     "文本/講義/類別資料分析/CDA Topic 2.md",
