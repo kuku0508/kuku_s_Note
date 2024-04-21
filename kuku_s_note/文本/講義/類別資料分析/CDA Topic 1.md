@@ -120,7 +120,7 @@ CDA裡面會遇到的機率分配
 
 Binomial distribution ^DHTxbuF5
 
-Binomial distribution ^8zJtMBEy
+Multinomial distribution ^8zJtMBEy
 
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
@@ -2688,8 +2688,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$Y\sim B(n,\pi)$$
 		},
 		{
 			"type": "text",
-			"version": 202,
-			"versionNonce": 782412129,
+			"version": 223,
+			"versionNonce": 2040338017,
 			"isDeleted": false,
 			"id": "8zJtMBEy",
 			"fillStyle": "solid",
@@ -2702,24 +2702,24 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$Y\sim B(n,\pi)$$
 			"y": 1334.4569349424544,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 318.3073425292969,
+			"width": 365.5188293457031,
 			"height": 41.13741657231529,
 			"seed": 1728357921,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679728653,
+			"updated": 1713679742000,
 			"link": null,
 			"locked": false,
 			"fontSize": 32.90993325785223,
 			"fontFamily": 1,
-			"text": "Binomial distribution",
-			"rawText": "Binomial distribution",
+			"text": "Multinomial distribution",
+			"rawText": "Multinomial distribution",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Binomial distribution",
+			"originalText": "Multinomial distribution",
 			"lineHeight": 1.25
 		},
 		{
@@ -2756,6 +2756,42 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$Y\sim B(n,\pi)$$
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Binomial distribution",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "gQi7LdWX",
+			"type": "text",
+			"x": -105.61020172668935,
+			"y": 1436.297629362065,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1828895855,
+			"version": 2,
+			"versionNonce": 1690459617,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713679757556,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
