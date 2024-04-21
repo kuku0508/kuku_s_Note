@@ -211,7 +211,8 @@ Testing  ^lgvpjH39
 point estimate ^yXKLUKNq
 
 Problem for approximate C.I：
-Does not work well(unless n is very large) ^sIwvZ2HG
+- Does not work well(unless n is very large)
+- It's especially poor when    is near 0 or 1 ^sIwvZ2HG
 
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
@@ -248,6 +249,7 @@ baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 08561741dcef40ec5638d8da801b374122803aba: $$Testing Statistic：\hat{\pi}_{(MLE)}$$
 c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{SE}(\hat{\pi})$$
 01cb5d34e7c12daa15383ca528c796ad60db9720: $$\hat{\pi}=\frac{y}{n}$$
+e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
 
 %%
 # Drawing
@@ -6538,10 +6540,10 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 			"type": "text",
 			"x": 913.6280150660216,
 			"y": 1303.973625765565,
-			"width": 411.2396545410156,
-			"height": 50,
+			"width": 436.13970947265625,
+			"height": 75,
 			"angle": 0,
-			"strokeColor": "#e03131",
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -6552,28 +6554,61 @@ c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{
 			"frameId": null,
 			"roundness": null,
 			"seed": 1499766863,
-			"version": 123,
-			"versionNonce": 636003279,
+			"version": 184,
+			"versionNonce": 348339393,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713730710155,
+			"updated": 1713730744114,
 			"link": null,
 			"locked": false,
-			"text": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
-			"rawText": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
+			"text": "Problem for approximate C.I：\n- Does not work well(unless n is very large)\n- It's especially poor when    is near 0 or 1",
+			"rawText": "Problem for approximate C.I：\n- Does not work well(unless n is very large)\n- It's especially poor when    is near 0 or 1",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Problem for approximate C.I：\nDoes not work well(unless n is very large)",
+			"originalText": "Problem for approximate C.I：\n- Does not work well(unless n is very large)\n- It's especially poor when    is near 0 or 1",
 			"lineHeight": 1.25
+		},
+		{
+			"type": "image",
+			"version": 113,
+			"versionNonce": 189303297,
+			"isDeleted": false,
+			"id": "5ZlMNauk",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1181.5265661373505,
+			"y": 1364.2842043441626,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 23.754269237780875,
+			"height": 10.689421157001393,
+			"seed": 10149,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713730762068,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
