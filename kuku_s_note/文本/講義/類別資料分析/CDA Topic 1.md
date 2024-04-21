@@ -159,8 +159,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 1046,
-			"versionNonce": 1887631649,
+			"version": 1326,
+			"versionNonce": 57934383,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -169,8 +169,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -161.37646326497247,
-			"y": -691.018051419424,
+			"x": -148.81109265601674,
+			"y": -698.8714080500214,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 850,
@@ -182,7 +182,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1713681133873,
+			"updated": 1713681197961,
 			"link": "https://drive.google.com/file/d/1Sr1N9N-mxqjsJYugssEQputavcjB0ufK/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -228,8 +228,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "text",
-			"version": 336,
-			"versionNonce": 875514959,
+			"version": 369,
+			"versionNonce": 559706145,
 			"isDeleted": false,
 			"id": "eLCuUd6q",
 			"fillStyle": "solid",
@@ -238,8 +238,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -232.5,
-			"y": -558.875,
+			"x": -496.3727827880702,
+			"y": -181.9138817313284,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 838.0994262695312,
@@ -249,7 +249,7 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679722296,
+			"updated": 1713681183048,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -261,138 +261,6 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"containerId": null,
 			"originalText": "類別資料(Categorical Data)\n- A categorical variable has a measurement scale consisting of a set of categories\nthere are two type of categorical data, Nominal and Ordinal\nFor example\n- yes or no\n- male or female\n- correct or incorrect\n- DPP or KMT",
 			"lineHeight": 1.25
-		},
-		{
-			"type": "line",
-			"version": 140,
-			"versionNonce": 1651876897,
-			"isDeleted": false,
-			"id": "gbnoiTE0Xo6sdGvWtVxwb",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 409.5,
-			"y": -512.875,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 200,
-			"height": 1,
-			"seed": 458338479,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1713679722296,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					200,
-					-1
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 145,
-			"versionNonce": 1681844847,
-			"isDeleted": false,
-			"id": "bA34uOoMUAuF1ITY_i1eS",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 184.5,
-			"y": -487.875,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 67,
-			"height": 0,
-			"seed": 580352577,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1713679722296,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					67,
-					0
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 83,
-			"versionNonce": 860780545,
-			"isDeleted": false,
-			"id": "O2lTnA4wTuirYLp40UqU2",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 305.5,
-			"y": -488.875,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 68,
-			"height": 0,
-			"seed": 2114465793,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1713679722296,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					68,
-					0
-				]
-			]
 		},
 		{
 			"type": "text",
@@ -3591,10 +3459,10 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		{
 			"id": "nnf3dJVO",
 			"type": "text",
-			"x": 725.9548455133015,
-			"y": -599.6844615125996,
-			"width": 722.7388542220812,
-			"height": 34.42402795671679,
+			"x": 713.3894745133015,
+			"y": -691.0180505125996,
+			"width": 854.6449979222176,
+			"height": 40.7067132611946,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -3607,21 +3475,189 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"frameId": null,
 			"roundness": null,
 			"seed": 162570433,
-			"version": 96,
-			"versionNonce": 1324208687,
+			"version": 158,
+			"versionNonce": 1601319951,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713681175487,
+			"updated": 1713681180149,
 			"link": null,
 			"locked": false,
 			"text": "母體比例的推論(Statistical inference for a proportion)",
 			"rawText": "母體比例的推論(Statistical inference for a proportion)",
-			"fontSize": 27.53922236537344,
+			"fontSize": 32.56537060895569,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "母體比例的推論(Statistical inference for a proportion)",
+			"lineHeight": 1.25
+		},
+		{
+			"type": "line",
+			"version": 141,
+			"versionNonce": 529385441,
+			"isDeleted": true,
+			"id": "gbnoiTE0Xo6sdGvWtVxwb",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 409.5,
+			"y": -512.875,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 200,
+			"height": 1,
+			"seed": 458338479,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1713681193654,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					200,
+					-1
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 146,
+			"versionNonce": 1056694959,
+			"isDeleted": true,
+			"id": "bA34uOoMUAuF1ITY_i1eS",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 184.5,
+			"y": -487.875,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 67,
+			"height": 0,
+			"seed": 580352577,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1713681193654,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					67,
+					0
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 84,
+			"versionNonce": 690758593,
+			"isDeleted": true,
+			"id": "O2lTnA4wTuirYLp40UqU2",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 305.5,
+			"y": -488.875,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"width": 68,
+			"height": 0,
+			"seed": 2114465793,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1713681193654,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					68,
+					0
+				]
+			]
+		},
+		{
+			"id": "BacX8k3X",
+			"type": "text",
+			"x": 729.0961881655389,
+			"y": -585.5484195775243,
+			"width": 10,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1173746351,
+			"version": 18,
+			"versionNonce": 45683105,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713681228456,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "",
 			"lineHeight": 1.25
 		}
 	],
@@ -3640,8 +3676,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -198.9946156002208,
-		"scrollY": 1262.704095050779,
+		"scrollX": -433.0246431920197,
+		"scrollY": 1496.7341226425792,
 		"zoom": {
 			"value": 0.6366704372649507
 		},
