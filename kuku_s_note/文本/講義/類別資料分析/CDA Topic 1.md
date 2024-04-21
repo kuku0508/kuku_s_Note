@@ -257,7 +257,7 @@ baacb97ccb1284fa8bd1f8d8cdf7e74d0b92ae90: $$H_1：\pi > 0.8$$
 c3be6e326a469a83f3c91e914e035d0d4269d842: $$R.R：\hat{\pi}>\pi_0+Z_\alpha*\hat{SE}(\hat{\pi})$$
 01cb5d34e7c12daa15383ca528c796ad60db9720: $$\hat{\pi}=\frac{y}{n}$$
 e7ea5dd89d00beb5576a1e58ae77b42bd4e71c48: $$\pi$$
-5e31ec535f805f391ecfd244585107c58c7c7038: $$W=\frac{\hat{\beta}-\beta_0}}{SE}$$
+5e31ec535f805f391ecfd244585107c58c7c7038: $$W=\right[\frac{\hat{\beta}-\beta_0}{SE}\left]^2$$
 ce521c9ddfb1fbf114f3daf29be1e55ef146665e: [[Pasted Image 20240422042556_398.png]]
 
 %%
@@ -6800,8 +6800,8 @@ ce521c9ddfb1fbf114f3daf29be1e55ef146665e: [[Pasted Image 20240422042556_398.png]
 		},
 		{
 			"type": "image",
-			"version": 148,
-			"versionNonce": 1583210945,
+			"version": 328,
+			"versionNonce": 967569985,
 			"isDeleted": false,
 			"id": "Tvtfkro3",
 			"fillStyle": "hachure",
@@ -6814,14 +6814,14 @@ ce521c9ddfb1fbf114f3daf29be1e55ef146665e: [[Pasted Image 20240422042556_398.png]
 			"y": 1936.5097897384553,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 551,
-			"height": 19,
+			"width": 198.52164725337826,
+			"height": 89.7626996044352,
 			"seed": 47717,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713731335769,
+			"updated": 1713731427590,
 			"link": null,
 			"locked": false,
 			"status": "pending",
