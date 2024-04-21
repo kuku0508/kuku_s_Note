@@ -168,6 +168,8 @@ the observed data takes its greastest value
 
 1 ^YSMoesFF
 
+Given that Y=4 ^V0HACJRM
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -4806,6 +4808,42 @@ e06e08ec4855d7079c00b1e9818b19dbd7e8af53: $$\pi$$
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "V0HACJRM",
+			"type": "text",
+			"x": 747.1605799439849,
+			"y": 23.86276389531281,
+			"width": 152.17990112304688,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 872423937,
+			"version": 29,
+			"versionNonce": 1549123087,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713725504360,
+			"link": null,
+			"locked": false,
+			"text": "Given that Y=4",
+			"rawText": "Given that Y=4",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Given that Y=4",
 			"lineHeight": 1.25
 		},
 		{
