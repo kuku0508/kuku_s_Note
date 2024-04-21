@@ -147,6 +147,8 @@ Possion Distribution ^17s1LyPT
 The probability of the observed data,
 expressed as a function of the parameter ^CJmVRioB
 
+表達成 ^6MLbzbBf
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
@@ -3994,6 +3996,42 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "6MLbzbBf",
+			"type": "text",
+			"x": 726.4378696409565,
+			"y": -462.81193558602286,
+			"width": 77.83727925977246,
+			"height": 32.43219969157185,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 310494095,
+			"version": 47,
+			"versionNonce": 1351063201,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713685261734,
+			"link": null,
+			"locked": false,
+			"text": "表達成",
+			"rawText": "表達成",
+			"fontSize": 25.945759753257494,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "表達成",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "CiANLPnHJhzyUZOqlrjcj",
