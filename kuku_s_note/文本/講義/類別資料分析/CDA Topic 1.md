@@ -225,6 +225,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 8a998f2a36c3ec549ec5a1e8d40e187011c01d45: $$SE(\hat{\pi})=\sqrt{Var(\hat{\pi})}=\sqrt{\frac{\pi(1-\pi)}{n}}$$
 d14543766d5841d9e311a7415fa2cc15fa77713c: $$Var(\hat{\pi})$$
 b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$$
+56bd3a2aa76aacb48bf865d24a41dab28e5555f0: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$$
 
 %%
 # Drawing
@@ -5797,8 +5798,8 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 		},
 		{
 			"type": "image",
-			"version": 515,
-			"versionNonce": 1006757647,
+			"version": 604,
+			"versionNonce": 188693889,
 			"isDeleted": false,
 			"id": "hTlIEfxsjogL0RpLTNClM",
 			"fillStyle": "hachure",
@@ -5808,7 +5809,7 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 			"opacity": 100,
 			"angle": 0,
 			"x": 906.3356751538953,
-			"y": 602.6633984013761,
+			"y": 691.6633984013761,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 402.03224780318425,
@@ -5818,7 +5819,7 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713727424569,
+			"updated": 1713727509554,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -5863,8 +5864,8 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 		},
 		{
 			"type": "image",
-			"version": 218,
-			"versionNonce": 1926726543,
+			"version": 280,
+			"versionNonce": 79905199,
 			"isDeleted": false,
 			"id": "q6ciFPbDX0EgXziDTfbDV",
 			"fillStyle": "hachure",
@@ -5873,22 +5874,55 @@ b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f: $$=Var(\hat{\pi})=\frac{1}{n^2}Var(Y)$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 906.2498554144612,
+			"x": 909.3267784144612,
 			"y": 489.26675327824665,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 277.9230769230772,
-			"height": 95.67843631778068,
+			"width": 284.0769230769236,
+			"height": 69.57503152585129,
 			"seed": 836867183,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713727493853,
+			"updated": 1713727501237,
 			"link": null,
 			"locked": false,
 			"status": "pending",
 			"fileId": "b57f7acfe6cef2abfb70ba228a7cf0eb1127d81f",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 504,
+			"versionNonce": 927030223,
+			"isDeleted": false,
+			"id": "PEgBsafvWivC8diLPu3RB",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 908.9711766452306,
+			"y": 577.2667536742115,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 284.0769230769236,
+			"height": 69.57503152585129,
+			"seed": 2065469761,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1713727537951,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "56bd3a2aa76aacb48bf865d24a41dab28e5555f0",
 			"scale": [
 				1,
 				1
