@@ -221,6 +221,7 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 450b91c2560715fbd59ee25a8780833c35a41f8e: $$f(\hat{\theta})$$
 2dc3002e29f4e8d83b0b608ea0da2bb37180a7d0: $$\hat{\theta}$$
 97c3d6ea2d53e2d94c0c19b8116a010702b5a87e: $$Sample \,distribution \, of \, the \, sample \, proportion\, \hat{\pi}$$
+36c04a7f243eb20b9bd7425ea9418ff62392c647: $$E(\hat{\pi})=E(\frac{Y}{n})=\frac{1}{n}E(Y)=\frac{1}{\cancel{n}}*\cancel{n}\pi=\pi$$
 
 %%
 # Drawing
@@ -5759,40 +5760,37 @@ acebe86dc92d9ec4439eada0c5ccd0f188186d2d: $$n \rightarrow \infty$$
 			]
 		},
 		{
-			"id": "g21aIk7j",
-			"type": "text",
-			"x": 903.0414353886297,
-			"y": 343.4413129525992,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "dashed",
+			"type": "image",
+			"version": 1,
+			"versionNonce": 309691836,
+			"isDeleted": false,
+			"id": "U151DN4P",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 726.1015141966124,
+			"y": 333.3017858004953,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 358,
+			"height": 45,
+			"seed": 39353,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1281792207,
-			"version": 2,
-			"versionNonce": 329040769,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1713727055851,
+			"boundElements": [],
+			"updated": 1713727182598,
 			"link": null,
 			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.25
+			"status": "pending",
+			"fileId": "36c04a7f243eb20b9bd7425ea9418ff62392c647",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
