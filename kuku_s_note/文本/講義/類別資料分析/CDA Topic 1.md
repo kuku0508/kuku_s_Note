@@ -126,7 +126,7 @@ Multinomial distribution ^8zJtMBEy
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=\frac{n!}{y!(n-y)!} \pi^y (1-\pi)^{n-y}$$
 fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial(n,\pi_1,\pi_2,\ldots,\pi_{C-1})$$
-968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y_1,y_2,\ldots,y_c)=\frac{n!}{y_1!y_2!\ldots y_c!} \pi_1^{y_1} (1-\pi)^{n-y}$$
+968fbd68ae9bad1dad3a92c42c00f9f3ef6c54c9: $$P(y_1,y_2,\ldots,y_c)=\frac{n!}{y_1!y_2!\ldots y_c!} \pi_1^{y_1}\pi_2^{y_2}\ldots\pi_c^{y_c}$$
 
 %%
 # Drawing
@@ -2655,8 +2655,8 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 		},
 		{
 			"type": "image",
-			"version": 918,
-			"versionNonce": 396779937,
+			"version": 989,
+			"versionNonce": 1556603905,
 			"isDeleted": false,
 			"id": "pTdbOMPePJYD62tbRY23H",
 			"fillStyle": "hachure",
@@ -2665,18 +2665,18 @@ fd44c5ae18190c3ba712f432d5510380aa44fc76: $$(n_1,n_2,\ldots,n_c)\sim Multinomial
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -213.66961457914982,
+			"x": -220.71964157914982,
 			"y": 1482.3476025774216,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 551.7436797871137,
+			"width": 638.298914129532,
 			"height": 76.70061271477783,
 			"seed": 64951873,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713680050467,
+			"updated": 1713680126758,
 			"link": null,
 			"locked": false,
 			"status": "pending",
