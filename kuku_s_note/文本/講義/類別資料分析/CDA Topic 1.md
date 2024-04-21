@@ -116,7 +116,7 @@ GLM ^adWf5r9a
 CDA裡面會遇到的機率分配
 1.Binomial distribution
 2.Multinomial distribution
-3.Special cases ^1QgJRoyn
+3.Special cases：Poisson distribution for count data ^1QgJRoyn
 
 %%
 # Drawing
@@ -2475,10 +2475,10 @@ CDA裡面會遇到的機率分配
 		{
 			"id": "1QgJRoyn",
 			"type": "text",
-			"x": -205.2152826693238,
-			"y": 901.5035014079835,
-			"width": 241.9197540283203,
-			"height": 100,
+			"x": -216.8976296693238,
+			"y": 892.8507534079836,
+			"width": 711.6876213073728,
+			"height": 136.24999999999991,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -2491,21 +2491,21 @@ CDA裡面會遇到的機率分配
 			"frameId": null,
 			"roundness": null,
 			"seed": 1110135777,
-			"version": 148,
-			"versionNonce": 1192520897,
+			"version": 259,
+			"versionNonce": 733520399,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713679134602,
+			"updated": 1713679167391,
 			"link": null,
 			"locked": false,
-			"text": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
-			"rawText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
-			"fontSize": 20,
+			"text": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases：Poisson distribution for count data",
+			"rawText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases：Poisson distribution for count data",
+			"fontSize": 27.249999999999993,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases",
+			"originalText": "CDA裡面會遇到的機率分配\n1.Binomial distribution\n2.Multinomial distribution\n3.Special cases：Poisson distribution for count data",
 			"lineHeight": 1.25
 		},
 		{
@@ -17717,7 +17717,7 @@ CDA裡面會遇到的機率分配
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 403.34028266932376,
-		"scrollY": -268.8472514079837,
+		"scrollY": -393.84725140798366,
 		"zoom": {
 			"value": 0.8000000000000003
 		},
