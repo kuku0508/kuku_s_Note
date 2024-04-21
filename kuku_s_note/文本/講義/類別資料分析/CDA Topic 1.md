@@ -118,9 +118,11 @@ CDA裡面會遇到的機率分配
 2.Multinomial distribution
 3.Special cases：Poisson distribution for count data ^1QgJRoyn
 
+Binomial distribution ^DHTxbuF5
+
 # Embedded files
 aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
-10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=C^n_k \pi^y (1-\pi)^{n-y}$$
+10a2325614e0e1bc90e410d4783870c5fe8e27dc: $$P(y)=C^n_y \pi^y (1-\pi)^{n-y}$$
 
 %%
 # Drawing
@@ -2514,8 +2516,8 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 		},
 		{
 			"type": "image",
-			"version": 71,
-			"versionNonce": 2035429519,
+			"version": 127,
+			"versionNonce": 1284886703,
 			"isDeleted": false,
 			"id": "bfMsj8aM",
 			"fillStyle": "hachure",
@@ -2525,7 +2527,7 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 			"opacity": 100,
 			"angle": 0,
 			"x": -220.71964166932386,
-			"y": 1068.0967574079837,
+			"y": 1124.0967574079837,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 216.67500000000032,
@@ -2535,7 +2537,7 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679398585,
+			"updated": 1713679598671,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2547,8 +2549,8 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 		},
 		{
 			"type": "image",
-			"version": 268,
-			"versionNonce": 1874285583,
+			"version": 501,
+			"versionNonce": 1242948303,
 			"isDeleted": false,
 			"id": "yQBjcBsd",
 			"fillStyle": "hachure",
@@ -2557,18 +2559,18 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -191.0277826693241,
-			"y": 1171.1892507039918,
+			"x": -232.49999979911354,
+			"y": 1219.3410485742024,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 460.78733183406393,
-			"height": 53.51253346598276,
+			"width": 306.7483554619637,
+			"height": 35.623552348884324,
 			"seed": 25501,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713679553196,
+			"updated": 1713679598671,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -2577,6 +2579,42 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 				1,
 				1
 			]
+		},
+		{
+			"id": "DHTxbuF5",
+			"type": "text",
+			"x": -222.97323134352766,
+			"y": 1068.071123939235,
+			"width": 329.7581393371087,
+			"height": 42.6044544425256,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 839432975,
+			"version": 36,
+			"versionNonce": 69108961,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713679615906,
+			"link": null,
+			"locked": false,
+			"text": "Binomial distribution",
+			"rawText": "Binomial distribution",
+			"fontSize": 34.08356355402048,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Binomial distribution",
+			"lineHeight": 1.25
 		},
 		{
 			"id": "iVaKWxks",
@@ -2630,10 +2668,10 @@ aed8e05b3b3622f40611c680fecd26fe2f9c6530: $$Y\sim B(n,\pi)$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.2909995717006,
-		"scrollY": -510.17268177807205,
+		"scrollX": 389.482029612417,
+		"scrollY": -40.96123505812331,
 		"zoom": {
-			"value": 0.8816456618509297
+			"value": 0.6816456618509296
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
