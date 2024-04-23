@@ -11,9 +11,12 @@
             "id": "296e2b2cdf38d644",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "附件/Normal Distribution 68 95 99.7.png"
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件/Normal Distribution 68 95 99.7.png",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "附件/Normal Distribution 68 95 99.7.png",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "附件/Normal Distribution 68 95 99.7.png"
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md"
               }
             }
           },
@@ -165,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "附件/Normal Distribution 68 95 99.7.png",
+                "file": "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -221,12 +224,12 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "296e2b2cdf38d644",
   "lastOpenFiles": [
-    "附件/Pasted Image 20240422042556_398.png",
+    "文本/附件/圖/Normal Distribution 68 95 99.7.png",
+    "暫存/Pasted Image 20240422042556_398.png",
     "文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/講義/類別資料分析/CDA Topic 1.md",
-    "附件/Normal Distribution 68 95 99.7.png",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/樣本統計量.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/平均數.md",
@@ -235,7 +238,7 @@
     "知識/統計/統計學/基礎知識/變數.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號｛｝.md",
     "知識/程式語言/Latex/基礎知識/語法表/大括號與行標.md",
-    "附件",
+    "暫存",
     "知識/程式語言/Latex/基礎知識/語法表/其他符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/集合符號.md",
     "知識/程式語言/Latex/基礎知識/語法表/關係符號.md",
