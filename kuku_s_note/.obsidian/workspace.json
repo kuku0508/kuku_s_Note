@@ -24,10 +24,8 @@
             "id": "1b53cf9687e985aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -97,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +111,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,7 +173,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -236,6 +229,7 @@
   },
   "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/類別資料分析/無序.md",
     "知識/統計/存活分析",
     "知識/統計/類別資料分析/有序.md",
@@ -263,7 +257,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/內四分位距.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/四分位數.md",
     "知識/統計/統計學/基礎知識/離群值.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/加權平均數.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
