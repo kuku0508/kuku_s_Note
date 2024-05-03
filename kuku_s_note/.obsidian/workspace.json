@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
+                "file": "知識/統計/統計學/統計學目錄.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
+                "file": "知識/統計/統計學/統計學目錄.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -263,19 +263,20 @@
           }
         ],
         "direction": "vertical",
-        "x": 768,
-        "y": 296,
-        "width": 1024,
-        "height": 800,
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1392,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b3df7d3cff629d0e",
+  "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
-    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
+    "知識/統計/存活分析/存活分析目錄.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "知識/統計/統計學/圖表/圖/相對次數直方圖.md",
     "知識/統計/類別資料分析/無序.md",
     "知識/統計/存活分析",
     "知識/統計/類別資料分析/有序.md",
@@ -301,7 +302,6 @@
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/全距.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/標準差.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/內四分位距.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/四分位數.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
