@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "path:文本/講義/存活分析  ",
+      "query": "path:知識/統計/存活分析  ",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -53,6 +53,6 @@
   "repelStrength": 11.875,
   "linkStrength": 1,
   "linkDistance": 94,
-  "scale": 0.321336386050454,
+  "scale": 0.6316046762909387,
   "close": true
 }
