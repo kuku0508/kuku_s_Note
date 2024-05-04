@@ -1,0 +1,1 @@
+型II設限(Type II censoring)，
