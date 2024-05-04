@@ -1,0 +1,1 @@
+型I設限(Type I censoring)，
