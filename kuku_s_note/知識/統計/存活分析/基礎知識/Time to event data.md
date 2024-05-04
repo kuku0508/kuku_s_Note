@@ -1,1 +1,1 @@
-Time to event data ，是一種資料類型，指的是
+Time to event data (事件時間資料)，是一種資料類型，指的是從開始觀察到趕ㄒ
