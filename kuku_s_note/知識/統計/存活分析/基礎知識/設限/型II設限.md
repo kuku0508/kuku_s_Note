@@ -1,1 +1,1 @@
-型II設限(Type II censoring)，
+型II設限(Type II censoring)，是一種設限方式，當今天發生了N次設限的時候，我們就將其餘還沒有發生事件的數據
