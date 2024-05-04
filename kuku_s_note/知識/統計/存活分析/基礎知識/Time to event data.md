@@ -14,6 +14,8 @@ Time to event data (事件時間資料)，是一種資料類型，指的是從�
 2. 換心後的病人可存活多長：
 	Event：Death
 	Time：從換心到死亡的時間
-3. 研究一群沒有心臟病力的人
+3. 研究一群沒有心臟病歷的人(disease-free corhort)經過多少年才會患有心臟疾病。
+	Event：Heart disease
+	1. 
 - - -
 - parent::[[存活分析目錄]],[[資料]],[[設限]]
