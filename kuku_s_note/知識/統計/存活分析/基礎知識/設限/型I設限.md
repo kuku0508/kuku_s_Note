@@ -1,1 +1,1 @@
-型I設限(Type I censoring)，
+型I設限(Type I censoring)，是指一種設限方式，
