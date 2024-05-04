@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/截斷.md",
+                "file": "知識/統計/存活分析/右截斷.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/截斷.md",
+                "file": "知識/統計/存活分析/右截斷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/截斷.md",
+                "file": "知識/統計/存活分析/右截斷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/截斷.md"
+                "file": "知識/統計/存活分析/右截斷.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/截斷.md",
+                "file": "知識/統計/存活分析/右截斷.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,9 +275,10 @@
   },
   "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
+    "知識/統計/存活分析/截斷.md",
+    "知識/統計/存活分析/右截斷.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/截斷.md",
     "知識/統計/存活分析/基礎知識/設限/型II設限.md",
     "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
     "知識/統計/存活分析/基礎知識/設限/區間設限.md",
@@ -308,7 +309,6 @@
     "知識/統計/統計學/基礎知識/樣本統計量.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/散佈圖 相關性說明.md",
     "文本/附件/圖/散佈圖 相關性說明.png",
-    "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
