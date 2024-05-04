@@ -5,4 +5,3 @@
 ![[Type II censoring example.png]]
 - - -
 parent::[[設限]],[[存活分析目錄]],[[Time to event data]],[[右設限]]
-sibling::[[左設限]],[[區間設限]]
