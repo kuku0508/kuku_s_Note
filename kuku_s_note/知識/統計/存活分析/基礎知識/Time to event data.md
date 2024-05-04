@@ -3,5 +3,5 @@ Time to event data (事件時間資料)，是一種資料類型，指的是從�
 # 主要概念：
 在time to event data 裡面有幾個概念是我們想要關注的。
 1. 事件時間：從開始觀察到發生事件的時間。
-2. 設限(Censoring)：設限數據是指在研究ㄐㄧ
+2. 設限(Censoring)：設限是指在研究結束時，事件尚未發生的情況。一般有右設限、左設限跟區間設限。
 ![[time to event data.png]]
