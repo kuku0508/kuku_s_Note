@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型II設限.md"
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+                "file": "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,17 +274,18 @@
   },
   "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
+    "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
+    "文本/問題/時間數列 第二次作業.md",
+    "知識/統計/存活分析/基礎知識/設限/型II設限.md",
     "知識/統計/存活分析/基礎知識/設限/隨機設限.md",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
-    "知識/統計/存活分析/基礎知識/設限/型II設限.md",
     "知識/統計/存活分析/存活分析目錄.md",
-    "知識/統計/存活分析/基礎知識/Time to event data.md",
     "知識/統計/存活分析/基礎知識/設限/型I設限.md",
-    "Type II censoring example.png",
+    "文本/附件/圖/Type II censoring example.png",
     "知識/統計/存活分析/基礎知識/設限/區間設限.md",
     "知識/統計/存活分析/基礎知識/設限/右設限.md",
     "知識/統計/存活分析/基礎知識/設限/左設限.md",
-    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/圖/右、區間、隨機、左設限.png",
     "知識/統計/統計知識總目錄.md",
     "文本/附件/圖/time to event data.png",
@@ -307,7 +308,6 @@
     "文本/附件/圖/散佈圖 相關性說明.png",
     "知識/程式語言/Latex/基礎知識/語法表/begin...end.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/離均差.md",
-    "知識/程式語言/Latex/基礎知識/語法表/希臘字母.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
