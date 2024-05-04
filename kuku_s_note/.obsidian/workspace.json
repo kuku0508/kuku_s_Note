@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/設限.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md"
+                "file": "知識/統計/存活分析/基礎知識/設限.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/Time to event data.md",
+                "file": "知識/統計/存活分析/基礎知識/設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,8 +274,10 @@
   },
   "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
-    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/Time to event data.md",
+    "知識/統計/存活分析/基礎知識/設限.md",
+    "知識/統計/統計學/圖表/表/次數分配表.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/圖/time to event data.png",
     "知識/統計/存活分析/存活分析目錄.md",
     "知識/統計/存活分析/基礎知識",
@@ -302,7 +304,6 @@
     "知識/統計/統計學/基礎知識/資料.md",
     "知識/統計/統計學/基礎知識/海量資料.md",
     "知識/統計/統計學/基礎知識/樣本.md",
-    "知識/統計/統計學/基礎知識/描述統計.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
