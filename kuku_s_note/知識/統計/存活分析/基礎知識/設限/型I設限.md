@@ -1,1 +1,1 @@
-型I設限(Type I censoring)，是指一種設限方式，
+型I設限(Type I censoring)，是指一種設限方式，這種設限方式將一個指定時間視為設限時間，
