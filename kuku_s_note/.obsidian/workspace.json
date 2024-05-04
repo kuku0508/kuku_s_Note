@@ -24,9 +24,12 @@
             "id": "1b53cf9687e985aa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "右、.png"
+                "file": "知識/統計/存活分析/基礎知識/設限/右設限.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "右、.png",
+                "file": "知識/統計/存活分析/基礎知識/設限/右設限.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "右、.png",
+                "file": "知識/統計/存活分析/基礎知識/設限/右設限.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "右、.png"
+                "file": "知識/統計/存活分析/基礎知識/設限/右設限.md"
               }
             }
           },
@@ -179,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "右、.png",
+                "file": "知識/統計/存活分析/基礎知識/設限/右設限.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,13 +272,13 @@
       }
     ]
   },
-  "active": "418f87f864239790",
+  "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
-    "知識/統計/統計知識總目錄.md",
-    "右、.png",
-    "文本/附件/圖/time to event data.png",
     "知識/統計/存活分析/基礎知識/設限/設限.md",
     "知識/統計/存活分析/基礎知識/設限/右設限.md",
+    "文本/附件/圖/右、區間、隨機、左設限.png",
+    "知識/統計/統計知識總目錄.md",
+    "文本/附件/圖/time to event data.png",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "文本/附件/圖/左、區間、右設限.png",
     "知識/統計/存活分析/基礎知識/設限",
@@ -303,7 +306,6 @@
     "知識/程式語言/Latex/基礎知識/語法表/尖括號〈〉.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異數.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/變異係數.md",
-    "知識/統計/統計學/基礎知識/資料.md",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
     "暫存/Pasted Image 20240422042556_398.png",
