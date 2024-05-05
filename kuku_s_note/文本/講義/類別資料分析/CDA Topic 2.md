@@ -14,12 +14,12 @@ tags: [excalidraw]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.6",
 	"elements": [
 		{
 			"type": "embeddable",
-			"version": 137,
-			"versionNonce": 1568658410,
+			"version": 138,
+			"versionNonce": 868730009,
 			"isDeleted": false,
 			"id": "Fc1xNSJ7PDDVRqM5lOeem",
 			"fillStyle": "solid",
@@ -28,7 +28,7 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -430.75,
+			"x": -429.75,
 			"y": -594.4375,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -41,7 +41,7 @@ tags: [excalidraw]
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1711178804493,
+			"updated": 1714902629457,
 			"link": "https://drive.google.com/file/d/1RxGgiXz8U5CpuZra3OL_1ep1CPsKMT7f/view?usp=drive_link",
 			"locked": false,
 			"scale": [
@@ -65,7 +65,7 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 471,
+		"scrollX": 472,
 		"scrollY": 644,
 		"zoom": {
 			"value": 1
@@ -83,7 +83,8 @@ tags: [excalidraw]
 			"clip": true,
 			"name": true,
 			"outline": true
-		}
+		},
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }
