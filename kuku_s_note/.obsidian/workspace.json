@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+                "file": "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型I設限.md"
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+                "file": "文本/講義/存活分析/Survival Analysis topic 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,15 +273,15 @@
       }
     ]
   },
-  "active": "1b53cf9687e985aa",
+  "active": "b3df7d3cff629d0e",
   "lastOpenFiles": [
-    "知識/統計/存活分析/基礎知識/設限/型II設限.md",
-    "知識/統計/存活分析/基礎知識/設限/區間設限.md",
-    "知識/統計/存活分析/基礎知識/設限/型I設限.md",
-    "知識/統計/存活分析/基礎知識/設限/左設限.md",
-    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
+    "知識/統計/存活分析/基礎知識/設限/型I設限.md",
+    "知識/統計/存活分析/基礎知識/設限/型II設限.md",
+    "知識/統計/存活分析/基礎知識/設限/區間設限.md",
+    "知識/統計/存活分析/基礎知識/設限/左設限.md",
+    "文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/截斷/左截斷.md",
     "知識/統計/存活分析/基礎知識/截斷/右截斷.md",
     "知識/統計/存活分析/基礎知識/截斷",
