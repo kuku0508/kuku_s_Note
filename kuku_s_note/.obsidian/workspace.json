@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -218,6 +219,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:開啟快速切換": false,
       "graph:查看關聯圖": false,
       "canvas:建立新畫布": false,
@@ -231,8 +233,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "breadcrumbs:Breadcrumbs Visualisation": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian42-text-transporter:Text Transporter": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-text-transporter:Text Transporter": false
     }
   },
   "active": "1b53cf9687e985aa",
