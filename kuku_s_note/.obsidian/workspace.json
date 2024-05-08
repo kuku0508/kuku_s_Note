@@ -84,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5
+    "width": 301.5,
+    "collapsed": true
   },
   "right": {
     "id": "1e2f35858b280e10",
@@ -238,11 +239,46 @@
       "templater-obsidian:Templater": false
     }
   },
+  "floating": {
+    "id": "372e86a17c55a459",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a0d6c75ee388cd25",
+        "type": "window",
+        "children": [
+          {
+            "id": "ed263504666048f3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ed3ee39b478fe11",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "文本/附件/文本/惡性黑色素瘤 資料集說明.png"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
     "文本/附件/文本/惡性黑色素瘤 資料集說明.png",
-    "文本/附件/文本",
     "文本/附件/報告/研究背景.md",
+    "文本/附件/文本",
     "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
     "文本/講義/類別資料分析/CDA Topic 2.md",
     "文本/附件/報告",
