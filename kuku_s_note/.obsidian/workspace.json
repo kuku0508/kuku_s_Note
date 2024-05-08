@@ -24,9 +24,12 @@
             "id": "1b53cf9687e985aa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "文本/附件/報告/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -97,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/附件/報告/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/附件/報告/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md"
+                "file": "文本/附件/報告/未命名.md"
               }
             }
           },
@@ -179,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/講義/類別資料分析/CDA Topic 2.md",
+                "file": "文本/附件/報告/未命名.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,8 +238,12 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "1b53cf9687e985aa",
+  "active": "418f87f864239790",
   "lastOpenFiles": [
+    "文本/附件/報告/惡性黑色瘤",
+    "文本/講義/類別資料分析/CDA Topic 2.md",
+    "文本/附件/報告/未命名.md",
+    "文本/附件/報告",
     "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
     "知識/統計/存活分析/基礎知識/截斷/截斷.md",
@@ -268,9 +275,6 @@
     "知識/統計/類別資料分析/有序.md",
     "知識/統計/統計學/基礎知識/統計學.md",
     "知識/統計/統計學/基礎知識/母體參數／樣本統計量/共變異數.md",
-    "知識/統計/統計學/基礎知識/母體參數／樣本統計量/相關係數.md",
-    "知識/統計/統計學/基礎知識/推論統計.md",
-    "知識/統計/統計學/基礎知識/母體參數.md",
     "文本/附件/圖/散佈圖 相關性說明.png",
     "文本/附件/圖/離群值判斷方式　箱型圖說明.png",
     "文本/附件/圖/Normal Distribution 68 95 99.7.png",
@@ -280,7 +284,6 @@
     "資料視覺化 1.pptx",
     "資料視覺化.pptx",
     "文本/資料視覺化.pptx",
-    "文本/講義/時間數列/空白筆記",
     "文本/問題/未命名.canvas",
     "文本/附件/圖/散佈圖 預測與實際變數.png",
     "文本/附件/圖/時間序列圖範例 每年飛機乘客數.png"
