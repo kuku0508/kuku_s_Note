@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "文本/附件/報告/未命名.md",
+                "file": "文本/附件/報告/研究背景.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文本/附件/報告/未命名.md",
+                "file": "文本/附件/報告/研究背景.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文本/附件/報告/未命名.md",
+                "file": "文本/附件/報告/研究背景.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "文本/附件/報告/未命名.md"
+                "file": "文本/附件/報告/研究背景.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "文本/附件/報告/未命名.md",
+                "file": "文本/附件/報告/研究背景.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,11 +238,12 @@
       "obsidian42-text-transporter:Text Transporter": false
     }
   },
-  "active": "418f87f864239790",
+  "active": "1b53cf9687e985aa",
   "lastOpenFiles": [
+    "Pasted image 20240508135729.png",
     "文本/附件/報告/112-2 存活分析｜惡性黑色素瘤",
     "文本/講義/類別資料分析/CDA Topic 2.md",
-    "文本/附件/報告/未命名.md",
+    "文本/附件/報告/研究背景.md",
     "文本/附件/報告",
     "知識/統計/存活分析/基礎知識/截斷/雙邊截斷.md",
     "文本/講義/存活分析/Survival Analysis topic 1.md",
@@ -283,7 +284,6 @@
     "未命名/資料視覺化.pptx",
     "資料視覺化 1.pptx",
     "資料視覺化.pptx",
-    "文本/資料視覺化.pptx",
     "文本/問題/未命名.canvas",
     "文本/附件/圖/散佈圖 預測與實際變數.png",
     "文本/附件/圖/時間序列圖範例 每年飛機乘客數.png"
